@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_010>
+  <Traduzioni>
+    <PRJ>PIANO</PRJ>
+    <Italiano>PIANO</Italiano>
+    <Inglese>SURFACE</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLÄCHE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>PLOCHA</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DESCRIZIONE PIANO ATTIVO</PRJ>
+    <Italiano>DESCRIZIONE PIANO ATTIVO</Italiano>
+    <Inglese>DESCRIPTION OF ACTIVE SURFACE</Inglese>
+    <Francese>DESCRIPTION PLAN ACTIF </Francese>
+    <Tedesco>BESCHREIBUNG AKTIVER FLÄCHE</Tedesco>
+    <Spagnolo>DESCRIPCIÓN PLANO ACTIVO</Spagnolo>
+    <Svedese>PROGRAMMA ATTIVO</Svedese>
+    <Sloveno>PROGRAMMA ATTIVO</Sloveno>
+    <Portoghese>PROGRAMMA ATTIVO</Portoghese>
+    <Lingua09>POPIS AKTIVNÍ PLOCHY</Lingua09>
+    <Lingua10>PROGRAMMA ATTIVO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI DIVISORE</PRJ>
+    <Italiano>DATI DIVISORE</Italiano>
+    <Inglese>DIVIDING HEAD DATA</Inglese>
+    <Francese>DONNEES DIVISEUR  </Francese>
+    <Tedesco>TEILAPPARAT-DATEN</Tedesco>
+    <Spagnolo>DATOS DE DIVISOR</Spagnolo>
+    <Svedese>DATI DIVISORE</Svedese>
+    <Sloveno>DATI DIVISORE</Sloveno>
+    <Portoghese>DATI DIVISORE</Portoghese>
+    <Lingua09>ÚDAJE DĚLITELE</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>POSIZIONE DIVISORE</PRJ>
+    <Italiano>POSIZIONE ATTUALE ASSE B </Italiano>
+    <Inglese>POSITION DIVIDING ASSE B</Inglese>
+    <Francese>POSITION ACTUELLE AXE B </Francese>
+    <Tedesco>TEILAPPARAT-POSITION</Tedesco>
+    <Spagnolo>POSICIòN DISP. DIVISOR</Spagnolo>
+    <Svedese>POSIZIONE DIVISORE</Svedese>
+    <Sloveno>POSIZIONE DIVISORE</Sloveno>
+    <Portoghese>POSIZIONE DIVISORE</Portoghese>
+    <Lingua09>POLOHA DĚLITELE</Lingua09>
+    <Lingua10>POSIZIONE DIVISORE</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>POSIZIONE DIVISORE IN LAVORO</PRJ>
+    <Italiano>POSIZIONE IN LAVORO ASSE B</Italiano>
+    <Inglese>DIVIDING HEAD POSITION DURING GRINDING AXE B</Inglese>
+    <Francese>POSITION EN TRAVAIL AXE B</Francese>
+    <Tedesco>TEILAPPARAT POSITION BEIM SCHLEIFEN</Tedesco>
+    <Spagnolo>POSICIòN DISP. DIVISOR EN TRABAJO</Spagnolo>
+    <Svedese>POSIZIONE DIVISORE IN LAVORO</Svedese>
+    <Sloveno>POSIZIONE DIVISORE IN LAVORO</Sloveno>
+    <Portoghese>POSIZIONE DIVISORE IN LAVORO</Portoghese>
+    <Lingua09>POLOHA DĚLITELE PŘI PRÁCI</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+ <Traduzioni>
+    <PRJ>POSIZIONE DIVISORE - ASSE A</PRJ>
+    <Italiano>POSIZIONE ATTUALE ASSE A</Italiano>
+    <Inglese>DIVIDING HEAD POSITION DURING GRINDING AXE A</Inglese>
+    <Francese>POSITION ACTUEL AXE A </Francese>
+    <Tedesco>TEILAPPARAT POSITION BEIM SCHLEIFEN</Tedesco>
+    <Spagnolo>POSICIòN DISP. DIVISOR EN TRABAJO</Spagnolo>
+    <Svedese>POSIZIONE DIVISORE IN LAVORO</Svedese>
+    <Sloveno>POSIZIONE DIVISORE IN LAVORO</Sloveno>
+    <Portoghese>POSIZIONE DIVISORE IN LAVORO</Portoghese>
+    <Lingua09>POLOHA DĚLITELE PŘI PRÁCI</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+ <Traduzioni>
+    <PRJ>POSIZIONE DIVISORE IN LAVORO - ASSE A</PRJ>
+    <Italiano>POSIZIONE IN LAVORO ASSE A</Italiano>
+    <Inglese>DIVIDING HEAD POSITION DURING GRINDING AXE A</Inglese>
+    <Francese>POSITION EN TRAVAIL AXE A</Francese>
+    <Tedesco>TEILAPPARAT POSITION BEIM SCHLEIFEN</Tedesco>
+    <Spagnolo>POSICIòN DISP. DIVISOR EN TRABAJO</Spagnolo>
+    <Svedese>POSIZIONE DIVISORE IN LAVORO</Svedese>
+    <Sloveno>POSIZIONE DIVISORE IN LAVORO</Sloveno>
+    <Portoghese>POSIZIONE DIVISORE IN LAVORO</Portoghese>
+    <Lingua09>POLOHA DĚLITELE PŘI PRÁCI</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>GIRAPEZZO PNEUMATICO</PRJ>
+    <Italiano>GIRAPEZZO PNEUMATICO</Italiano>
+    <Inglese>PNEUMATIC DIVIDING HEAD</Inglese>
+    <Francese>DIVISEUR PNEUMATICO</Francese>
+    <Tedesco>PNEUMATISCHER TEILAPPARAT</Tedesco>
+    <Spagnolo>DIVISOR PNEUMATICO</Spagnolo>
+    <Svedese>GIRAPEZZO PNEUMATICO</Svedese>
+    <Sloveno>GIRAPEZZO PNEUMATICO</Sloveno>
+    <Portoghese>GIRAPEZZO PNEUMATICO</Portoghese>
+    <Lingua09>PNEUMATICKÝ OTÁČEČ OBROBKŮ</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+</Pagina_010>

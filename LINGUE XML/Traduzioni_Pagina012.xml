@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_012>
+  <Traduzioni>
+    <PRJ>PROGRAMMA ATTIVO</PRJ>
+    <Italiano>PROGRAMMA ATTIVO</Italiano>
+    <Inglese>PROGRAM NAME</Inglese>
+    <Francese>PROGRAMME ATTIVE</Francese>
+    <Tedesco>PROGRAMM-AKTIVE</Tedesco>
+    <Spagnolo>PROGRAMA ATTIVO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PROGRAMMA AKTIVNAYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>GESTIONE PROGRAMMI</PRJ>
+    <Italiano>GESTIONE PROGRAMMI</Italiano>
+    <Inglese>PROGRAM MANAGEMENT</Inglese>
+    <Francese>GESTION DES PROGRAMMES </Francese>
+    <Tedesco>PROGRAMM-VERWALTUNG</Tedesco>
+    <Spagnolo>GESTIÓN PROGRAMAS
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>UPRAVLENIE PROGRAMMOJ</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PIANO</PRJ>
+    <Italiano>PIANO</Italiano>
+    <Inglese>PLAN</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLACKE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POVERHNOST</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Inserire il nome del programma</PRJ>
+    <Italiano>Inserire il nome del programma</Italiano>
+    <Inglese>ENTER THE PROGRAM NAME</Inglese>
+    <Francese>INTRODUIRE LE NOM DU PROGRAMME</Francese>
+    <Tedesco>PROGRAMM-NAMEN EINGEBEN</Tedesco>
+    <Spagnolo>INGRESAR NOMBRE DEL PROGRAMA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VVEDITE IMYa PROGRAMMY</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Non e possibile cancellare il programma attivo!</PRJ>
+    <Italiano>Non e' possibile cancellare il programma attivo! ITA</Italiano>
+    <Inglese>IT IS IMPOSSIBLE TO CANCEL THE ACTIVE PROGRAM</Inglese>
+    <Francese>IL N’EST PAS POSSIBLE D’EFFACER LE PROGRAMME ACTIF  </Francese>
+    <Tedesco>DAS AKTIVE PROGRAMM KANN NICHT GELÖSCHT WERDEN</Tedesco>
+    <Spagnolo>IMPOSIBLE CANCELAR PROGRAMA ACTIVO
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NEVOZMOZhNO OTMENIT AKTIVNUYu PROGRAMMU</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Confermi memorizzazione su file ?</PRJ>
+    <Italiano>Confermi memorizzazione su file ? </Italiano>
+    <Inglese>CONFIRM MEMORIZATION ON FILES?</Inglese>
+    <Francese>TU CONFIRMES LA MEMORISATION SUR FICHIERS ?</Francese>
+    <Tedesco>ABSPEICHERN AUF DATEIEN BESTÄTIGEN?</Tedesco>
+    <Spagnolo>CONFIRMAR MEMORIZACIÓN EN FICHERO
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PODTVERZhDAETE SOHRANENIE NA FAJLAH?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Lavorazione + Mola , Solo Lavorazione,Solo Dati ?</PRJ>
+    <Italiano>COPIA TOTALE / PARZIALE @@SI = LAVORAZIONE + MOLA@NO = SOLO LAVORAZIONE@Annulla = SOLO DATI</Italiano>
+    <Inglese>Yes GRINDING + WHEEL@No ONLY GRINDING@Cancel ONLY DATA</Inglese>
+    <Francese>Yes GRINDING + WHEEL@No ONLY GRINDING@Cancel ONLY DATA</Francese>
+    <Tedesco>Yes SCHLEIFEN + SCHEIBE@No NUR SCHLEIFEN@Cancel SOLO DATI </Tedesco>
+    <Spagnolo />
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Da ShLIFOVKA + KRUG @ Net TOLKO ShLIFOVANIE @ Otmena TOLKO DANNYE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>File esistente. Confermi sovrascrittura file ?</PRJ>
+    <Italiano>File esistente. Confermi sovrascrittura file ?</Italiano>
+    <Inglese>FILES EXISTING. CONFIRM FILES OVERWRITING?</Inglese>
+    <Francese>FICHIER EXISTANT. TU CONFIRMES LA SURECRITURE DES FICHIERS?
+</Francese>
+    <Tedesco>DATEIEN VORHANDEN. DATEIEN-ÜBERSCHREIBUNG BESTÄTIGEN?
+</Tedesco>
+    <Spagnolo>FICHERO EXISTENTE. CONFIRMAR SOBRESCRITURA FICHERO
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>FAJLY SUShESTVUYuT. PEREZAPISAT FAJLY?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Non e possibile sovrascrivere il programma attivo!</PRJ>
+    <Italiano>Non e' possibile sovrascrivere il programma attivo!</Italiano>
+    <Francese>IL N’EST PAS POSSIBLE DE SURECRIRE LE PROGRAMME ACTIF  
+</Francese>
+    <Inglese>IT IS IMPOSSIBLE TO OVERWRITE THE ACTIVE PROGRAM</Inglese>
+    <Tedesco>AKTIVES PROGRAMM KANN NICHT ÜBERSCHRIEBEN WERDEN</Tedesco>
+    <Spagnolo>IMPOSIBLE SOBRESCRIBIR PROGRAMA ACTIVO
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NEVOZMOZhNO PEREZAPISAT AKTIVNUYu PROGRAMMU</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Nessun programma selezionato su Drive C:</PRJ>
+    <Italiano>Nessun programma selezionato su Drive C:</Italiano>
+    <Inglese>NO PROGRAM SELECTED ON DRIVE C:</Inglese>
+    <Francese>AUCUN PROGRAMME SELECTIONNE SUR LECTEUR C: </Francese>
+    <Tedesco>KEIN PROGRAMM IM LAUFWERK C ANGEWÄHLT</Tedesco>
+    <Spagnolo>NINGÚN PROGRAMA SELECCIONADO EN UNIDAD C
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NA DISKE C NE VYBRANA PROGRAMMA:</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Non e possibile cancellare il programma attivo!</PRJ>
+    <Italiano>Non e' possibile cancellare il programma attivo!</Italiano>
+    <Inglese>IT IS IMPOSSIBLE TO CANCEL THE ACTIVE PROGRAM</Inglese>
+    <Francese>IL N’EST PAS POSSIBLE D’EFFACER LE PROGRAMME ACTIF   </Francese>
+    <Tedesco>AKTIVES PROGRAMM KANN NICHT GELÖSCHT WERDEN</Tedesco>
+    <Spagnolo>IMPOSIBLE CANCELAR PROGRAMA ACTIVO
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NEVOZMOZhNO OTMENIT AKTIVNUYu PROGRAMMU</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Drive USB non presente</PRJ>
+    <Italiano>Drive USB non presente</Italiano>
+    <Inglese>USB DRIVE NOT PRESENT</Inglese>
+    <Francese>LECTEUR USB NON PRESENT   </Francese>
+    <Tedesco>USB-LAUFWERK NICHT VORHANDEN</Tedesco>
+    <Spagnolo>UNIDAD USB AUSENTE
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NET USB-NAKOPITELYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Programma non esistente su Drive C:</PRJ>
+    <Italiano>Programma non esistente su Drive C:</Italiano>
+    <Inglese>PROGRAM NOT EXISTING ON DRIVE C:</Inglese>
+    <Francese>PROGRAMME NON EXISTANT SUR LECTEUR C:   </Francese>
+    <Tedesco>PROGRAMM IM LAUFWERK C NICHT VORHANDEN</Tedesco>
+    <Spagnolo>PROGRAMA INEXISTENTE EN UNIDAD C
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PROGRAMMA, NE SUShESTVUET NA DISKE C:</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Nessun programma selezionato su Drive USB</PRJ>
+    <Spagnolo>NINGÚN PROGRAMA SELECCIONADO EN UNIDAD USB
+</Spagnolo>
+    <Italiano>Nessun programma selezionato su Drive USB</Italiano>
+    <Inglese>NO PROGRAM SELECTED ON USB DRIVE</Inglese>
+    <Francese>AUCUN PROGRAMME SELECTIONNE SUR LECTEUR USB  </Francese>
+    <Tedesco>KEIN PROGRAMM IM USB-LAUFWERK ANGEWÄHLT</Tedesco>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NA USB-NOSITELE NE VYBRANA PROGRAMMA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Programma non esistente su Drive USB</PRJ>
+    <Italiano>Programma non esistente su Drive USB</Italiano>
+    <Inglese>PROGRAM NOT EXISTING ON USB DRIVE</Inglese>
+    <Francese>PROGRAMME NON EXISTANT SUR LECTEUR USB   </Francese>
+    <Tedesco>PROGRAMM IM USB-LAUFWERK NICHT VORHANDEN</Tedesco>
+    <Spagnolo>PROGRAMA INEXISTENTE EN UNIDAD USB</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PROGRAMMA NE SUShESTVUET NA USB-NAKOPITELE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CONFERMI CANCELLAZIONE FILE ?</PRJ>
+    <Italiano>CONFERMI LA CANCELLAZIONE DEL FILE ?</Italiano>
+    <Inglese>DO YOU CONFIRM FILE CANCELLING ?</Inglese>
+    <Francese>VALIDATION EFFACEMENT FICHIER ?</Francese>
+    <Tedesco>DATEI-LOESCHUNG BESTAETIGEN?</Tedesco>
+    <Spagnolo>CONVALIDACIÓN CANCELACIÓN FICHERO ?</Spagnolo>
+    <Svedese>CONFERMI LA CANCELLAZIONE DEL FILE ? </Svedese>
+    <Sloveno>ALI RES ®ELI© RAZVELJAVITI DOKUMENT ?</Sloveno>
+    <Portoghese>CONFIRMAR CANCELAMENTO DO FICEHRIO ?</Portoghese>
+    <Lingua09>VY PODTVERZhDAETE UDALENIE FAJLA?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>IL PROGRAMMA IN USO NON ARCHIVIATO. VUOI ARCHIVIARLO ORA ?</PRJ>
+    <Italiano>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Italiano>
+    <Inglese>THIS PROGRAM IS NOT ARCIVED. DO YOU WANT TO ARCIVE IT NOW?</Inglese>
+    <Francese>LE PROGRAMME EN COURS D'UTILISATION N'A PAS ETE ARCHIVE. @VOULEZ-VOUS L'ARCHIVER MAINTENANT ?</Francese>
+    <Tedesco>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Tedesco>
+    <Spagnolo>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Spagnolo>
+    <Svedese>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Svedese>
+    <Sloveno>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Sloveno>
+    <Portoghese>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Portoghese>
+    <Lingua09>PROGRAMMA, KOTORUYu VY ISPOLZUETE, NE POLE @ VY HOTITE ARHIVIROVAT SEJChAS?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Confermi attivazione file ?</PRJ>
+    <Italiano>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Italiano>
+    <Inglese>do you want to active this arcive?</Inglese>
+    <Francese>Confirmer l'activation du fichier?</Francese>
+    <Tedesco>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Tedesco>
+    <Spagnolo>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Spagnolo>
+    <Svedese>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Svedese>
+    <Sloveno>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Sloveno>
+    <Portoghese>IL PROGRAMMA IN USO NON ARCHIVIATO. @VUOI ARCHIVIARLO ORA ?</Portoghese>
+    <Lingua09>PROGRAMMA, KOTORUYu VY ISPOLZUETE, NE POLE @ VY HOTITE ARHIVIROVAT SEJChAS?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+</Pagina_012>

@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_009>
+  <Traduzioni>
+    <PRJ>PROGRAMMA ATTIVO</PRJ>
+    <Italiano>PROGRAMMA ATTIVO</Italiano>
+    <Inglese>PROGRAM ACTIVE</Inglese>
+    <Francese>PROGRAMME ACTIF</Francese>
+    <Tedesco>PROGRAMM AKTIV</Tedesco>
+    <Spagnolo>PROGRAMA ATTIVO</Spagnolo>
+    <Svedese>PROGRAMMA ATTIVO</Svedese>
+    <Sloveno>PROGRAMMA ATTIVO</Sloveno>
+    <Portoghese>PROGRAMMA ATTIVO</Portoghese>
+    <Lingua09>PROGRAMMA AKTIVNAYa</Lingua09>
+    <Lingua10>PROGRAMMA ATTIVO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PIANO</PRJ>
+    <Italiano>PIANO</Italiano>
+    <Inglese>SURFACE</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLÄCHE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese>PIANO</Svedese>
+    <Sloveno>PIANO</Sloveno>
+    <Portoghese>PIANO</Portoghese>
+    <Lingua09>POVERHNOST</Lingua09>
+    <Lingua10>PIANO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Confermi cancellazione lista piani?</PRJ>
+    <Italiano>Confermi cancellazione lista piani? </Italiano>
+    <Inglese>Confirm cancelling of surface list?</Inglese>
+    <Francese>Confirmer effacement liste des plans?</Francese>
+    <Tedesco>Löschung der Flächenliste bestätigen?</Tedesco>
+    <Spagnolo>Confirme cancelación lista planos?</Spagnolo>
+    <Svedese>Confermi cancellazione lista piani?</Svedese>
+    <Sloveno>Confermi cancellazione lista piani?</Sloveno>
+    <Portoghese>Confermi cancellazione lista piani?</Portoghese>
+    <Lingua09>Podtverdit otmenu spiska poverhnostej?</Lingua09>
+    <Lingua10>Confermi cancellazione lista piani?</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DESCRIZIONE PIANO ATTIVO</PRJ>
+    <Italiano>DESCRIZIONE PIANO ATTIVO</Italiano>
+    <Inglese>DESCRIPTION OF ACTIVE SURFACE</Inglese>
+    <Francese>DESCRIPTION PLAN ACTIF </Francese>
+    <Tedesco>BESCHREIBUNG AKTIVER FLÄCHE</Tedesco>
+    <Spagnolo>DESCRIPCIÓN PLANO ACTIVO</Spagnolo>
+    <Svedese>PROGRAMMA ATTIVO</Svedese>
+    <Sloveno>PROGRAMMA ATTIVO</Sloveno>
+    <Portoghese>PROGRAMMA ATTIVO</Portoghese>
+    <Lingua09>OPISANIE AKTIVNOJ POVERHNOSTI</Lingua09>
+    <Lingua10>PROGRAMMA ATTIVO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>GESTIONE MULTIPIANO</PRJ>
+    <Italiano>(9) GESTIONE MULTIPIANO</Italiano>
+    <Inglese>(9) MULTI-SURFACE MANAGEMENT</Inglese>
+    <Francese>(9) GESTION MULTIPLAN </Francese>
+    <Tedesco>(9) MEHRFLÄCHEN-VERWALTUNG</Tedesco>
+    <Spagnolo>(9) GESTIÓN MULTIPLANO</Spagnolo>
+    <Svedese>GESTIONE MULTIPIANO</Svedese>
+    <Sloveno>GESTIONE MULTIPIANO</Sloveno>
+    <Portoghese>GESTIONE MULTIPIANO</Portoghese>
+    <Lingua09>(9) MNOGOPOVERHNOSTNOE</Lingua09>
+    <Lingua10>GESTIONE MULTIPIANO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>NUMERO PIANO DA INSERIRE IN LISTA</PRJ>
+    <Italiano>NUMERO PIANO DA INSERIRE IN LISTA</Italiano>
+    <Inglese>SURFACE NUMBER TO BE ENTERED INTO SEQUENCE</Inglese>
+    <Francese>NUMÉRO PLAN À INTRODUIRE DANS LA SÉQUENCE</Francese>
+    <Tedesco>IN DEN ZYKLUS EINZUGEBENDE FLÄCHEN-Nr.</Tedesco>
+    <Spagnolo>NÚMERO PLANO A INTRODUCIR EN LA SECUENCIA</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>NOMER POVERHNOSTI DOLZhEN BYT V POSLEDOVATELNOSTI</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>NUMERO PIANI IN LISTA</PRJ>
+    <Italiano>NUMERO PIANI TOTALI</Italiano>
+    <Inglese>TOTAL SURFACES NUMBER</Inglese>
+    <Francese>NUMÉRO PLANS EN TOTAL</Francese>
+    <Tedesco>GESAMTZAHL DER FLÄCHEN</Tedesco>
+    <Spagnolo>NÚMERO PLANOS EN TOTAL</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>KOL-VO POVERHNOSTEJ</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FERMO LINEA</PRJ>
+    <Italiano>FERMO LINEA</Italiano>
+    <Inglese>LINE OFF</Inglese>
+    <Francese>ARRET LIGNE</Francese>
+    <Tedesco>STOPPEN DER ELEKTROVERSORGUNG</Tedesco>
+    <Spagnolo>OFF_LINEA</Spagnolo>
+    <Svedese>OFF_LINEA</Svedese>
+    <Sloveno>OFF_LINEA</Sloveno>
+    <Portoghese>OFF_LINEA</Portoghese>
+    <Lingua09>KONEC LINII</Lingua09>
+    <Lingua10>OFF_LINEA</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ATTIVA PAUSA PER FACCIATA PEZZO</PRJ>
+    <Italiano>ATTIVA PAUSA PER FACCIATA PEZZO</Italiano>
+    <Inglese>ENABLE PAUSE FOR TURN PIECE</Inglese>
+    <Francese>ACTIVE PAUSE POUR FACADE PIECE</Francese>
+    <Tedesco>PAUSE AKTIVIEREN WEGEN PLANFLÄCHE</Tedesco>
+    <Spagnolo>ACTIVA PAUSA PARA FACHADA DE PIEZA</Spagnolo>
+    <Svedese>PAUSE.......</Svedese>
+    <Sloveno>PAUSE.......</Sloveno>
+    <Portoghese>PAUSE.......</Portoghese>
+    <Lingua09>VKLYuChIT PAUZU DLYa POVOROTA DETALI</Lingua09>
+    <Lingua10>PAUSE.......</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>RIPARTENZA AUTOMATICA</PRJ>
+    <Italiano>RIPARTENZA AUTOMATICA</Italiano>
+    <Inglese>AUTOMATIC RESTART</Inglese>
+    <Francese>REDEMARRAGE AUTOMATIQUE</Francese>
+    <Tedesco>AUSGEHEN AUTOMATISCH</Tedesco>
+    <Spagnolo>ARRANQUE AUTOMÁTICO</Spagnolo>
+    <Svedese>RIPARTENZA AUTOMATICA</Svedese>
+    <Sloveno>RIPARTENZA AUTOMATICA</Sloveno>
+    <Portoghese>RIPARTENZA AUTOMATICA</Portoghese>
+    <Lingua09>AVTOMATIChESKIJ PEREZAPUSK</Lingua09>
+    <Lingua10>AUTOMATICKÝ RESTART</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Ripetiz01_Abilitazione</PRJ>
+    <Italiano>Abilitazione</Italiano>
+    <Inglese>Enable</Inglese>
+    <Francese>Ripetiz01_Abilitazione</Francese>
+    <Tedesco>Abilitazione</Tedesco>
+    <Spagnolo>Ripetiz01_Abilitazione</Spagnolo>
+    <Svedese>Ripetiz01_Abilitazione</Svedese>
+    <Sloveno>Ripetiz01_Abilitazione</Sloveno>
+    <Portoghese>Ripetiz01_Abilitazione</Portoghese>
+    <Lingua09>Ripetiz01_Abilitazione</Lingua09>
+    <Lingua10>Ripetiz01_Abilitazione</Lingua10>
+  </Traduzioni>
+
+  <Traduzioni>
+    <PRJ>Ripetiz02_Nr</PRJ>
+    <Italiano>Nr.Ripetizioni</Italiano>
+    <Inglese>Ripetiz02_Nr</Inglese>
+    <Francese>Ripetiz02_Nr</Francese>
+    <Tedesco>Ripetiz02_Nr</Tedesco>
+    <Spagnolo>Ripetiz02_Nr</Spagnolo>
+    <Svedese>Ripetiz02_Nr</Svedese>
+    <Sloveno>Ripetiz02_Nr</Sloveno>
+    <Portoghese>Ripetiz02_Nr</Portoghese>
+    <Lingua09>Ripetiz02_Nr</Lingua09>
+    <Lingua10>Ripetiz02_Nr</Lingua10>
+  </Traduzioni>
+
+  <Traduzioni>
+    <PRJ>Ripetiz03_PassoY</PRJ>
+    <Italiano>Passo Y</Italiano>
+    <Inglese>Ripetiz03_PassoY</Inglese>
+    <Francese>Ripetiz03_PassoY</Francese>
+    <Tedesco>Ripetiz03_PassoY</Tedesco>
+    <Spagnolo>Ripetiz03_PassoY</Spagnolo>
+    <Svedese>Ripetiz03_PassoY</Svedese>
+    <Sloveno>Ripetiz03_PassoY</Sloveno>
+    <Portoghese>Ripetiz03_PassoY</Portoghese>
+    <Lingua09>Ripetiz03_PassoY</Lingua09>
+    <Lingua10>Ripetiz03_PassoY</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Ripetiz04_QuotaXm</PRJ>
+    <Italiano>Quota X-</Italiano>
+    <Inglese>Ripetiz04_QuotaXm</Inglese>
+    <Francese>Ripetiz04_QuotaXm</Francese>
+    <Tedesco>Ripetiz04_QuotaXm</Tedesco>
+    <Spagnolo>Ripetiz04_QuotaXm</Spagnolo>
+    <Svedese>Ripetiz04_QuotaXm</Svedese>
+    <Sloveno>Ripetiz04_QuotaXm</Sloveno>
+    <Portoghese>Ripetiz04_QuotaXm</Portoghese>
+    <Lingua09>Ripetiz04_QuotaXm</Lingua09>
+    <Lingua10>Ripetiz04_QuotaXm</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Ripetiz05_QuotaXp</PRJ>
+    <Italiano>Quota X+</Italiano>
+    <Inglese>Ripetiz05_QuotaXp</Inglese>
+    <Francese>Ripetiz05_QuotaXp</Francese>
+    <Tedesco>Ripetiz05_QuotaXp</Tedesco>
+    <Spagnolo>Ripetiz05_QuotaXp</Spagnolo>
+    <Svedese>Ripetiz05_QuotaXp</Svedese>
+    <Sloveno>Ripetiz05_QuotaXp</Sloveno>
+    <Portoghese>Ripetiz05_QuotaXp</Portoghese>
+    <Lingua09>Ripetiz05_QuotaXp</Lingua09>
+    <Lingua10>Ripetiz05_QuotaXp</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Ripetiz06_FaseLav</PRJ>
+    <Italiano>Fase Lavoro</Italiano>
+    <Inglese>Ripetiz06_FaseLav</Inglese>
+    <Francese>Ripetiz06_FaseLav</Francese>
+    <Tedesco>Ripetiz06_FaseLav</Tedesco>
+    <Spagnolo>Ripetiz06_FaseLav</Spagnolo>
+    <Svedese>Ripetiz06_FaseLav</Svedese>
+    <Sloveno>Ripetiz06_FaseLav</Sloveno>
+    <Portoghese>Ripetiz06_FaseLav</Portoghese>
+    <Lingua09>Ripetiz06_FaseLav</Lingua09>
+    <Lingua10>Ripetiz06_FaseLav</Lingua10>
+  </Traduzioni>
+
+  <Traduzioni>
+    <PRJ>Ripetiz06_FaseLav</PRJ>
+    <Italiano>Fase Lavoro</Italiano>
+    <Inglese>Ripetiz06_FaseLav</Inglese>
+    <Francese>Ripetiz06_FaseLav</Francese>
+    <Tedesco>Ripetiz06_FaseLav</Tedesco>
+    <Spagnolo>Ripetiz06_FaseLav</Spagnolo>
+    <Svedese>Ripetiz06_FaseLav</Svedese>
+    <Sloveno>Ripetiz06_FaseLav</Sloveno>
+    <Portoghese>Ripetiz06_FaseLav</Portoghese>
+    <Lingua09>Ripetiz06_FaseLav</Lingua09>
+    <Lingua10>Ripetiz06_FaseLav</Lingua10>
+  </Traduzioni>
+
+  <Traduzioni>
+    <PRJ>RipAbilitaz.</PRJ>
+    <Italiano>Abilitaz.</Italiano>
+    <Inglese>RipAbilitaz.</Inglese>
+    <Francese>RipAbilitaz.</Francese>
+    <Tedesco>RipAbilitaz.</Tedesco>
+    <Spagnolo>RipAbilitaz.</Spagnolo>
+    <Svedese>RipAbilitaz.</Svedese>
+    <Sloveno>RipAbilitaz.</Sloveno>
+    <Portoghese>RipAbilitaz.</Portoghese>
+    <Lingua09>RipAbilitaz.</Lingua09>
+    <Lingua10>RipAbilitaz.</Lingua10>
+  </Traduzioni>
+
+  <Traduzioni>
+    <PRJ>RipNr</PRJ>
+    <Italiano>Nr</Italiano>
+    <Inglese>RipNr</Inglese>
+    <Francese>RipNr</Francese>
+    <Tedesco>RipNr</Tedesco>
+    <Spagnolo>RipNr</Spagnolo>
+    <Svedese>RipNr</Svedese>
+    <Sloveno>RipNr</Sloveno>
+    <Portoghese>RipNr</Portoghese>
+    <Lingua09>RipNr</Lingua09>
+    <Lingua10>RipNr</Lingua10>
+  </Traduzioni>
+
+  <Traduzioni>
+    <PRJ>RipFase</PRJ>
+    <Italiano>Fase</Italiano>
+    <Inglese>RipFase</Inglese>
+    <Francese>RipFase</Francese>
+    <Tedesco>RipFase</Tedesco>
+    <Spagnolo>RipFase</Spagnolo>
+    <Svedese>RipFase</Svedese>
+    <Sloveno>RipFase</Sloveno>
+    <Portoghese>RipFase</Portoghese>
+    <Lingua09>RipFase</Lingua09>
+    <Lingua10>RipFase</Lingua10>
+  </Traduzioni>
+
+  <Traduzioni>
+    <PRJ>RipPassoY</PRJ>
+    <Italiano>Passo Y</Italiano>
+    <Inglese>RipPassoY</Inglese>
+    <Francese>RipPassoY</Francese>
+    <Tedesco>RipPassoY</Tedesco>
+    <Spagnolo>RipPassoY</Spagnolo>
+    <Svedese>RipPassoY</Svedese>
+    <Sloveno>RipPassoY</Sloveno>
+    <Portoghese>RipPassoY</Portoghese>
+    <Lingua09>RipPassoY</Lingua09>
+    <Lingua10>RipPassoY</Lingua10>
+  </Traduzioni>
+
+  <Traduzioni>
+    <PRJ>RipQuotaX-</PRJ>
+    <Italiano>Quota X-</Italiano>
+    <Inglese>RipQuotaX-</Inglese>
+    <Francese>RipQuotaX-</Francese>
+    <Tedesco>RipQuotaX-</Tedesco>
+    <Spagnolo>RipQuotaX-</Spagnolo>
+    <Svedese>RipQuotaX-</Svedese>
+    <Sloveno>RipQuotaX-</Sloveno>
+    <Portoghese>RipQuotaX-</Portoghese>
+    <Lingua09>RipQuotaX-</Lingua09>
+    <Lingua10>RipQuotaX-</Lingua10>
+  </Traduzioni>
+
+  <Traduzioni>
+    <PRJ>RipQuotaX+</PRJ>
+    <Italiano>Quota X+</Italiano>
+    <Inglese>RipQuotaX+</Inglese>
+    <Francese>RipQuotaX+</Francese>
+    <Tedesco>RipQuotaX+</Tedesco>
+    <Spagnolo>RipQuotaX+</Spagnolo>
+    <Svedese>RipQuotaX+</Svedese>
+    <Sloveno>RipQuotaX+</Sloveno>
+    <Portoghese>RipQuotaX+</Portoghese>
+    <Lingua09>RipQuotaX+</Lingua09>
+    <Lingua10>RipQuotaX+</Lingua10>
+  </Traduzioni>
+</Pagina_009>

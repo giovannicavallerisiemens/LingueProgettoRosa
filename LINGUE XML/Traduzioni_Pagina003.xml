@@ -1,0 +1,680 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_003>
+  <Traduzioni>
+    <PRJ>QUOTE INIZIO LAVORO ASSE Z</PRJ>
+    <Italiano>QUOTE INIZIO LAVORO ASSE Z</Italiano>
+    <Inglese>SIZE FOR GRINDING BEGIN Z AXIS</Inglese>
+    <Francese>COTES DÉBUT TRAVAIL AXE Z</Francese>
+    <Tedesco>SCHLEIFANFANGS MAßE IN Z-ACHSE</Tedesco>
+    <Spagnolo>COTAS SALIDA TRABAJO EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NAChALO RAZMERA ShLIFOVANIYa OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTE FINE LAVORO ASSE Z</PRJ>
+    <Italiano>QUOTE FINE LAVORO ASSE Z</Italiano>
+    <Inglese>SIZE FOR GRINDING END Z AXIS</Inglese>
+    <Francese>COTES FIN TRAVAIL AXE Z</Francese>
+    <Tedesco>SCHLEIFEND MAßE IN Z-ACHSE</Tedesco>
+    <Spagnolo>COTAS TERM.TRABAJO EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KONEC RAZMERA ShLIFOVANIYa OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>SOVRAMETALLO FINITURA ASSE Z</PRJ>
+    <Italiano>SOVRAMETALLO FINITURA ASSE Z</Italiano>
+    <Inglese>FINISHING STOCK Z AXIS</Inglese>
+    <Francese>SURÉPAISSEUR FINITION AXE Z</Francese>
+    <Tedesco>SCHLICHTZUGABE Z-ACHSE</Tedesco>
+    <Spagnolo>SOBREGRUESO ACABADO EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVOJ PRIPUSK OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO SGROSSATURA ASSE Z</PRJ>
+    <Italiano>INCREMENTO SGROSSATURA ASSE Z</Italiano>
+    <Inglese>ROUGHING INFEED Z AXIS</Inglese>
+    <Francese>AVANCEMENT ÉBAUCHE AXE Z</Francese>
+    <Tedesco>SCHRUPPZUSTELLUNG IN Z-ACHSE</Tedesco>
+    <Spagnolo>INCREMENTO DESBASTE EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChERNOVAYa PODAChA OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO FINITURA ASSE Z</PRJ>
+    <Italiano>INCREMENTO FINITURA ASSE Z</Italiano>
+    <Inglese>FINISHING INFEED Z AXIS</Inglese>
+    <Francese>AVANCEMENT FINITION AXE Z</Francese>
+    <Tedesco>SCHLICHTZUSTELLUNG IN Z-ACHSE</Tedesco>
+    <Spagnolo>INCREMENTO ACABADO EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVAYa PODAChA OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTE INIZIO LAVORO ASSE Y</PRJ>
+    <Italiano>QUOTE INIZIO LAVORO ASSE Y</Italiano>
+    <Inglese>SIZE FOR GRINDING BEGIN Y AXIS</Inglese>
+    <Francese>COTES DÉBUT TRAVAIL AXE Y </Francese>
+    <Tedesco>SCHLEIFANFANGS MAßE IN Y-ACHSE</Tedesco>
+    <Spagnolo>COTAS SALIDA TRABAJO EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NAChALO RAZMERA ShLIFOVANIYa OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTE FINE LAVORO ASSE Y</PRJ>
+    <Italiano>QUOTE FINE LAVORO ASSE Y</Italiano>
+    <Inglese>SIZE FOR GRINDING END Y AXIS</Inglese>
+    <Francese>COTES FIN TRAVAIL AXE Y</Francese>
+    <Tedesco>SCHLEIFEND MAßE IN Y-ACHSE</Tedesco>
+    <Spagnolo>COTAS TERM.TRABAJO EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KONEC RAZMERA ShLIFOVANIYa OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>SOVRAMETALLO FINITURA ASSE Y</PRJ>
+    <Italiano>SOVRAMETALLO FINITURA ASSE Y</Italiano>
+    <Inglese>FINISHING STOCK Y AXIS</Inglese>
+    <Francese>SURÉPAISSEUR FINITION AXE Y</Francese>
+    <Tedesco>SCHLICHTZUGABE Y-ACHSE</Tedesco>
+    <Spagnolo>SOBREGRUESO ACABADO EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVOJ PRIPUSK OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO SGROSSATURA ASSE Y</PRJ>
+    <Italiano>INCREMENTO SGROSSATURA ASSE Y</Italiano>
+    <Inglese>ROUGHING INFEED Y AXIS</Inglese>
+    <Francese>AVANCEMENT ÉBAUCHE AXE Y</Francese>
+    <Tedesco>SCHRUPPZUSTELLUNG IN Y-ACHSE</Tedesco>
+    <Spagnolo>INCREMENTO DESBASTE EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChERNOVAYa PODAChA OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO FINITURA ASSE Y</PRJ>
+    <Italiano>INCREMENTO FINITURA ASSE Y</Italiano>
+    <Inglese>FINISHING INFEED Y AXIS</Inglese>
+    <Francese>AVANCEMENT FINITION AXE Y</Francese>
+    <Tedesco>SCHLICHTZUSTELLUNG IN Y-ACHSE</Tedesco>
+    <Spagnolo>INCREMENTO ACABADO EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVAYa PODAChA OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ESEGUI PRESPEGNIFIAMMA</PRJ>
+    <Italiano>ESEGUI PRESPEGNIFIAMMA</Italiano>
+    <Inglese>DO PRE-SPARKOUT</Inglese>
+    <Francese>EFFECTUER PRÉ-EXTINCTION FLAMMES</Francese>
+    <Tedesco>VORAUSFEUREN DURCHFÜHREN</Tedesco>
+    <Spagnolo>REALIZA PREAPAGACHISPA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VYPOLNIT PREDVARITELNOE VYHAZhIVANIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ESEGUI SPEGNIFIAMMA</PRJ>
+    <Italiano>ESEGUI SPEGNIFIAMMA</Italiano>
+    <Inglese>SPARKOUT</Inglese>
+    <Francese>EFFECTUER EXTINCTION FLAMMES</Francese>
+    <Tedesco>UTGNISTNI.</Tedesco>
+    <Spagnolo>APAGACHISPA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VYHAZhIVANIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PENDOLAMENTO Y/Z PER DARE INCREMENTO</PRJ>
+    <Italiano>PENDOLAMENTO Y/Z PER DARE INCREMENTO</Italiano>
+    <Inglese>RECIPROCATION YZ FOR INFEED</Inglese>
+    <Francese>OSCIL.YZ POUR DONNER ACCROISSEMENT</Francese>
+    <Tedesco>PENDELN YZ ZUR ZUSTELLEN</Tedesco>
+    <Spagnolo>OSCILA.YZ NECESARIA PARA INCREMENT.</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VOZVRATNO-POSTUPATELNOE DVIZhENIE YZ DLYa PODAChI </Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>TUFFO: PENDOLAMMENTI X PER INCREMENTO</PRJ>
+    <Italiano>TUFFO: PENDOLAMMENTI X PER INCREMENTO</Italiano>
+    <Inglese>PLUNGE: RECIPROC.ON X FOR INFEED</Inglese>
+    <Francese>PLONGÉE:OSCILLATION X POUR DONNER UN ACCROISSEMENT</Francese>
+    <Tedesco>EINSTECHEN: PENDELN IN X ZUM ZUSTELLEN</Tedesco>
+    <Spagnolo>BAJADA: OSCILA. X PARA INCREMEN.</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VREZN.: VOZVRATNO-POSTUPATELNOE DVIZhENIE X DLYa PODAChI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FERMO LINEA</PRJ>
+    <Italiano>FERMO LINEA</Italiano>
+    <Inglese>LINE OFF</Inglese>
+    <Francese>ARRÊT LIGNE</Francese>
+    <Tedesco>MASCHINENHALT</Tedesco>
+    <Spagnolo>OFF_LINEA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KONEC LINII</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ABILITA CREEP FEED</PRJ>
+    <Italiano>ABILITA CREEP FEED</Italiano>
+    <Inglese>CREEP_FEED ENABLED</Inglese>
+    <Francese>ABILITATION CREEP_FEED</Francese>
+    <Tedesco>VOLLSCHNITTFREIGABE</Tedesco>
+    <Spagnolo>CONVALIDACIÓN ELABORACIÓN CREEP_FEED</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PODAChA AKTIVIROVANA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>VELOCITA DI TAGLIO IN DIAMANTATURA</PRJ>
+    <Italiano>VELOCITA DI TAGLIO IN DIAMANTATURA</Italiano>
+    <Inglese>WHEEL SPEED CUT DURING DRESSING</Inglese>
+    <Francese>VITESSE DE LA MEULE EN DIAMANT</Francese>
+    <Tedesco>SCHEIBENDREHZAHL BEI ABRICHTEN</Tedesco>
+    <Spagnolo>R.P.M. MUELA EN DIAMANTADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>SKOROST KRUGA VO VREMYa PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ANGOLO INTERPOLAZIONE X-Z</PRJ>
+    <Italiano>ANGOLO INTERPOLAZIONE X-Z</Italiano>
+    <Inglese>INTERPOLATION ANGLE X-Z</Inglese>
+    <Francese>ANGLE D'INTERPOLATION X-Z</Francese>
+    <Tedesco>ECKE DAZWINSCHEN X-Z</Tedesco>
+    <Spagnolo>ÁNGULO INTERPOLACIÓN X-Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>UGOL INTERPOLYaCII XZ</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PROFILO X-Z DELTA Z</PRJ>
+    <Italiano>PROFILO X-Z DELTA Z</Italiano>
+    <Inglese>PROFILE X-Z DELTA Z</Inglese>
+    <Francese>PROFIL X-Z: DELTA Z</Francese>
+    <Tedesco>PROFIL X-Z DELTA Z</Tedesco>
+    <Spagnolo>PROFILO X-Z: DELTA Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PROFIL X-Z DELTA Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>TAGLIO IN ARIA</PRJ>
+    <Italiano>TAGLIO IN ARIA</Italiano>
+    <Inglese>CUTTING IN AIR</Inglese>
+    <Francese>COUPE EN L'AIR</Francese>
+    <Tedesco>SCHNEIDEN IN LUFT</Tedesco>
+    <Spagnolo>CORTE EN EL AIRE</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>OBRABOTKA PO VOZDUHU</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 1 SUL PEZZO Y</PRJ>
+    <Italiano>MOTO 1 SUL PEZZO Y</Italiano>
+    <Inglese>MOTION 1 WORKPIECE Y AXIS</Inglese>
+    <Francese>MOUVEMENT 1 SUR LA PIÉCE AXE Y</Francese>
+    <Tedesco>BEW.1 AM WERKSTÜK Y-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.1 SOBRE PIEZA EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 1 DETAL OS Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 1 SUL PEZZO Z</PRJ>
+    <Italiano>MOTO 1 SUL PEZZO Z</Italiano>
+    <Inglese>MOTION 1 WORKPIECE Z AXIS</Inglese>
+    <Francese>MOUVEMENT 1 SUR LA PIÉCE AXE Z</Francese>
+    <Tedesco>BEW.1 AM WERKSTÜK Z-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.1 SOBRE PIEZA EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 1 DETAL OS Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 1 SUL PEZZO V</PRJ>
+    <Italiano>MOTO 1 SUL PEZZO V</Italiano>
+    <Inglese>MOTION 1 WORKPIECE V AXIS</Inglese>
+    <Francese>MOUVEMENT 1 SUR LA PIÉCE AXE V</Francese>
+    <Tedesco>BEW.1 AM WERKSTÜK V-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.1 SOBRE PIEZA EJE V</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 1 DETAL OS V</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 2 SUL PEZZO Y</PRJ>
+    <Italiano>MOTO 2 SUL PEZZO Y</Italiano>
+    <Inglese>MOTION 2 WORKPIECE Y AXIS</Inglese>
+    <Francese>MOUVEMENT 2 SUR LA PIÉCE AXE Y</Francese>
+    <Tedesco>BEW.2 AM WERKSTÜK Y-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.2 SOBRE PIEZA EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 2 DETAL OS Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 2 SUL PEZZO Z</PRJ>
+    <Italiano>MOTO 2 SUL PEZZO Z</Italiano>
+    <Inglese>MOTION 2 WORKPIECE Z AXIS</Inglese>
+    <Francese>MOUVEMENT 2 SUR LA PIÉCE AXE Z</Francese>
+    <Tedesco>BEW.2 AM WERKSTÜK Z-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.2 SOBRE PIEZA EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 2 DETAL OS Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 2 SUL PEZZO V</PRJ>
+    <Italiano>MOTO 2 SUL PEZZO V</Italiano>
+    <Inglese>MOTION 2 WORKPIECE V AXIS</Inglese>
+    <Francese>MOUVEMENT 2 SUR LA PIÉCE AXE V</Francese>
+    <Tedesco>BEW.2 AM WERKSTÜK V-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.2 SOBRE PIEZA EJE V</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 2 DETAL OS V</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 3 SUL PEZZO Y</PRJ>
+    <Italiano>MOTO 3 SUL PEZZO Y</Italiano>
+    <Inglese>MOTION 3 WORKPIECE Y AXIS</Inglese>
+    <Francese>MOUVEMENT 3 SUR LA PIÉCE AXE Y</Francese>
+    <Tedesco>BEW.3 AM WERKSTÜK Y-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.3 SOBRE PIEZA EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 3 DETAL OS Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 3 SUL PEZZO Z</PRJ>
+    <Italiano>MOTO 3 SUL PEZZO Z</Italiano>
+    <Inglese>MOTION 3 WORKPIECE Z AXIS</Inglese>
+    <Francese>MOUVEMENT 3 SUR LA PIÉCE AXE Z</Francese>
+    <Tedesco>BEW.3 AM WERKSTÜK Z-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.3 SOBRE PIEZA EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 3 DETAL OS Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 3 SUL PEZZO V</PRJ>
+    <Italiano>MOTO 3 SUL PEZZO V</Italiano>
+    <Inglese>MOTION 3 WORKPIECE V AXIS</Inglese>
+    <Francese>MOUVEMENT 3 SUR LA PIÉCE AXE V</Francese>
+    <Tedesco>BEW.3 AM WERKSTÜK V-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.3 SOBRE PIEZA EJE V</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 3 DETAL OS V</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>0=NO; 1=SI</PRJ>
+    <Italiano>0=NO; 1=SI</Italiano>
+    <Inglese>0=NO; 1=YES</Inglese>
+    <Francese>0=NO; 1=OUI</Francese>
+    <Tedesco>0=NEIN; 1=JA</Tedesco>
+    <Spagnolo>0=N0; 1=SI</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0 =N0; 1 =DA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>0=NO; 1=SI; 3=INTERP.X-Z</PRJ>
+    <Italiano>0=NO; 1=SI; 3=INTERP.X-Z</Italiano>
+    <Inglese>0=NO; 1=YES; 3=INTERP.X-Z</Inglese>
+    <Francese>0=NO; 1=OUI; 3=INTERP.X-Z</Francese>
+    <Tedesco>0=NEIN; 1=JA 3=INTERP.X-Z</Tedesco>
+    <Spagnolo>0=N0; 1=SI; 3=INTERP.X-Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0 = NET; 1 = DA; 3 = INTERP.XZ</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_ESEGUI PRESPEGNIFIAMMA</PRJ>
+    <Italiano>NUMERO PASSATE SENZA INCREMENTO PRIMA DELLA FINITURA</Italiano>
+    <Inglese>NUMBER OF STROKES WITHOUT DOWNFEED BEFORE FINISHING</Inglese>
+    <Francese>NOMBRE PASSES SANS INCREMENT AVANT LE FINISSAGE</Francese>
+    <Tedesco>HUBZAHL OHNE ZUSTELLUNG VOR SCHLICHTEN</Tedesco>
+    <Spagnolo>CANTIDAD DE PASADAS SIN INCREMENTO ANTES DEL ACABADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOLIChESTVO HODOV, BEZ VREZANIYa PERED ChISTOVOJ</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_ESEGUI SPEGNIFIAMMA</PRJ>
+    <Italiano>NUMERO PASSATE SENZA INCREMENTO A FINE LAVORAZIONE</Italiano>
+    <Inglese>NUMBER OF STROKES WITHOUT DOWNFEED AT GRINDING END </Inglese>
+    <Francese>NOMBRE PASSES SANS INCREMENT A FIN USINAGE</Francese>
+    <Tedesco>HUBZAHL OHNE ZUSTELLUNG BEI SCHLEIFENDE
+</Tedesco>
+    <Spagnolo>CANTIDAD DE PASADAS SIN INCREMENTO AL FINAL DE LA ELABORACIÓN
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOLIChESTVO HODOV, BEZ VREZANIYa V KONCE ShLIFOVANIYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_PENDOLAMENTO Y/Z PER DARE INCREMENTO</PRJ>
+    <Italiano>NUMERO DI PASSATE DEGLI ASSI Y/Z PRIMA DI INCREMENTARE</Italiano>
+    <Inglese>NUMBER OF STROKES ON Y/Z AXES BEFORE DOWNFEED </Inglese>
+    <Francese>NOMBRE PASSES DES AXES Y/Z AVANT INCREMENTATION  </Francese>
+    <Tedesco>HUBZAHL DER ACHSEN Y/Z VOR ZUSTELLUNG
+</Tedesco>
+    <Spagnolo>CANTIDAD DE PASADAS DE LOS EJES Y/Z ANTES DE INCREMENTAR
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOLIChESTVO HODOV PO OSI Y/Z PERED VREZANIEM</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_TUFFO: PENDOLAMMENTI X PER INCREMENTO</PRJ>
+    <Italiano>NUMERO PENDOLAMENTI ASSE X PER INCREMTARE CON CICLO A TUFFO</Italiano>
+    <Inglese>NUMBER OF X AXIS RECIPROCATION STROKES FOR DOWN FEEDING WITH PLUNGE CYCLE </Inglese>
+    <Francese>NOMBRE BASCULEMENTS AXE X POUR INCREMENTER AVEC CYCLE DE PLONGEE</Francese>
+    <Tedesco>PENDELANZAHL X-ACHSE ZUR ZUSTELLUNG BEI EINSTECHZYKLUS</Tedesco>
+    <Spagnolo>CANTIDAD DE OSCILACIONES DE EJE X A INCREMENTAR CON CICLO POR INMERSIÓN
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOLIChESTVO VOZVRATNO-POSTUPATELNYH DVIZhENIJ OSI X DLYa VREZANIYa S PLUNZhERNYM CIKLOM </Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_FERMO LINEA</PRJ>
+    <Italiano>NO=DISATTIVA FERMO LINEA SI=ATTIVA FERMO LINEA</Italiano>
+    <Inglese>NO = DEACTIVATES LINE STOP YES = ACTIVATES LINE STOP </Inglese>
+    <Francese>NON=DESACTIVE ARRETEMENT LIGNE OUI =ACTIVE ARRETEMENT LIGNE </Francese>
+    <Tedesco>NEIN = DEAKTIVIERT MASCHINENHALT JA = AKTIVIERT MASCHINENHALT
+</Tedesco>
+    <Spagnolo>NO = DESACTIVA PARADA LÍNEA SÍ = ACTIVA PARADA LÍNEA
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NET = DEAKTIVIRUET STOP LINIYu DA = AKTIVIRUET STOP LINIYu</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_ABILITA CREEP FEED</PRJ>
+    <Italiano>0-1=DISATTIVA-ATTIVA CREEP FEED 3=INTERP.X-Z A TUFFO</Italiano>
+    <Inglese>0-1=DEACTIVATES-ACTIVATES CREEP FEED 3=INTERP.X-Z PLUNGE </Inglese>
+    <Francese>0-1=DESACTIVE-ACTIVE CREEP FEED 3=INTERPOLATION X-Z EN PLONGEE </Francese>
+    <Tedesco>0-1=DEAKTIVIERT-AKTIVIERT CREEP-FEED 3=INTERP.X-Z BEI EINSTECHEN</Tedesco>
+    <Spagnolo>0-1=DESACTIVA-ACTIVA CREEP FEED 3=INTERP.X-Z POR INMERSIÓN
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0-1 = DEAKTIVIRUET-AKTIVIRUET VREZANIE 3 = PLUNZhERNYINTERP. HZ</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_VELOCITA DI TAGLIO IN DIAMANTATURA</PRJ>
+    <Italiano>CAMBIO VELOCTA' DELLA MOLA IN DIAMANTATURA CON INV.RULLO</Italiano>
+    <Inglese>WHEEL-SPEED CHANGE-OVER DURING DRESSING WITH ROLLER INVERTER</Inglese>
+    <Francese>CHANGEMENT DE VITESSE DE LA MEULE EN DIAMANTAGE AVEC INVERSION DE ROULEAU </Francese>
+    <Tedesco>SCHLEIFSCHEIBENDREHZAHL-UMSCHALTUNG BEI ABRICHTEN MIT ROLLEN-DREHGEBER</Tedesco>
+    <Spagnolo>CAMBIO VELOCIDAD DE LA MUELA DURANTE EL DIAMANTADO CON INV. RODILLO
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PEREKLYuChENIE SKOROSTI KOLESA VO VREMYa VYPOLNENIYa S ROLLERNYM INVERTOROM</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_ANGOLO INTERPOLAZIONE X-Z</PRJ>
+    <Italiano>VALORE DI INTERPOLAZIONE IN GRADI CON CICLO CREEP FEED</Italiano>
+    <Inglese>INTERPOLATION VALUE IN DEGREES WITH CREEP FEED CYCLE </Inglese>
+    <Francese>VALEUR D’INTERPOLATION EN DEGRES AVEC CYCLE CREEP FEED
+</Francese>
+    <Tedesco>INTERPOLATIONSWERT IN GRAD BEI CREEP-FEED-ZYKLUS</Tedesco>
+    <Spagnolo>VALOR DE INTERPOLACIÓN EN GRADOS CON CICLO CREEP FEED
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Znachenie interpolyacii v gradusah s ciklom kormleniya</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_PROFILO X-Z DELTA Z</PRJ>
+    <Italiano>DIFFERENZA PUNTO FINALE/PARTENZA PER PROFILO INTERP. X-Z</Italiano>
+    <Inglese>DIFFERENCE BETW. END POINT/RESTART FOR PROFILE INTERP. X-Z</Inglese>
+    <Francese>DIFFERENCE POINT FINAL/DEMARRAGE POUR PROFIL INTERPOLATION X-Z </Francese>
+    <Tedesco>DIFFERENZ ENDSTELLUNG/WIEDERANLAUF BEI PROFIL INTERP. X-Z</Tedesco>
+    <Spagnolo>DIFERENCIA PUNTO FINAL/INICIO PARA PERFIL INTERP. X-Z
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>RAZNICA MEZhDU. KONEC TOChKI / PEREZAGRUZKA PROFILYa XZ</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_TAGLIO IN ARIA</PRJ>
+    <Italiano>NO=DISATTIVA TAGLIO IN ARIA SI=ATTIVA TAGLIO IN ARIA</Italiano>
+    <Inglese>NO = DEACTIVATES GAP CONTROL YES = ACTIVATES GAP CONTROL</Inglese>
+    <Francese>NON=DESACTIVE COUPE EN L’AIR OUI=ACTIVE COUPE EN L’AIR </Francese>
+    <Tedesco>NEIN = DEAKTIVIERT LUFTSPALTKONTROLLE JA = AKTIVIERT LUFTSPALTKONTROLLE</Tedesco>
+    <Spagnolo>NO = DESACTIVA CORTE AL VUELO SÍ = ACTIVA CORTE AL VUELO
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NET = DEAKTIVIRUET UPRAVLENIE GAP DA = AKTIVIRUET UPRAVLENIE GAP</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PIANO</PRJ>
+    <Italiano>PIANO</Italiano>
+    <Inglese>SURFACE</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLÄCHE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>POVERHNOST</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DESCRIZIONE PIANO ATTIVO</PRJ>
+    <Italiano>DESCRIZIONE PIANO ATTIVO</Italiano>
+    <Inglese>DESCRIPTION OF ACTIVE SURFACE</Inglese>
+    <Francese>DESCRIPTION PLAN ACTIF</Francese>
+    <Tedesco>BESCHREIBUNG AKTIVER FLÄCHE</Tedesco>
+    <Spagnolo>DESCRIPCIÓN PLANO ACTIVO
+</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>OPISANIE AKTIVNOJ POVERHNOSTI</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>AUTOMATICO</PRJ>
+    <Italiano>(3) AUTOMATICO</Italiano>
+    <Inglese>(3) AUTOMATIC</Inglese>
+    <Francese>(3) AUTOMATIQUE </Francese>
+    <Tedesco>(3) AUTOMATIK</Tedesco>
+    <Spagnolo>(3) AUTOMÁTICO</Spagnolo>
+    <Svedese>(3) AUTOMATICO</Svedese>
+    <Sloveno>AUTOMATICO</Sloveno>
+    <Portoghese>AUTOMATICO</Portoghese>
+    <Lingua09>(3) AVTOMATIChESKIJ</Lingua09>
+    <Lingua10>AUTOMATICO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Quote Assi</PRJ>
+    <Italiano>Quote Assi</Italiano>
+    <Inglese>Axes values</Inglese>
+    <Francese>Cotes axes</Francese>
+    <Tedesco>Achsmaße</Tedesco>
+    <Spagnolo>Cotas Ejes</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>Znacheniya osej</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CALCOLO VELOCITA MOLA</PRJ>
+    <Italiano>CALCOLO VELOCITA' MOLA</Italiano>
+    <Inglese>CALCULATION OF WHEEL SPEED</Inglese>
+    <Francese>Calcul de la vitesse de Dressage</Francese>
+    <Tedesco>BERECHNUNG DER SCHLEIFSCHEIBENDREHZAHL</Tedesco>
+    <Spagnolo>CÁLCULO VELOCIDAD DE MUELA</Spagnolo>
+    <Svedese>CALCOLO VELOCITA' MOLA</Svedese>
+    <Sloveno>CALCOLO VELOCITA' MOLA</Sloveno>
+    <Portoghese>CALCOLO VELOCITA' MOLA</Portoghese>
+    <Lingua09>RASChET SKOROSTI KRUGA</Lingua09>
+    <Lingua10>CALCOLO VELOCITA' MOLA</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Raggio Mola </PRJ>
+    <Italiano>Raggio Mola </Italiano>
+    <Inglese>Whell Radius</Inglese>
+    <Francese>Raion de la muela</Francese>
+    <Tedesco>Scheibeundurchesser</Tedesco>
+    <Spagnolo>Radius de la muela </Spagnolo>
+    <Svedese>Raggio Mola </Svedese>
+    <Sloveno>Raggio Mola </Sloveno>
+    <Portoghese>Raggio Mola </Portoghese>
+    <Lingua09>Radius kruga </Lingua09>
+    <Lingua10>Raggio Mola </Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Rapporto Vel. Mola / Vel. Rullo</PRJ>
+    <Italiano>Rapporto Vel. Mola / Vel. Rullo</Italiano>
+    <Inglese>Ratio wheel speed / Roll speed</Inglese>
+    <Francese>Rapport de vitesse perpherique/vitesse de roulement</Francese>
+    <Tedesco>Verhaeltnis Scheibengeschw./Rollendrehzahl</Tedesco>
+    <Spagnolo>Relacion Vel. Muela / Vel. Rodillo</Spagnolo>
+    <Svedese>Rapporto Vel. Mola / Vel. Rullo</Svedese>
+    <Sloveno>Rapporto Vel. Mola / Vel. Rullo</Sloveno>
+    <Portoghese>Rapporto Vel. Mola / Vel. Rullo</Portoghese>
+    <Lingua09>Sootnoshenie skorosti vrasheniya kruga / skorosti rolika</Lingua09>
+    <Lingua10>Rapporto Vel. Mola / Vel. Rullo</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Diametro Rullo </PRJ>
+    <Italiano>Diametro Rullo </Italiano>
+    <Inglese>Roll Diamater</Inglese>
+    <Francese>Diametre de Roulement</Francese>
+    <Tedesco>Rollendurchmesser</Tedesco>
+    <Spagnolo>Diametro del Rodillo</Spagnolo>
+    <Svedese>Diametro Rullo </Svedese>
+    <Sloveno>Diametro Rullo </Sloveno>
+    <Portoghese>Diametro Rullo </Portoghese>
+    <Lingua09>Diametr rolika </Lingua09>
+    <Lingua10>Diametro Rullo </Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Velocita Rullo </PRJ>
+    <Italiano>Velocita' Rullo </Italiano>
+    <Inglese>Roll speed </Inglese>
+    <Francese>Vitesse de Roulement </Francese>
+    <Tedesco>Rollendrehzal </Tedesco>
+    <Spagnolo>Velocidad del Rodillo</Spagnolo>
+    <Svedese>Velocita Rullo </Svedese>
+    <Sloveno>Velocita Rullo </Sloveno>
+    <Portoghese>Velocita Rullo </Portoghese>
+    <Lingua09>Skorost rolika </Lingua09>
+    <Lingua10>Velocita Rullo </Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Velocita Mola in diamantatura </PRJ>
+    <Italiano>Velocita' Mola in diamantatura </Italiano>
+    <Inglese>Speed wheel in dressing</Inglese>
+    <Francese>Vitesse peripherique en dressage </Francese>
+    <Tedesco>Scheibengeschwindigkeit bei Abrichten </Tedesco>
+    <Spagnolo>Velocidad de la muela en diamantado</Spagnolo>
+    <Svedese>Velocita' Mola in diamantatura </Svedese>
+    <Sloveno>Velocita' Mola in diamantatura </Sloveno>
+    <Portoghese>Velocita' Mola in diamantatura </Portoghese>
+    <Lingua09>Skorost kruga pri pravke </Lingua09>
+    <Lingua10>Velocita' Mola in diamantatura </Lingua10>
+  </Traduzioni>
+</Pagina_003>

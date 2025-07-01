@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_Base>
+  <Traduzioni>
+    <PRJ>Testo Prova</PRJ>
+    <Italiano></Italiano>
+    <Inglese></Inglese>
+    <Francese />
+    <Tedesco></Tedesco>
+    <Spagnolo />
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09 />
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Confermi chiusura applicazione ?</PRJ>
+    <Italiano>ATTENZIONE.@Confermi chiusura applicazione ?</Italiano>
+    <Inglese>The application will be closed.@Do you confirm ?</Inglese>
+    <Francese>ATTENTION.  Confirmes-tu la fermeture de l’application? </Francese>
+    <Tedesco>MASCHINEN-ABSCHALTUNG BESTAETIGEN ?</Tedesco>
+    <Spagnolo>The application will be closed.@Do you confirm ?</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Prilozhenie budet zakryto. @ Vy podtverzhdaete?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Inserire la password</PRJ>
+    <Italiano>Inserire la password ITA</Italiano>
+    <Inglese>Enter the password </Inglese>
+    <Francese>Entrer le mot de passe </Francese>
+    <Tedesco>Passwort eingeben</Tedesco>
+    <Spagnolo>Ingresar la contraseña</Spagnolo>
+    <Svedese>password</Svedese>
+    <Sloveno>password</Sloveno>
+    <Portoghese>password</Portoghese>
+    <Lingua09>Vvedite parol</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Eseguire prima la funzione di set assi</PRJ>
+    <Italiano>Eseguire prima la funzione di set assi ITA</Italiano>
+    <Inglese>FIRST CARRY OUT THE AXIS SETTING FUNCTION </Inglese>
+    <Francese>EXECUTER D’ABORD LA FONCTION DE REGLAGE AXES </Francese>
+    <Tedesco>ALS ERSTES ACHSSETZ-FUNKTION DURCHFÜHREN</Tedesco>
+    <Spagnolo>PRIMERO EFECTUAR LA FUNCIÓN DE SET EJES
+</Spagnolo>
+    <Svedese>Eseguire prima la funzione di set assi</Svedese>
+    <Sloveno>Eseguire prima la funzione di set assi</Sloveno>
+    <Portoghese>Eseguire prima la funzione di set assi</Portoghese>
+    <Lingua09>SNAChALA VYPOLNITE FUNKCIYu NASTROJKI OSI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI PENDOLAMENTO X</PRJ>
+    <Italiano>DATI PENDOLAMENTO X</Italiano>
+    <Inglese>RECIPROCATION VALUES </Inglese>
+    <Francese>DONNÉES OSCILLATION X</Francese>
+    <Tedesco>PENDELDATEN IN X </Tedesco>
+    <Spagnolo>DATOS OSCILACIóN X</Spagnolo>
+    <Svedese>PENDELVÄRDE X</Svedese>
+    <Sloveno>VREDNOSTI IZMENIÈNEGA DELOVANJA</Sloveno>
+    <Portoghese>DADOS OSCILAÇÃO X</Portoghese>
+    <Lingua09>ZNAChENIYa VOZVRATNO-POSTUPATELNOGO DVIZhENIYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI PENDOLAMENTO Y/Z</PRJ>
+    <Italiano>DATI PENDOLAMENTO Y/Z</Italiano>
+    <Inglese>RECIPROCATION Y/Z</Inglese>
+    <Francese>DONNÉES OSCILLATION Y/Z</Francese>
+    <Tedesco>PENDELDATEN IN Y/Z</Tedesco>
+    <Spagnolo>DATOS OSCILACIóN Y/Z</Spagnolo>
+    <Svedese>PENDELVÄRDE Y/Z</Svedese>
+    <Sloveno>IZMENIÈNO DELOVANJE Y/Z</Sloveno>
+    <Portoghese>DADOS OSCILAÇÃO Y/Z</Portoghese>
+    <Lingua09>VOZVRATNO-POSTUPATELNOE DVIZhENIE Y / Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI ASPORTAZIONE E INCREMENTO</PRJ>
+    <Italiano>DATI ASPORTAZIONE E INCREMENTO</Italiano>
+    <Inglese>REMOVAL AND INFEED VALUES</Inglese>
+    <Francese>DONNÉES D'ENLÉVEMENT ET ACCROISSEMENT</Francese>
+    <Tedesco>ABTRAGS - UND ZUSTELLDATEN</Tedesco>
+    <Spagnolo>DATOS DE REMICIóN Y INCREMENTO</Spagnolo>
+    <Svedese>AVRIVNINGS - OCH MATNINGSVÄRDE</Svedese>
+    <Sloveno>NASTAVITEV ODBRUSA</Sloveno>
+    <Portoghese>DADOS DE REMOÇÃO E INCREMENTO</Portoghese>
+    <Lingua09>ZNAChENIYa PRIPUSKA I PODAChI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI DIAMANTATURA</PRJ>
+    <Italiano>DATI DIAMANTATURA</Italiano>
+    <Inglese>DRESSING VALUES</Inglese>
+    <Francese>DONNÉES DE DIAMANTAGE </Francese>
+    <Tedesco>ABRICHTDATEN</Tedesco>
+    <Spagnolo>DATOS DE DIAMANTADO</Spagnolo>
+    <Svedese>JUSTERINGSVÄRDE</Svedese>
+    <Sloveno>DATOS DE DIAMANTADO</Sloveno>
+    <Portoghese>DADOS DE DIAMANTAÇÃO</Portoghese>
+    <Lingua09>ZNAChENIYa PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PROCESSORE GEOMETRICO E.W.S.</PRJ>
+    <Italiano>PROCESSORE GEOMETRICO E.W.S (SOFTKEY F7) </Italiano>
+    <Inglese>GEOMETRICAL PRCESSOR E.W.S.</Inglese>
+    <Francese>PROCESSEUR GÉOMÉTRIQUE E.W.S. (SOFTKEY F7) </Francese>
+    <Tedesco>GEOMETRISCHER PROZESSOR E.W.S.</Tedesco>
+    <Spagnolo>PROCESOR GEOMÉTRICO E.W.S.</Spagnolo>
+    <Svedese>GEOMETRISKT E.W.S.</Svedese>
+    <Sloveno>GEOMETRIÈEN PROCESOR E.W.S.</Sloveno>
+    <Portoghese>PROCESSOR GEOMÉTRICO E.W.S.</Portoghese>
+    <Lingua09>PROCESSOR GEOMETRII E.W.S(SOFTKEY F7)</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI GEOMETRIA MOLA E CORRETTORI</PRJ>
+    <Italiano>DATI GEOMETRIA MOLA E CORRETTORI</Italiano>
+    <Inglese>WHEEL GEOMETRY VALUES AND CORRECTORS</Inglese>
+    <Francese>DONNÉES DE GÉOMÉTRIE MEULE ET CORRECTEURS</Francese>
+    <Tedesco>SCHEIBENGEOMETRIE-DATEN UND KORREKTOREN</Tedesco>
+    <Spagnolo>DATOS DE GEOMETRìA MUELA Y CALIBRADORES</Spagnolo>
+    <Svedese>SKIVGEOMERI - VÄRDE OCH KORREOTURER</Svedese>
+    <Sloveno>GEOMETRISKE VREDNOSTI IN KOREKCIJE</Sloveno>
+    <Portoghese>DADOS DE GEOMETRìA MUELA Y CALIBRADORES</Portoghese>
+    <Lingua09>ZNAChENIYa GEOMETRII KRUGA I KORREKTORY</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI GESTIONE CAMBIO MOLA</PRJ>
+    <Italiano>DATI GESTIONE CAMBIO MOLA</Italiano>
+    <Inglese>VALUES FOR WHEEL CHANGE MANAGEMENT </Inglese>
+    <Francese>DONNÉES POUR LA GESTION DU CHANG.MEULE</Francese>
+    <Tedesco>DATEN FÜR SCHEIBENWECHSEL</Tedesco>
+    <Spagnolo>DATOS PARA LA GESTìON DEL CAMBIO MUELA</Spagnolo>
+    <Svedese>VÄRDE FÖR SKIVVÄXLING</Svedese>
+    <Sloveno>VREDNOSTI ZA SPREMINJANJE BRUSNEGA KOLUTA</Sloveno>
+    <Portoghese>DADOS PARA GESTÃO DE MUDANÇA DA MÓ</Portoghese>
+    <Lingua09>ZNAChENIYa DLYa UPRAVLENIYa SMENOJ KRUGA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI CAMBIO PALLET</PRJ>
+    <Italiano>DATI CAMBIO PALLET</Italiano>
+    <Inglese>VALUES FOR PALLET CHANGE MANAGEMENT</Inglese>
+    <Francese>DONNÉES POUR LA GESTION DU CHANG.PALET.</Francese>
+    <Tedesco>DATEN FÜR PALETTENWECHSEL</Tedesco>
+    <Spagnolo>DATOS PARA LA GESTìON DEL CAMBIO PALET</Spagnolo>
+    <Svedese>VÄRDE FÖRPALETTÄXLING</Svedese>
+    <Sloveno>VREDNOSTI ZA SPREMINJANJE LEŽIŠÈA</Sloveno>
+    <Portoghese>DADOS PARA GESTÃO DA MUDANÇA DE PALETE</Portoghese>
+    <Lingua09>ZNAChENIYa DLYa UPRAVLENIYa SMENOJ PALLETY</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI GESTIONE MULTIPIANO</PRJ>
+    <Italiano>DATI GESTIONE MULTIPIANO</Italiano>
+    <Inglese>VALUES FOR MANAGEMENT OF SURFACES SEQUENCE</Inglese>
+    <Francese>DONNÉES POUR LA SÉQUENCE D'EXÉCUTION PLANS</Francese>
+    <Tedesco>DATEN FÜR FLÄCHEN-ZYKLUSABWICKLUNG</Tedesco>
+    <Spagnolo>DATOS PARA LA SEQUENCIA DE REALIZACIóN DE PLANOS</Spagnolo>
+    <Svedese>VÄRDE FÖR YT-CYKELUTVECKLING</Svedese>
+    <Sloveno>VREDNOSTI ZA ZAPOREDIJ PLOSKOVNEGA BRUŠENJA</Sloveno>
+    <Portoghese>DADOS PARA DE SEQUÊNCIA DA REALIZAÇÃO DE PLANIS</Portoghese>
+    <Lingua09>ZNAChENIYa DLYa UPRAVLENIYa POSLEDOVATELNOSTYu OBRABOTKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI GESTIONE DIVISORE</PRJ>
+    <Italiano>DATI GESTIONE DIVISORE</Italiano>
+    <Inglese>VALUES FOR DIVIDING HEAD </Inglese>
+    <Francese>DONNÉES GESTION DIVISEUR</Francese>
+    <Tedesco>DATEN FÜR TEILAPPARAT </Tedesco>
+    <Spagnolo>DATOS GESTìON DISP.DIVISOR</Spagnolo>
+    <Svedese>VÄRDE FÖR DELNINGSAPPARAT</Svedese>
+    <Sloveno>VREDNOSTI ZA DELILNO GLAVO</Sloveno>
+    <Portoghese>DADOS GESTÃO DISP.DIVISOR</Portoghese>
+    <Lingua09>ZNAChENIYa DLYa DELITELNOJ GOLOVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE ORIGINI LAVORO E DIAMANTATURA</PRJ>
+    <Italiano>CORREZIONI ORIGINI LAVORO E DIAMANTATURA</Italiano>
+    <Inglese>CORRECTION OF GRINDING END DRESSING ORIGINS</Inglese>
+    <Francese>CORRECTION ORIGINES TRAVAIL ET DIAMANTAGE</Francese>
+    <Tedesco>KORREKTUR DER NULLPUNKTE</Tedesco>
+    <Spagnolo>CORRECIóN ORIGINES DE TRABAJO Y DIAMANTADO</Spagnolo>
+    <Svedese>CORRECTION OF GRINDING END DRESSING ORIGINS</Svedese>
+    <Sloveno>POPRAVILO NA ZAÈETKU BRUŠENJA IN PORAVNAVANJE</Sloveno>
+    <Portoghese>CORRECÇÃO DE ORIGENS DE TRABALHO E DIAMANTAÇÃO</Portoghese>
+    <Lingua09>KORREKTIROVKA ShLIFOVANIYa I PRIVYaZKA PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>GESTIONE ARCHIVI DATI</PRJ>
+    <Italiano>GESTIONE ARCHIVI DATI</Italiano>
+    <Inglese>MANAGEMENT OF FILE LIBRARIES</Inglese>
+    <Francese>GESTION DES FICHIER DE DONNÉES</Francese>
+    <Tedesco>VERWALTUNG DER DATENARCHIVE</Tedesco>
+    <Spagnolo>GESTIóN DE LOS ARCHIVOS DE DATOS</Spagnolo>
+    <Svedese>FÖRVALTNING AV DATABIBLIOTEK</Svedese>
+    <Sloveno>VODENJE ARHIVA (SHRANJEVANJE OPRAVLJENIH POSLOV)</Sloveno>
+    <Portoghese>GESTÃO DE ARQUIVOS DE DADOS</Portoghese>
+    <Lingua09>UPRAVLENIE FAJLOVYMI BIBLIOTEKAMI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>VISUALIZZAZIONE ORIGINI</PRJ>
+    <Italiano>VISUALIZZAZIONI ORIGINI</Italiano>
+    <Inglese>ORIGINS DISPLAYING</Inglese>
+    <Francese>AFFICHAGE ORIGINES</Francese>
+    <Tedesco>REFERENZEN ANZEIGE</Tedesco>
+    <Spagnolo>VISUALIZACIóN ORIGINES</Spagnolo>
+    <Svedese>ORIGINS DISPLAYING</Svedese>
+    <Sloveno>PRIKAZOVANJE ORIGINALOV OSNIH FUNKCIJ STROJA</Sloveno>
+    <Portoghese>VISUALIZAÇÃO DE ORIGENS</Portoghese>
+    <Lingua09>OTOBRAZhENIE PRIVYaZOK</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>RESET MEMORIA</PRJ>
+    <Italiano>RESET MEMORIA</Italiano>
+    <Inglese>MEMORY RESET</Inglese>
+    <Francese>RESET MÉMOIRE</Francese>
+    <Tedesco>SPEICHER RESET</Tedesco>
+    <Spagnolo>RESET MEMORIA</Spagnolo>
+    <Svedese>MINNES RESE</Svedese>
+    <Sloveno>UPORABA SPOMINA</Sloveno>
+    <Portoghese>REAJUSTAMENTO DA MEMÓRIA</Portoghese>
+    <Lingua09>SBROS PAMYaTI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_DATI PENDOLAMENTO Y/Z</PRJ>
+    <Italiano>CICLO SEMIAUTOMATICO</Italiano>
+    <Inglese>SEMI - AUTO MODE</Inglese>
+    <Francese>MODE SEMIAUTOMATIQUE</Francese>
+    <Tedesco>SEMIAUTOMATIK</Tedesco>
+    <Spagnolo>SEMI - AUTO MODE</Spagnolo>
+    <Svedese>HALVAUTO</Svedese>
+    <Sloveno>POLATOMATSKI POMIK</Sloveno>
+    <Portoghese>SEMI - AUTO MODE</Portoghese>
+    <Lingua09>POLUAVTOMATIChESKIJ REZhIM</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_DATI ASPORTAZIONE E INCREMENTO</PRJ>
+    <Italiano>CICLO AUTOMATICO</Italiano>
+    <Inglese>AUTO MODE </Inglese>
+    <Francese>MODE AUTOMATIQUE</Francese>
+    <Tedesco>AUTOMATIK</Tedesco>
+    <Spagnolo>AUTO MODE </Spagnolo>
+    <Svedese>AUTOMATIK</Svedese>
+    <Sloveno>AVTOMATSKI POMIK</Sloveno>
+    <Portoghese>AUTO MODE </Portoghese>
+    <Lingua09>AVTOMATIChESKIJ REZhIM</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_DATI DIAMANTATURA</PRJ>
+    <Italiano>CICLO DIAMANTATURA</Italiano>
+    <Inglese>DRESSING START</Inglese>
+    <Francese>START DIAMANTAGE</Francese>
+    <Tedesco>ABRICHT START</Tedesco>
+    <Spagnolo>START DIAMANTADO </Spagnolo>
+    <Svedese>JUSTERINGSSTART</Svedese>
+    <Sloveno>DRESSING START</Sloveno>
+    <Portoghese>COMEÇAR DIAMANTAÇÃO</Portoghese>
+    <Lingua09>ZAPUSK PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CICLO RISCALDAMENTO</PRJ>
+    <Italiano>CICLO RISCALDAMENTO</Italiano>
+    <Inglese>CICLO RISCALDAMENTO eng</Inglese>
+    <Francese>CICLO RISCALDAMENTO fra</Francese>
+    <Tedesco>CICLO RISCALDAMENTO deu</Tedesco>
+    <Spagnolo>CICLO RISCALDAMENTO spa</Spagnolo>
+    <Svedese>JUSTERINGSSTART</Svedese>
+    <Sloveno>DRESSING START</Sloveno>
+    <Portoghese>COMEÇAR DIAMANTAÇÃO</Portoghese>
+    <Lingua09>CYKLUS OHŘEVU</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MULTIPROGRAMMAZIONE ATTIVA</PRJ>
+    <Italiano>MULTIPROGRAMMAZIONE ATTIVA</Italiano>
+    <Inglese>MULTIPROGRAMMAZIONE ATTIVA</Inglese>
+    <Francese>MULTIPROGRAMMAZIONE ATTIVA</Francese>
+    <Tedesco>MULTIPROGRAMMIERUNG AKTIV</Tedesco>
+    <Spagnolo>MULTIPROGRAMMAZIONE ATTIVA</Spagnolo>
+    <Svedese>JUSTERINGSSTART</Svedese>
+    <Sloveno>DRESSING START</Sloveno>
+    <Portoghese>COMEÇAR DIAMANTAÇÃO</Portoghese>
+    <Lingua09>AVTOMATIChESKIJ ZAPUSK</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+</Pagina_Base>

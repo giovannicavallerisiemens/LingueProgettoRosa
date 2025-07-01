@@ -1,0 +1,824 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_004>
+  <Traduzioni>
+    <PRJ>PUNTO DI REFERENZA</PRJ>
+    <Italiano>PUNTO DI REFERENZA</Italiano>
+    <Inglese>REFERENCE POINT</Inglese>
+    <Francese>POINT DE RÉFÉRENCE</Francese>
+    <Tedesco>REFERENZPUNKT</Tedesco>
+    <Spagnolo>PUNTO DE REFERENCIA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>TOChKA PRIVYaZKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>POSIZIONE Y</PRJ>
+    <Italiano>POSIZIONE Y</Italiano>
+    <Inglese>POSITION Y</Inglese>
+    <Francese>POSITION Y</Francese>
+    <Tedesco>POSITION Y</Tedesco>
+    <Spagnolo>POSICIóN Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POLOZhENIE Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>POSIZIONE Z</PRJ>
+    <Italiano>POSIZIONE Z</Italiano>
+    <Inglese>POSITION Z</Inglese>
+    <Francese>POSITION Z</Francese>
+    <Tedesco>POSITION Z</Tedesco>
+    <Spagnolo>POSICIóN Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POLOZhENIE Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>TIPO DIAMANTATURA</PRJ>
+    <Italiano>TIPO DIAMANTATURA</Italiano>
+    <Inglese>DRESSING MODE</Inglese>
+    <Francese>TYPE DIAMANT.</Francese>
+    <Tedesco>ABRICHTART</Tedesco>
+    <Spagnolo>TIPO DIAMANTADO.</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>REZhIM PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>NUMERO PROFILO</PRJ>
+    <Italiano>NUMERO PROFILO</Italiano>
+    <Inglese>PROFIL.N.</Inglese>
+    <Francese>N.PROFIL</Francese>
+    <Tedesco>PROFIL-NR</Tedesco>
+    <Spagnolo>N.PERFIL</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NOMER PROF.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ASPORTAZIONE Z</PRJ>
+    <Italiano>ASPORTAZIONE Z</Italiano>
+    <Inglese>REMOVAL IN Z</Inglese>
+    <Francese>ENLÉVEMENT Z</Francese>
+    <Tedesco>ABTRAG IN Z</Tedesco>
+    <Spagnolo>REMOCIóN Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRIPUSK PO Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO Z</PRJ>
+    <Italiano>INCREMENTO Z</Italiano>
+    <Inglese>INFEED IN Z</Inglese>
+    <Francese>ACCROISSEMENT Z</Francese>
+    <Tedesco>ZUSTELLUNG IN Z</Tedesco>
+    <Spagnolo>INCREMENTO Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PODAChA PO Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>RECUPERO Z</PRJ>
+    <Italiano>RECUPERO Z</Italiano>
+    <Inglese>COMPENS. Z</Inglese>
+    <Francese>RÉCUPÉRATION Z</Francese>
+    <Tedesco>KOMPENSATION IN Z</Tedesco>
+    <Spagnolo>RECUPERA.Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOMPENS. PO Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ASPORTAZIONE Y</PRJ>
+    <Italiano>ASPORTAZIONE Y</Italiano>
+    <Inglese>REMOVAL IN Y</Inglese>
+    <Francese>ENLÉVEMENT Y</Francese>
+    <Tedesco>ABTRAG IN Y</Tedesco>
+    <Spagnolo>REMOCIóN Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRIPUSK PO Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO Y</PRJ>
+    <Italiano>INCREMENTO Y</Italiano>
+    <Inglese>INFEED IN Y</Inglese>
+    <Francese>ACCROISSEMENT Y</Francese>
+    <Tedesco>ZUSTELLUNG IN Y</Tedesco>
+    <Spagnolo>INCREMENTO Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PODAChA PO Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>RECUPERO Y</PRJ>
+    <Italiano>RECUPERO Y</Italiano>
+    <Inglese>COMPENS. Y</Inglese>
+    <Francese>RÉCUPÉRATION Y</Francese>
+    <Tedesco>KOMPENSATION IN Y</Tedesco>
+    <Spagnolo>RECUPERA.Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOMPENS. PO Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PASSATE FINALI SENZA INCREMENTO</PRJ>
+    <Italiano>PASSATE FINALI SENZA INCREMENTO</Italiano>
+    <Inglese>FINAL STROKES  WITHOUT INFEED </Inglese>
+    <Francese>PASSES FINALES SANS ACCROISSEMENT</Francese>
+    <Tedesco>ENDHÜBE OHNE ZUSTELLUNG</Tedesco>
+    <Spagnolo>CARRERAS FINALES SIN INCREMENTO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZAKLYuChITELNYE PROHODY BEZ VREZANIYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>VELOCITA SGROSSATURA</PRJ>
+    <Italiano>VELOCITA SGROSSATURA</Italiano>
+    <Inglese>ROUGHING SPEED</Inglese>
+    <Francese>VITESSE DÉGROSSISSAGE</Francese>
+    <Tedesco>SCHRUPPGESCHWINDIGKEIT</Tedesco>
+    <Spagnolo>VELOCIDAD DESBASTE</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChERNOVAYa SKOROST</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>VELOCITA FINITURA</PRJ>
+    <Italiano>VELOCITA FINITURA</Italiano>
+    <Inglese>DRESSING FREQUENCY</Inglese>
+    <Francese>VITESSE FINISSAGE</Francese>
+    <Tedesco>SCHLICHTENGESCHWINDIGKEIT</Tedesco>
+    <Spagnolo>VELOCIDAD ACABADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChASTOTA PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FREQUENZA DIAMANTATURA</PRJ>
+    <Italiano>FREQUENZA DIAMANTATURA</Italiano>
+    <Inglese>DRESSING FREQUENCY</Inglese>
+    <Francese>FRÉQUENCE DIAMANTAGE</Francese>
+    <Tedesco>ABRICHTHÄUFIGKEIT</Tedesco>
+    <Spagnolo>FRECUENCIA DIAMANTADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChASTOTA PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORSA ASSE SE DIAMANTATURA LINEARE</PRJ>
+    <Italiano>CORSA ASSE SE DIAMANTATURA LINEARE</Italiano>
+    <Inglese>AXIS STROKE FOR LINEAR DRESSING</Inglese>
+    <Francese>COURSE AXE SI DIAMANTAGE LINÉAIRE</Francese>
+    <Tedesco>ACHSWEG BEIM LINEAREN ABRICHTEN</Tedesco>
+    <Spagnolo>RECORRIDO EJE SI DIAMANTADO LINEAR</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>HOD OSI DLYa LINEJNOJ PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>STACCO INCREMENTALE Y</PRJ>
+    <Italiano>STACCO INCREMENTALE Y</Italiano>
+    <Inglese>IMPULSIVE MOVE-AWAY ON Y</Inglese>
+    <Francese>DEGAGEMENT RELATIF Y</Francese>
+    <Tedesco>INKREMENTAL ABHEBEN IN Y</Tedesco>
+    <Spagnolo>SEPARACIóN INCREMENTAL Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>INKREMENTÁLNÍ ODDĚLENÍ Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>STACCO INCREMENTALE Z</PRJ>
+    <Italiano>STACCO INCREMENTALE Z</Italiano>
+    <Inglese>IMPULSIVE MOVE-AWAY ON Z</Inglese>
+    <Francese>DEGAGEMENT RELATIF Z</Francese>
+    <Tedesco>INKREMENTAL ABHEBEN IN Z</Tedesco>
+    <Spagnolo>SEPARACIóN INCREMENTAL Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>IMPULSNOE PEREMEShENIE PO Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DIAMANTATURA INIZIO CICLO</PRJ>
+    <Italiano>DIAMANTATURA INIZIO CICLO</Italiano>
+    <Inglese>DRESSING AT START CYCLE</Inglese>
+    <Francese>DIAMANTAGE À DÉBUT CYCLE</Francese>
+    <Tedesco>ABRICHTEN BEI ZYKLUSBEGINN</Tedesco>
+    <Spagnolo>DIAMANTADO AL ARRANQUE CICLO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRAVKA V NAChALE CIKLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DIAMANTATURA CON ASSE C</PRJ>
+    <Italiano>DIAMANTATURA CON ASSE C</Italiano>
+    <Inglese>DRESSING WITH C AXIS </Inglese>
+    <Francese>DIAMANTAGE AVEC AXE C</Francese>
+    <Tedesco>DIAMANT ACHSE C</Tedesco>
+    <Spagnolo>DIAMANTADO CON ASSE C</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRAVKA S OSYu C</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>NR PROFILO PEZZO</PRJ>
+    <Italiano>NR PROFILO PEZZO</Italiano>
+    <Inglese>PROFILE N° ON WORKPIECE</Inglese>
+    <Francese>N.PROFIL PIECE</Francese>
+    <Tedesco>N.PROFIL STUCK</Tedesco>
+    <Spagnolo>NÚMERO DEL PERFIL PIEZA
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PROFIL N ° NA DETALI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 1 SUL DIAMANTE Y</PRJ>
+    <Italiano>MOTO 1 SUL DIAMANTE Y</Italiano>
+    <Inglese>MOTION 1 ON DIAM. Y AXIS</Inglese>
+    <Francese>MOUVEMENT 1 SUR LE DIAMANT AXE Y</Francese>
+    <Tedesco>BEWE.1 AM DIAMANTEN Y-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.1 SOBRE DIAM. EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 1 NA DIAM. OS Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 1 SUL DIAMANTE Z</PRJ>
+    <Italiano>MOTO 1 SUL DIAMANTE Z</Italiano>
+    <Inglese>MOTION 1 ON DIAM. Z AXIS</Inglese>
+    <Francese>MOUVEMENT 1 SUR LE DIAMANT AXE Z</Francese>
+    <Tedesco>BEWE.1 AM DIAMANTEN Z-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.1 SOBRE DIAM. EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 1 NA DIAM. OS Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 1 SUL DIAMANTE V</PRJ>
+    <Italiano>MOTO 1 SUL DIAMANTE V</Italiano>
+    <Inglese>MOTION 1 ON DIAM. V AXIS</Inglese>
+    <Francese>MOUVEMENT 1 SUR LE DIAMANT AXE V</Francese>
+    <Tedesco>BEWE.1 AM DIAMANTEN V-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.1 SOBRE DIAM. EJE V</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 1 NA DIAM. OS V</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 2 SUL DIAMANTE Y</PRJ>
+    <Italiano>MOTO 2 SUL DIAMANTE Y</Italiano>
+    <Inglese>MOTION 2 ON DIAM. Y AXIS</Inglese>
+    <Francese>MOUVEMENT 2 SUR LE DIAMANT AXE Y</Francese>
+    <Tedesco>BEWE.2 AM DIAMANTEN Y-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.2 SOBRE DIAM. EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 2 NA DIAM. OS Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 2 SUL DIAMANTE Z</PRJ>
+    <Italiano>MOTO 2 SUL DIAMANTE Z</Italiano>
+    <Inglese>MOTION 2 ON DIAM. Z AXIS</Inglese>
+    <Francese>MOUVEMENT 2 SUR LE DIAMANT AXE Z</Francese>
+    <Tedesco>BEWE.2 AM DIAMANTEN Z-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.2 SOBRE DIAM. EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 2 NA DIAM. OS Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 2 SUL DIAMANTE V</PRJ>
+    <Italiano>MOTO 2 SUL DIAMANTE V</Italiano>
+    <Inglese>MOTION 2 ON DIAM. V AXIS</Inglese>
+    <Francese>MOUVEMENT 2 SUR LE DIAMANT AXE V</Francese>
+    <Tedesco>BEWE.2 AM DIAMANTEN V-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.2 SOBRE DIAM. EJE V</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 2 NA DIAM. OS V</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 3 SUL DIAMANTE Y</PRJ>
+    <Italiano>MOTO 3 SUL DIAMANTE Y</Italiano>
+    <Inglese>MOTION 3 ON DIAM. Y AXIS</Inglese>
+    <Francese>MOUVEMENT 3 SUR LE DIAMANT AXE Y</Francese>
+    <Tedesco>BEWE.3 AM DIAMANTEN Y-ACHSE</Tedesco>
+    <Spagnolo>MOVIM.3 SOBRE DIAM. EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 3 NA DIAM. OS Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 3 SUL DIAMANTE Z</PRJ>
+    <Italiano>MOTO 3 SUL DIAMANTE Z</Italiano>
+    <Inglese>MOTION 3 ON DIAM. Z AXIS</Inglese>
+    <Francese>MOUVEMENT 3 SUR LE DIAMANT AXE Z</Francese>
+    <Tedesco>FLYTTA 3 VID DIAM. Z AXEL</Tedesco>
+    <Spagnolo>MOVIM.3 SOBRE DIAM. EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 3 NA DIAM. OS Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MOTO 3 SUL DIAMANTE V</PRJ>
+    <Italiano>MOTO 3 SUL DIAMANTE V</Italiano>
+    <Inglese>MOTION 3 ON DIAM. V AXIS</Inglese>
+    <Francese>MOUVEMENT 3 SUR LE DIAMANT AXE V</Francese>
+    <Tedesco>FLYTTA 3 VID DIAM. V AXEL</Tedesco>
+    <Spagnolo>MOVIM.3 SOBRE DIAM. EJE V</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DVIZhENIE 3 NA DIAM. OS V</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTE V IN DIAMANTATURA</PRJ>
+    <Italiano>QUOTE V IN DIAMANTATURA</Italiano>
+    <Inglese>SIZE V FOR DRESSING</Inglese>
+    <Francese>COTE V EN DIAMANTAGE</Francese>
+    <Tedesco>MÅTT V VID JUSTERING</Tedesco>
+    <Spagnolo>COTAS V DE DIAMANTADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>RAZMER V DLYa PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CARTER</PRJ>
+    <Italiano>CARTER</Italiano>
+    <Inglese>SAFEGUARD</Inglese>
+    <Francese>CARTER</Francese>
+    <Tedesco>HAUBE</Tedesco>
+    <Spagnolo>CÁRTER</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZAShITA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>RIENTRO SUL PEZZO CON ULTRASUONI</PRJ>
+    <Italiano>RIENTRO SUL PEZZO CON ULTRASUONI</Italiano>
+    <Inglese>RETURN WHIT ULTRASOUND IN CYCLE</Inglese>
+    <Francese>RETOUR SUR LA PIECE AVEC ULTRA.</Francese>
+    <Tedesco>WERKSTUCK-ZUTRITT MIT ULTRASCHALL</Tedesco>
+    <Spagnolo>RETORNO A LA PIEZA CON ULTRASONIDOS</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VOZVRAT S ULTRAZVUKOM V CIKLE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTA ASSOLUTA Y RICERCA DIAMANTE ULTRASUONI</PRJ>
+    <Italiano>QUOTA ASSOLUTA Y RICERCA DIAMANTE ULTRASUONI</Italiano>
+    <Inglese>Y AXIS VALUE WHIT ULTRA. AS TO REFERENCE 2</Inglese>
+    <Francese>NIVEAU ABSOLU Y RECHERCHE DIAMANT.ULTRA.</Francese>
+    <Tedesco>ABSOLUTMAB IN Y DIAMANTSUCHE MIT ULTRASCHALL</Tedesco>
+    <Spagnolo>COTA Y PARA ULTRASONIDOS CON RESPECTO A ORIGEN 2</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE OSI Y OS S UZ OTNOSITELNO 2</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DIAMANTATURA CON ULTRASUONI</PRJ>
+    <Italiano>DIAMANTATURA CON ULTRASUONI</Italiano>
+    <Inglese>DRESSING WITH ULTRASOUND</Inglese>
+    <Francese>DIAMANTAGE AVEC ULTRASONS</Francese>
+    <Tedesco>ABRICHTEN BEI ULTRASCHALL</Tedesco>
+    <Spagnolo>DIAMANTADO CON ULTRASONIDOS</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRAVKA S ULTRAZVUKOM</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DIAM. ULTRASUONI - QUOTA ASSOLUTA Z INIZIO</PRJ>
+    <Italiano>DIAM. ULTRASUONI - QUOTA ASSOLUTA Z INIZIO</Italiano>
+    <Inglese>Z-AXIS VALUE WITH ULTRASOUND AS TO REFERENCE 2</Inglese>
+    <Francese>NIVEAU ABSOLU Z DEBUT PALPAGE DIAM.ULTRA.</Francese>
+    <Tedesco>ABSOLUTMAB IN Z DIAMANT-ULTRASCHALL-ABTASTBEGINN</Tedesco>
+    <Spagnolo>COTA Z PARA ULTRASONIDOS CON RESPECTO A ORIGEN 2</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE OSI Z OS S UZ OTNOSITELNO 2</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DIAM. ULTRASUONI - QUOTA ASSOLUTA Z FINE</PRJ>
+    <Italiano>DIAM. ULTRASUONI - QUOTA ASSOLUTA Z FINE</Italiano>
+    <Inglese>MAX-VALUE FOR DIAMOND SEARCH WITH ULTRASOUND</Inglese>
+    <Francese>NIVEAU ABSOLU Z FIN PALPAGE DIAM.ULTRA.</Francese>
+    <Tedesco>ABSOLUTMAB IN Z DIAMANT-ULTRASCHALL-ABTASTENDE</Tedesco>
+    <Spagnolo>COTA MÁX PARA BÚSQUEDA DIAMANTE CON ULTRASONIDOS</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>OROV. ULTRAZVUKEM - ABSOLUTNÍ KVÓTA Z KONEC</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTA INCREMENTALE Z RIENTRO PEZZO ULTRASUONI</PRJ>
+    <Italiano>QUOTA INCREMENTALE Z RIENTRO PEZZO ULTRASUONI</Italiano>
+    <Inglese>DISTANCE FROM WORKPIECE FOR RETURN WITH ULTRASOUND</Inglese>
+    <Francese>NIVEAO INCREMENTIEL Z RETOUR PIECE AVEC ULTRA</Francese>
+    <Tedesco>INKREMENTALMAB IN Z ULTRASCHALL-WERKSTUCKZUTRITT</Tedesco>
+    <Spagnolo>DISTANCIA DE LA PIEZA PARA RETORNO CON ULTRASONIDOS</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KVÓTA NAVÝŠENÍ Z NÁVRAT OBROBKU ULTRAZVUK</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTA INCREMENTALE Z FINE PEZZO ULTRASUONI</PRJ>
+    <Italiano>QUOTA INCREMENTALE Z FINE PEZZO ULTRASUONI</Italiano>
+    <Inglese>MAX VALUE FOR WORKPIECE SEARCH WITH ULTRASOUND</Inglese>
+    <Francese>NIVEAU INCR. Z FIN RECHERCHE PIECE AVEC ULTRA.</Francese>
+    <Tedesco>INKREMENTALMAB IN Z ULTRASCHALL-WERKSTUCK-SUCHENDE</Tedesco>
+    <Spagnolo>COTA MÁX PARA BÚSQUEDA PIEZA CON ULTRASONIDOS</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KVÓTA NAVÝŠENÍ Z KONEC OBROBKU ULTRAZVUK</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>0=NO; 1=SI</PRJ>
+    <Italiano>0=NO; 1=SI</Italiano>
+    <Inglese>0=NO; 1=YES</Inglese>
+    <Francese>0=NO; 1=OUI</Francese>
+    <Tedesco>0=NEIN; 1=JA</Tedesco>
+    <Spagnolo>0=NO; 1=SI</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0 = NET; 1 = DA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>0=0;2=2;3=3;4=4</PRJ>
+    <Italiano>0=0;2=2;3=3;4=4</Italiano>
+    <Inglese>0=0;2=2;3=3;4=4</Inglese>
+    <Francese>0=0;2=2;3=3;4=4</Francese>
+    <Tedesco>0=0;2=2;3=3;4=4</Tedesco>
+    <Spagnolo>0=0;2=2;3=3;4=4</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09 />
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>1=1;2=2;3=-1;4=-2</PRJ>
+    <Italiano>1=1;2=2;3=-1;4=-2</Italiano>
+    <Inglese>1=1;2=2;3=-1;4=-2</Inglese>
+    <Francese>1=1;2=2;3=-1;4=-2</Francese>
+    <Tedesco>1=1;2=2;3=-1;4=-2</Tedesco>
+    <Spagnolo>1=1;2=2;3=-1;4=-2</Spagnolo>
+    <Svedese>1=1;2=2;3=-1;4=-2</Svedese>
+    <Sloveno>1=1;2=2;3=-1;4=-2</Sloveno>
+    <Portoghese>1=1;2=2;3=-1;4=-2</Portoghese>
+    <Lingua09>1=1;2=2;3=-1;4=-2</Lingua09>
+    <Lingua10>1=1;2=2;3=-1;4=-2</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_POSIZIONE Y</PRJ>
+    <Italiano>QUOTA ATTUALE ASSE Y IN DIAMANTATURA</Italiano>
+    <Inglese>ACTUAL VALUE OF Y AXIS AT DRESSING</Inglese>
+    <Francese>COTE ACTUELLE AXE Y EN DIAMANTAGE 
+</Francese>
+    <Tedesco>ISTWERT DER Y-ACHSE BEI ABRICHTEN</Tedesco>
+    <Spagnolo>COTA ACTUAL DE EJE Y DURANTE EL DIAMANTADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>TEKUShEE ZNAChENIE OSI Y PRI PRAVKE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_POSIZIONE Z</PRJ>
+    <Italiano>QUOTA ATTUALE ASSE Z IN DIAMANTATURA</Italiano>
+    <Inglese>ACTUAL VALUE OF Z AXIS AT DRESSING</Inglese>
+    <Francese>COTE ACTUELLE AXE Z EN DIAMANTAGE 
+</Francese>
+    <Tedesco>ISTWERT DER Z-ACHSE BEI ABRICHTEN</Tedesco>
+    <Spagnolo>COTA ACTUAL DE EJE Z DURANTE EL DIAMANTADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>TEKUShEE ZNAChENIE OSI Z PRI PRAVKE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_TIPO DIAMANTATURA</PRJ>
+    <Italiano>0=TRAVERSA 2=DIAMANTE A BANCO 3=RULLO 4=RULLO ORARIO/ANTIORARIO</Italiano>
+    <Inglese>0=CROSSBEAM 2=TABLE DIAMOND 3=ROLLER 4=ROLLER CW./CCW</Inglese>
+    <Francese>0=TRAVERSE 2=DIAMANT SUR BANC 3=ROULEAU 4=ROULEAU SENS HORAIRE/SENS ANTI-HORAIRE
+</Francese>
+    <Tedesco>0=QUERTRÄGER 2=TISCH-DIAMANT 3=ROLLE 4=ROLLE UHRZEIGER/GEGENUHRZEIGER</Tedesco>
+    <Spagnolo>0=TRAVIESA 2=DIAMANTE EN MESA 3=RODILLO 4=RODILLO HORARIO/ANTIHORARIO
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0 = POPEREChINA 2 = ALMAZ NA STOLE 3 = ROLIK 4 = ROLIK PO ChASOVOJ / PROTIV ChASOVOJ</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_NUMERO PROFILO</PRJ>
+    <Italiano>NUMERO DEL PROFILO CREATO CON PROCESSORE GEOMETRICO EWS</Italiano>
+    <Inglese>NUMBER OF PROFILE GENERATED WITH GEOMETRIC EWS PROCESSOR</Inglese>
+    <Francese>NUMERO DU PROFIL CREE AVEC PROCESSEUR GEOMETRIQUE EWS</Francese>
+    <Tedesco>NR. DES MIT GEOMETRISCHEM EWS-PROZESSOR ERSTELLTEN PROFILS</Tedesco>
+    <Spagnolo>NÚMERO DEL PERFIL CREADO CON PROCESADOR GEOMÉTRICO EWS</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOLIChESTVO PROFILEJ, SOZDANNYE GEOMETRIChESKIM EWS PROCESSOROM</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_ASPORTAZIONE Z</PRJ>
+    <Italiano>TOTALE ASPORTAZIONE DELLA MOLA IN DIAMANTATURA</Italiano>
+    <Inglese>TOTAL STOCK REMOVAL FROM WHEEL DURING DRESSING</Inglese>
+    <Francese>ENLEVEMENT TOTAL DE LA MEULE EN DIAMANTAGE</Francese>
+    <Tedesco>GESAMTABTRAG VON SCHLEIFSCHEIBE BEI ABRICHTEN</Tedesco>
+    <Spagnolo>TOTAL REMOCIÓN DE LA MUELA DURANTE DIAMANTADO Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRIPUSK NA KRUGE VO VREMYa PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_INCREMENTO Z</PRJ>
+    <Italiano>VALORE INCREMENTO PER OGNI PASSATA IN DIAMANTATURA</Italiano>
+    <Inglese>INFEED VALUE FOR EACH DRESSING STROKE</Inglese>
+    <Francese>VALEUR INCREMENT POUR CHAQUE PASSE EN DIAMANTAGE
+</Francese>
+    <Tedesco>ZUSTELLWERT BEI JEDEM ABRICHTDURCHGANG</Tedesco>
+    <Spagnolo>VALOR DE INCREMENTO POR CADA PASADA DURANTE DIAMANTADO Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE PODAChI DLYa KAZhDOGO HODA PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_RECUPERO Z</PRJ>
+    <Italiano>VALORE DEL RIENTRO DELLA MOLA SUL PEZZO DOPO DIAMANTATURA</Italiano>
+    <Inglese>RETURN VALUE OF WHEEL ON THE WORKPIECE AFTER DRESSING</Inglese>
+    <Francese>VALEUR DE RETRAIT DE LA MEULE SUR LA PIECE APRES LE DIAMANTAGE 
+</Francese>
+    <Tedesco>EINTRITTSWERT DER SCHLEIFSCHEIBE ZUM WERKSTÜCK NACH ABRICHTEN</Tedesco>
+    <Spagnolo>VALOR DE RETORNO DE LA MUELA EN LA PIEZA DESPUÉS DEL DIAMANTADO Z
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE KRUGA NA DETALI POSLE PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_ASPORTAZIONE Y</PRJ>
+    <Italiano>TOTALE ASPORTAZIONE DELLA MOLA IN DIAMANTATURA</Italiano>
+    <Inglese>TOTAL STOCK REMOVAL FROM WHEEL DURING DRESSING </Inglese>
+    <Francese>ENLEVEMENT TOTAL DE LA MEULE EN DIAMANTAGE</Francese>
+    <Tedesco>GESAMTABTRAG VON SCHLEIFSCHEIBE BEI ABRICHTEN
+</Tedesco>
+    <Spagnolo>TOTAL REMOCIÓN DE LA MUELA DURANTE DIAMANTADO Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRIPUSK NA KRUGE VO VREMYa PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_INCREMENTO Y</PRJ>
+    <Italiano>VALORE INCREMENTO PER OGNI PASSATA IN DIAMANTATURA</Italiano>
+    <Inglese>INFEED VALUE FOR EACH DRESSING STROKE </Inglese>
+    <Francese>VALEUR INCREMENT POUR CHAQUE PASSE EN DIAMANTAGE
+</Francese>
+    <Tedesco>ZUSTELLWERT BEI JEDEM ABRICHTDURCHGANG</Tedesco>
+    <Spagnolo>VALOR DE INCREMENTO POR CADA PASADA DURANTE DIAMANTADO Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE PODAChI DLYa KAZhDOGO HODA PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_RECUPERO Y</PRJ>
+    <Italiano>VALORE DEL RIENTRO DELLA MOLA SUL PEZZO DOPO DIAMANTATURA</Italiano>
+    <Inglese>RETURN VALUE OF WHEEL ON THE WORKPIECE AFTER DRESSING </Inglese>
+    <Francese>VALEUR DE RETRAIT DE LA MEULE SUR LA PIECE APRES LE DIAMANTAGE 
+</Francese>
+    <Tedesco>EINTRITTSWERT DER SCHLEIFSCHEIBE ZUM WERKSTÜCK NACH ABRICHTEN</Tedesco>
+    <Spagnolo>VALOR DE RETORNO DE LA MUELA EN LA PIEZA DESPUÉS DEL DIAMANTADO Y
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE KRUGA NA DETALI POSLE PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_FREQUENZA DIAMANTATURA</PRJ>
+    <Italiano>-2=NON DIAMANTA MAI 0=DIAMANTA IN FINITURA &gt;0=DIAMANTA IN FREQUENZA </Italiano>
+    <Inglese>-2=NO DRESSING AT ALL 0=DRESSING AT FINISHING &gt;0=DRESSING IN FREQUENCY </Inglese>
+    <Francese>-2=NE DIAMANTE JAMAIS  0=DIAMANTE EN FINISSAGE  &gt;0=DIAMANTE EN FREQUENCE </Francese>
+    <Tedesco>-2=KEIN ABRICHTEN 0=ABRICHTEN BEI SCHLICHTEN &gt;0=ABRICHTEN NACH HÄUFIGKEIT</Tedesco>
+    <Spagnolo>-2=NO DIAMANTA NUNCA 0=DIAMANTA DURANTE ACABADO &gt;0=DIAMANTA CON FRECUENCIA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>-2 = NET PRAVKI SOVSEM 0 = PRAVKA NA ChISTOVOJ&gt; 0 = PRAVKA V PROHODAH</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_DIAMANTATURA CON ASSE C</PRJ>
+    <Italiano>NO=DIAMANTATURA SENZA ASSEC SI=DIAMANTATURA CON ASSE C</Italiano>
+    <Inglese>NO = DRESSING WITHOUT C AXIS YES = DRESSING WITH C AXIS</Inglese>
+    <Francese>NON=DIAMANTAGE SANS AXE C OUI =DIAMANTAGE AVEC AXE C</Francese>
+    <Tedesco>NEIN =ABRICHTEN OHNE C-ACHSE JA = ABRICHTEN MIT C-ACHSE</Tedesco>
+    <Spagnolo>NO = DIAMANTADO SIN EJE C SÍ = DIAMANTADO CON EJE C
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NET = PRAVKA BEZ S OSI DA = PRAVKA S S OSYu</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_NR PROFILO PEZZO</PRJ>
+    <Italiano>NUMERO DEL PROFILO PEZZO GENERATO DAL PROCESSORE GEOMETRICO EWS</Italiano>
+    <Inglese>NUMBER OF PROFILE GENERATED WITH GEOMETRIC EWS PROCESSOR </Inglese>
+    <Francese>NUMERO DU PROFIL CREE AVEC PROCESSEUR GEOMETRIQUE EWS</Francese>
+    <Tedesco>NR. DES MIT GEOMETRISCHEM EWS-PROZESSOR ERSTELLTEN PROFILS</Tedesco>
+    <Spagnolo>NÚMERO DEL PERFIL PIEZA CREADO CON PROCESADOR GEOMÉTRICO EWS 
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOLIChESTVO PROFILEJ, SOZDANNYE GEOMETRIChESKIM EWS PROCESSOROM</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_DIAMANTATURA INIZIO CICLO</PRJ>
+    <Italiano>SI=ESEGUE DIAMANTATURA INIZIO CICLO NO=NON ESEGUE DIAMANTATURA INIZIO CICLO</Italiano>
+    <Inglese>SI = DRESSING AT CYCLE START NO = NO DRESSING AT CYCLE START </Inglese>
+    <Francese>OUI=EXECUTE LE DIAMANTAGE AU DEBUT DU CYCLE NON=N’EXECUTE PAS LE DIAMANTAGE AU DEBUT DU CYCLE </Francese>
+    <Tedesco>JA = ABRICHTEN BEI ZYKLUSBEGINN NEIN = KEIN ABRICHTEN BEI ZYKLUSBEGINN</Tedesco>
+    <Spagnolo>SI = EFECTÚA DIAMANTADO INICIO CICLO NO = NO EFECTÚA DIAMANTADO INICIO CICLO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DA = PRAVKA PRI ZAPUSKE CIKLA NET = BEZ PRAVKI PRI ZAPUSKE CIKLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_QUOTE V IN DIAMANTATURA</PRJ>
+    <Italiano>QUOTA IN GRADI ASSE V IN DIAMANTATURA</Italiano>
+    <Inglese>VALUE IN DEGREES V AXIS AT DRESSING </Inglese>
+    <Francese>COTE EN DEGRES AXE V EN DIAMANTAGE </Francese>
+    <Tedesco>MAß IN GRAD DER V-ACHSE BEI ABRICHTEN</Tedesco>
+    <Spagnolo>COTA EN GRADOS EJE V DURANTE EL DIAMANTADO
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE V GRADUSAH OSI V PRI PRAVKE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_POSIZIONE CARTER IN DIAMANTATURA</PRJ>
+    <Italiano>0=AUTOMATICO 1=CARTER DESTRO 2=CARTER SINISTRO</Italiano>
+    <Inglese>0=AUTOMATIC 1=SAFEGUARD R.H. 2=SAFEGUARD L.H.</Inglese>
+    <Francese>0=AUTOMATIQUE 1=CARTER DROIT 2=CARTER GAUCHE </Francese>
+    <Tedesco>0=AUTOMATIK 1=HAUBE RECHTS 2=HAUBE LINKS</Tedesco>
+    <Spagnolo>0=AUTOMÁTICO 1=CÁRTER DERECHO 2=CÁRTER IZQUIERDO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0 = AVTOMATIChESKIJ 1 = ZAShITA SPRAVA 2 = ZAShITA SLEVA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PIANO</PRJ>
+    <Italiano>PIANO</Italiano>
+    <Inglese>SURFACE</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLÄCHE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese>PIANO</Svedese>
+    <Sloveno>PIANO</Sloveno>
+    <Portoghese>PIANO</Portoghese>
+    <Lingua09>POVERHNOST</Lingua09>
+    <Lingua10>PIANO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DESCRIZIONE PIANO ATTIVO</PRJ>
+    <Italiano>DESCRIZIONE PIANO ATTIVO</Italiano>
+    <Inglese>DESCRIPTION OF ACTIVE SURFACE </Inglese>
+    <Francese>DESCRIPTION PLAN ACTIF </Francese>
+    <Tedesco>BESCHREIBUNG AKTIVER FLÄCHE</Tedesco>
+    <Spagnolo>DESCRIPCIÓN PLANO ACTIVO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>OPISANIE AKTIVNOJ POVERHNOSTI</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DIAMANTATURA</PRJ>
+    <Italiano>(4) DIAMANTATURA</Italiano>
+    <Inglese>(4) DRESSING</Inglese>
+    <Francese>(4) DIAMANTE</Francese>
+    <Tedesco>(4) ABRICHTART</Tedesco>
+    <Spagnolo>(4) DIAMANTADO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>(4)PRAVKA</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Quote Assi</PRJ>
+    <Italiano>Quote Assi</Italiano>
+    <Inglese>Axes values</Inglese>
+    <Francese>Cotes axes </Francese>
+    <Tedesco>Achsmaße</Tedesco>
+    <Spagnolo>Cotas Ejes</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>Znacheniya osej</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+</Pagina_004>

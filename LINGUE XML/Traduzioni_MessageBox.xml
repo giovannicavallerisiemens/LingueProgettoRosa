@@ -1,0 +1,1585 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Messaggi>
+  <Traduzioni>
+    <NR></NR>
+    <PRJ>Attivazione origini in corso...</PRJ>
+    <Italiano>Attivazione origini in corso...</Italiano>
+    <Inglese>Origins activation under progress...</Inglese>
+    <Francese>Activation origines en cours</Francese>
+    <Tedesco>Origins activation under progress...</Tedesco>
+    <Spagnolo />
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Proishodit aktivaciya v processe ...</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR></NR>
+    <PRJ>Premi RESET....</PRJ>
+    <Italiano>Premi RESET....</Italiano>
+    <Inglese>Press RESET....</Inglese>
+    <Francese>Press RESET....</Francese>
+    <Tedesco>RESET DRUCKEN....</Tedesco>
+    <Spagnolo>PREMIOS RESET....</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Nazhmite RESET ....</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR></NR>
+    <PRJ>Il separatore decimale non corretto. Impostare il . come separatore decimale nelle impostazioni di Windows!</PRJ>
+    <Italiano>Il separatore decimale non corretto. @Impostare il . come separatore decimale nelle impostazioni di Windows!</Italiano>
+    <Inglese>Il separatore decimale non corretto. @Impostare il . come separatore decimale nelle impostazioni di Windows!</Inglese>
+    <Francese>Il separatore decimale non corretto. @Impostare il . come separatore decimale nelle impostazioni di Windows!</Francese>
+    <Tedesco>Il separatore decimale non corretto. @Impostare il . come separatore decimale nelle impostazioni di Windows!</Tedesco>
+    <Spagnolo>Il separatore decimale non corretto. @Impostare il . come separatore decimale nelle impostazioni di Windows!</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Nevernyj desyatichnyj razdelitel. Ustanovit. Kak desyatichnyj razdelitel v nastrojkah Windows!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR></NR>
+    <PRJ>Non possibile con ciclo in corso</PRJ>
+    <Italiano>Non possibile con ciclo in corso</Italiano>
+    <Inglese>Impossible when cycle is running </Inglese>
+    <Francese>IL N’EST PAS POSSIBLE DE SURECRIRE LE PROGRAMME ACTIF </Francese>
+    <Tedesco>Nicht möglich bei ablaufendem Zyklus</Tedesco>
+    <Spagnolo>IMPOSIBLE SOBRESCRIBIR PROGRAMA ACTIVO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Nevozmozhno, kogda cikl rabotaet</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00000</NR>
+    <PRJ></PRJ>
+    <Italiano>Messaggio 000 - ITA</Italiano>
+    <Inglese>Messaggio 000 - ENG</Inglese>
+    <Francese>Messaggio 000 - FRA</Francese>
+    <Tedesco>Messaggio 000 - DEU</Tedesco>
+    <Spagnolo />
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09 />
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00001</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI:DA 0 --&gt; 4  </Italiano>
+    <Inglese>ADMITTED VALUES: FROM 0 --&gt; 4</Inglese>
+    <Francese>VALEURS ADMISES: DE 0 -- &gt; 4</Francese>
+    <Tedesco>ZULAESSIGE WERTE: VON 0 --&gt; 4</Tedesco>
+    <Spagnolo>VALORES ADMITIDOS: DESDE 0 --&gt; 4</Spagnolo>
+    <Svedese>VALORI AMMESSI:DA 0 --&gt; 4</Svedese>
+    <Sloveno>DOPUSTNE VREDNOSTI : OD 0 --&gt; 4  </Sloveno>
+    <Portoghese>VALORES ADMITIDOS: DESDE 0 --&gt; 4</Portoghese>
+    <Lingua09>Dopustimye znacheniya: OT 0 -&gt; 4</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00011</NR>
+    <PRJ></PRJ>
+    <Italiano>SEGNO NON COME PRIMO CARATTERE</Italiano>
+    <Inglese>SIGN NOT AS FIRST CHARACTER</Inglese>
+    <Francese>SIGNE PAS COMME PREMIER CARACTÈRE </Francese>
+    <Tedesco>ZEICHEN NICHT ALS ERSTER BUCHSTABE</Tedesco>
+    <Spagnolo>SIGNO NO COMO PRIMERO CARÁCTER</Spagnolo>
+    <Svedese>SEGNO NON COME PRIMO CARATTERE</Svedese>
+    <Sloveno>ZNAK NE KOT PRVA ©TEVILKA</Sloveno>
+    <Portoghese>SINAL NÃO COMO 1º CARÁCTER</Portoghese>
+    <Lingua09>NE PODPISYVAJTE KAK PERVYJ SIMVOL</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00021</NR>
+    <PRJ></PRJ>
+    <Italiano>MANCA VALORE NUMERICO</Italiano>
+    <Inglese>NUMERICAL VALUE MISSING</Inglese>
+    <Francese>VALEUR NUMÉRIQUE MANQUANTE</Francese>
+    <Tedesco>NUMERISCHER WERT FEHLT</Tedesco>
+    <Spagnolo>VALOR NUMÉRICO FALTANTE</Spagnolo>
+    <Svedese>MANCA VALORE NUMERICO</Svedese>
+    <Sloveno>MANJKAJOÈA NUMERIÈNA VREDNOST</Sloveno>
+    <Portoghese>FALTAM VALORES NUMÉRICOS</Portoghese>
+    <Lingua09>OTSUTSVTUET ChISLOVOE ZNAChENIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00031</NR>
+    <PRJ></PRJ>
+    <Italiano>AMMESSO SOLO UN PUNTO</Italiano>
+    <Inglese>ONLY A POINT ADMITTED</Inglese>
+    <Francese>ADMIS UN POINT SEULEMENT</Francese>
+    <Tedesco>NUR EIN PUNKT ZULAESSIG</Tedesco>
+    <Spagnolo>ADMITIDO SOLAMENTE UN PUNTO</Spagnolo>
+    <Svedese>AMMESSO SOLO UN PUNTO</Svedese>
+    <Sloveno>DOPUSTNA TOÈKA</Sloveno>
+    <Portoghese>ADMITE APEMAS UM PONTO</Portoghese>
+    <Lingua09>DOPUSKAETSYa TOLKO TOChKA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00041</NR>
+    <PRJ></PRJ>
+    <Italiano>MANCA VALORE NUMERICO INTERO</Italiano>
+    <Inglese>INTEGER VALUE MISSING</Inglese>
+    <Francese>VALEUR NUMÉRIQUE ENTIÈRE MANQUANTE</Francese>
+    <Tedesco>GANZZAHLIGER WERT FEHLT </Tedesco>
+    <Spagnolo>VALOR NUMÉRICO ENTERO FALTANTE</Spagnolo>
+    <Svedese>MANCA VALORE NUMERICO INTERO </Svedese>
+    <Sloveno>MANKAJOÈE CELO ©TEVILO</Sloveno>
+    <Portoghese>VALOR TOTAL PERDIDO</Portoghese>
+    <Lingua09>OTSUTSVTUET CELOChISLENNOE ZNAChENIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00051</NR>
+    <PRJ></PRJ>
+    <Italiano>MANCA VALORE NUMERICO DECIMALE</Italiano>
+    <Inglese>DECIMAL VALUE MISSING</Inglese>
+    <Francese>VALEUR NUMÉRIQUE DÉCIMALE MANQUANTE</Francese>
+    <Tedesco>DEZIMALWERT FEHLT</Tedesco>
+    <Spagnolo>VALOR NUMÉRICO DECIMAL FALTANTE </Spagnolo>
+    <Svedese>MANCA VALORE NUMERICO DECIMALE</Svedese>
+    <Sloveno>MANKAJOÈE DECIMALNO ©TEVILO</Sloveno>
+    <Portoghese>VALOR DECIMAL PERDIDO</Portoghese>
+    <Lingua09>OTSUTSVTUET ZNAChENIE C TOChKOJ</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00061</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI:-1,-2,+1,+2</Italiano>
+    <Inglese>ADMITTED VALUES:-1,-2,+1,+2 </Inglese>
+    <Francese>VALEURS ADMISES:-1,-2,+1,+2</Francese>
+    <Tedesco>ZULAESSIGE WERTE:-1,-2,+1,+2</Tedesco>
+    <Spagnolo>VALORES ADMITIDOS:-1,-2,+1,+2</Spagnolo>
+    <Svedese>VALORI AMMESSI:-1,-2,+1,+2 </Svedese>
+    <Sloveno>DOPUSTNE VREDNOSTI :-1,-2,+1,+2</Sloveno>
+    <Portoghese>VALOR DECIMAL PERDIDO</Portoghese>
+    <Lingua09>DOPUSTIMYE ZNAChENIYa: -1, -2, + 1, + 2</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00071</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI:0,+1,+2,+3</Italiano>
+    <Inglese>ADMITTED VALUES:0,+1,+2,+3</Inglese>
+    <Francese>VALEURS ADMISES:0,+1,+2,+3</Francese>
+    <Tedesco>ZULAESSIGE WERTE:0,+1,+2,+3</Tedesco>
+    <Spagnolo>VALORES ADMITIDOS:0,+1,+2,+3</Spagnolo>
+    <Svedese>VALORI AMMESSI:0,+1,+2,+3</Svedese>
+    <Sloveno>DOPUSTNE VREDNOSTI:0,+1,+2,+3</Sloveno>
+    <Portoghese>VALORES ADMITIDOS: 0,+1,+2,+3</Portoghese>
+    <Lingua09>DOPUSTIMYE ZNAChENIYa: 0, + 1, + 2, + 3</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00081</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI 0 - 1 - 3</Italiano>
+    <Inglese>ADMITTED VALUES:0 or 1 or 3</Inglese>
+    <Francese>VALEURS ADMISES:0 ou 1 ou 3</Francese>
+    <Tedesco>ZULAESSIGE WERTE:0 oder 1 oder 3</Tedesco>
+    <Spagnolo>VALORES ADMITIDOS:0 o 1 o 3</Spagnolo>
+    <Svedese>VALORI AMMESSI:0 o 1 o 3</Svedese>
+    <Sloveno>DOPUSTNE VREDNOSTI:0 ali 1 ali 3</Sloveno>
+    <Portoghese>VALORES ADMITIDOS:0 OU 1</Portoghese>
+    <Lingua09>DOPUSTIMYE ZNAChENIYa: 0 ili 1 ili 3</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00091</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI:DA 0 --&gt; 3</Italiano>
+    <Inglese>ADMITTED VALUES: FROM 0 --&gt; 3 </Inglese>
+    <Francese>VALEURS ADMISES:DE 0 --&gt; 3 </Francese>
+    <Tedesco>ZULAESSIGE WERTE: VON 0 --&gt; 3</Tedesco>
+    <Spagnolo>VALORES ADMITIDOS:DESDE 0 --&gt; 3</Spagnolo>
+    <Svedese>VALORI AMMESSI:DA 0 --&gt; 3</Svedese>
+    <Sloveno>DOPUSTNE VREDNOSTI: OD 0 --&gt; 3</Sloveno>
+    <Portoghese>VALORES ADMITIDOS: DE 0 --&gt; 3</Portoghese>
+    <Lingua09>DOPUSTIMYE ZNAChENIYa: OT 0 -&gt; 3</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00101</NR>
+    <PRJ></PRJ>
+    <Italiano>MAX. NUMERI DECIMALI  </Italiano>
+    <Inglese>MAX. DECIMAL FIGURES</Inglese>
+    <Francese>MAX. NOMBRES DÉCIMAUX </Francese>
+    <Tedesco>MAX. DEZIMALZIFFERN  </Tedesco>
+    <Spagnolo>MAX. NÚMEROS DECIMALES  </Spagnolo>
+    <Svedese>MAX. NUMERI DECIMALI </Svedese>
+    <Sloveno>MAX. DECIMALNA ©TEVILA  </Sloveno>
+    <Portoghese>MAX. NUMEROS DECIMAIS  </Portoghese>
+    <Lingua09>MAKS. ZNAChENIE S ZAPYaTOJ </Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00111</NR>
+    <PRJ></PRJ>
+    <Italiano>MAX. NUMERI INTERI </Italiano>
+    <Inglese>MAX. INTEGER FIGURES</Inglese>
+    <Francese>MAX. NOMBRES ENTIERS </Francese>
+    <Tedesco>MAX. GANZZAHLEN</Tedesco>
+    <Spagnolo>MAX. NÚMEROS ENTEROS   </Spagnolo>
+    <Svedese>MAX. NUMERI DECIMALI </Svedese>
+    <Sloveno>MAX. CELA ©TEVILA  </Sloveno>
+    <Portoghese>MAX. NUMEROS TOTAIS  </Portoghese>
+    <Lingua09>MAKS. CELOChISLENNOE ZNAChENIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00121</NR>
+    <PRJ></PRJ>
+    <Italiano>MAX. NUMERI </Italiano>
+    <Inglese>MAX. FIGURES</Inglese>
+    <Francese>MAX. NOMBRES </Francese>
+    <Tedesco>MAX. ZIFFERN</Tedesco>
+    <Spagnolo>MAX. NÚMEROS    </Spagnolo>
+    <Svedese>MAX. NUMERI </Svedese>
+    <Sloveno>MAX. ©TEVILA  </Sloveno>
+    <Portoghese>MAX. NUMEROS </Portoghese>
+    <Lingua09>MAKS. ZNAChENIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00131</NR>
+    <PRJ></PRJ>
+    <Italiano>MANCA PUNTO DI REFERENZA IN PAGINA 2</Italiano>
+    <Inglese>REFERENCE POINT ON PAGE 2 MISSING</Inglese>
+    <Francese>POINT DE REPÉRAGE DE PAGE 2 MANQUANT</Francese>
+    <Tedesco>REFERENSPUNKT AUF SEITE 2 FEHLT</Tedesco>
+    <Spagnolo>PUNTO DE REFERENCIA DE PÁGINA 2 FALTANTE</Spagnolo>
+    <Svedese>MANCA PUNTO DI REFERENZA IN PAGINA 2   </Svedese>
+    <Sloveno>MANJKAJOÈA REFERENÈNA TOÈKA NA STRANI 2</Sloveno>
+    <Portoghese>FALTA PONTO DE REFERÊNCIA NA PÁG. 2 </Portoghese>
+    <Lingua09>OTSUTSTVUET TOChKA PRIVYaZKI NA STRANICE 2</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00141</NR>
+    <PRJ></PRJ>
+    <Italiano>MANCA PUNTO DI REFERENZA IN PAGINA 4</Italiano>
+    <Inglese>REFERENCE POINT ON PAGE 4 MISSING</Inglese>
+    <Francese>POINT DE REPÉRAGE DE PAGE 4 MANQUANT</Francese>
+    <Tedesco>REFERENSPUNKT AUF SEITE 4 FEHLT</Tedesco>
+    <Spagnolo>PUNTO DE REFERENCIA DE PÁGINA 4 FALTANTE</Spagnolo>
+    <Svedese>MANCA PUNTO DI REFERENZA IN PAGINA 4</Svedese>
+    <Sloveno>MANJKAJOÈA REFERENÈNA TOÈKA NA STRANI 4</Sloveno>
+    <Portoghese>FALTA PONTO DE REFERÊNCIA NA PÁG. 4 </Portoghese>
+    <Lingua09>OTSUTSTVUET TOChKA PRIVYaZKI NA STRANICE 4</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00151</NR>
+    <PRJ></PRJ>
+    <Italiano>CHIUDERE IL PORTELLONE E RIPARTIRE</Italiano>
+    <Inglese>CLOSE THE DOOR AND RESTART</Inglese>
+    <Francese>FERMER LE PORTILLON ET REDÉMARRER </Francese>
+    <Tedesco>TUER SCHLIESSEN UND ERNEUT STARTEN</Tedesco>
+    <Spagnolo>CERRAR LA PUERTA Y REPONER EN MARCHA</Spagnolo>
+    <Svedese>CHIUDERE IL PORTELLONE E RIPARTIRE</Svedese>
+    <Sloveno>ZAPRI VRATA IN PONOVNO VKLOPI</Sloveno>
+    <Portoghese>FECHE A PORTA E REINICIE</Portoghese>
+    <Lingua09>ZAKRYT DVER I PEREZAPUSTIT</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00161</NR>
+    <PRJ></PRJ>
+    <Italiano>ORIGINE INSERITA ERRATA</Italiano>
+    <Inglese>ENTERED ORIGIN WRONG</Inglese>
+    <Francese>ORIGINE CHARGÉE ERRONÉE</Francese>
+    <Tedesco>EINGEGEBENER NULLPUNKT FALSCH</Tedesco>
+    <Spagnolo>ORIGEN INTRODUCIDA EQUIVOCADA</Spagnolo>
+    <Svedese>ORIGINE INSERITA ERRATA</Svedese>
+    <Sloveno>VNE©EN NAPAÈEN ZAÈETEK </Sloveno>
+    <Portoghese>ORIGEM INTRODUZIDA ERRADA</Portoghese>
+    <Lingua09>VVEDENA NEPRAVILNAYa PRIVYaZKA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00171</NR>
+    <PRJ></PRJ>
+    <Italiano>FUNZIONE comcnc FALLITA </Italiano>
+    <Inglese>comcnc FUNCTION FAILED </Inglese>
+    <Francese>FONCTION comcnc ÉCHOUÉE </Francese>
+    <Tedesco>comcnc-FUNKTION MISSLUNGEN </Tedesco>
+    <Spagnolo>FUNCIÓN comcnc FALLIDA</Spagnolo>
+    <Svedese>FUNZIONE comcnc FALLITA</Svedese>
+    <Sloveno>COMCNC FUNKCIJSKA NAPAKA</Sloveno>
+    <Portoghese>FUNÇÃO comcnc FALHOU</Portoghese>
+    <Lingua09>SBOJ FUNKCII COMCNC</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00181</NR>
+    <PRJ></PRJ>
+    <Italiano>TIPO DIAMANTATURA ERRATA</Italiano>
+    <Inglese>DRESSING TYPE WRONG</Inglese>
+    <Francese>TYPE DIAMANTAGE ERRONÉ</Francese>
+    <Tedesco>ABRICHTART FALSCH</Tedesco>
+    <Spagnolo>TIPO DIAMANTADO EQUIVOCADO</Spagnolo>
+    <Svedese>TIPO DIAMANTATURA ERRATA</Svedese>
+    <Sloveno>NAPAÈEN TIP PORAVNAVANJA</Sloveno>
+    <Portoghese>TIPO DE DIAMANTAÇÃO ERRADA</Portoghese>
+    <Lingua09>NEPRAVILNYJ TIP PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00191</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI PRESTACCO INCONGRUENTI</Italiano>
+    <Inglese>MOVE-AWAY DATA ILLOGICAL</Inglese>
+    <Francese>DONNÉES PRÉ-DÉSENGAGEMENT INCOHÉRENTES</Francese>
+    <Tedesco>ABHEBEDATEN UNLOGISCH</Tedesco>
+    <Spagnolo>DATOS PRE-DESEMPEÑO INCONGRUENTES</Spagnolo>
+    <Svedese>DATI PRESTACCO INCONGRUENTI </Svedese>
+    <Sloveno>ODSTRANI NELOGIÈNE PODATKE</Sloveno>
+    <Portoghese>DADOS DE MOVIMENTO ILÓGICOS </Portoghese>
+    <Lingua09>DANNYE DVIZhENIYa NEKORREKTNYE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00201</NR>
+    <PRJ></PRJ>
+    <Italiano>TRATTO NULLO </Italiano>
+    <Inglese>SECTION INVALID</Inglese>
+    <Francese>SEGMENT NUL</Francese>
+    <Tedesco>STRECKE UNGUELTIG</Tedesco>
+    <Spagnolo>SEGMENTO NULO</Spagnolo>
+    <Svedese>TRATTO NULLO</Svedese>
+    <Sloveno>NEVELJAVEN PROFIL</Sloveno>
+    <Portoghese>SEGMENTO INVÁLIDO </Portoghese>
+    <Lingua09>NEVERNOE SEChENIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00211</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI INIZIO - FINE PENDOLAMENTI INCONGRUENTI</Italiano>
+    <Inglese>RECIPROCATION START/END DATA ILLOGICAL</Inglese>
+    <Francese>DONNÉES DÉMARRAGE – FIN OSCILLATIONS INCOHÉRENTES  </Francese>
+    <Tedesco>PENDELBEGINN UND -ENDE-DATEN UNLOGISCH</Tedesco>
+    <Spagnolo>DATOS ARRANQUE – FIN OSCILACIONES INCONGRUENTES</Spagnolo>
+    <Svedese>DATI INIZIO - FINE PENDOLAMENTI INCONGRUENTI</Svedese>
+    <Sloveno>IZMENJAVA NELOGIÈNIH PODATKOV ZAÈETEK / KONEC </Sloveno>
+    <Portoghese>DADOS DE ARRANQUE - FIM DE OSCILAÇÕES INCORRECTAS</Portoghese>
+    <Lingua09>DANNYE NAChALO/KONCA VOZVRATNO-POSTUPATELNOGO DVIZhENIYa NEKORREKTNYE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00221</NR>
+    <PRJ></PRJ>
+    <Italiano>FILE ALTERATO O MANCANTE</Italiano>
+    <Inglese>FILE ALTERED OR MISSING</Inglese>
+    <Francese>FICHIER DÉTRUIT OU MANQUANT </Francese>
+    <Tedesco>DATEI GEAENDERT BZW. FEHLEND</Tedesco>
+    <Spagnolo>FICHERO DESTRUIDO O FALTANTE</Spagnolo>
+    <Svedese>FILE ALTERATO O MANCANTE</Svedese>
+    <Sloveno>SPREMENJEN ALI POGRE©AN DOKUMENT</Sloveno>
+    <Portoghese>FICHEIRO ALTERADO OU DESAPARECIDO</Portoghese>
+    <Lingua09>FAJL ZAMENEN ILI OTSUTSTVUET</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00231</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI MOLA IN COSTA ERRATI</Italiano>
+    <Inglese>WHEEL SHOULDER DATA WRONG</Inglese>
+    <Francese>DONNÉES MEULE EN CÔTE ERRONÉES</Francese>
+    <Tedesco>SCHEIBENSCHULTERDATEN FALSCH  </Tedesco>
+    <Spagnolo>DATOS MUELA EN CARA EQUIVOCADOS</Spagnolo>
+    <Svedese>DATI MOLA IN COSTA ERRATI</Svedese>
+    <Sloveno>PODATKI OBODA KOLUTA NEPRAVILNI</Sloveno>
+    <Portoghese>DADOS DA MÓ EM OMBRO ERRADO</Portoghese>
+    <Lingua09>DANNYE PLEChA KRUGA NEPRAVILNYE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00241</NR>
+    <PRJ></PRJ>
+    <Italiano>RAGGIO MOLA O MOLETTA SOTTO MISURA</Italiano>
+    <Inglese>WHEEL OR ROLLER RADIUS UNDER SIZE</Inglese>
+    <Francese>RAYON MEULE OU MOLETTE SOUS-DIMENSION </Francese>
+    <Tedesco>SCHEIBEN- BZW. ROLLENRADIUS UNTER MAß</Tedesco>
+    <Spagnolo>RADIO MUELA O PEQUEÑA MUELA SUBTAMAÑO</Spagnolo>
+    <Svedese>RAGGIO MOLA O MOLETTA SOTTO MISURA</Svedese>
+    <Sloveno>RADIJ KOLUTA ALI VALJA POD MERO</Sloveno>
+    <Portoghese>RAIO DA MÓ OU ROLO ABAIXO DO TAMANHO</Portoghese>
+    <Lingua09>RADIUS KRUGA ILI ROLIKA MENShE RAZMERA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00251</NR>
+    <PRJ></PRJ>
+    <Italiano>FASCIA MOLA O MOLETTA SOTTO MISURA</Italiano>
+    <Inglese>WHEEL OR ROLLER WIDTH UNDER SIZE</Inglese>
+    <Francese>BANDE MEULE OU MOLETTE SOUS DIMENSION</Francese>
+    <Tedesco>SCHEIBEN- BZW. ROLLENBREITE UNTER MAß</Tedesco>
+    <Spagnolo>BANDA MUELA O PEQUEÑA MUELA SUBTAMAÑO</Spagnolo>
+    <Svedese>FASCIA MOLA O MOLETTA SOTTO MISURA</Svedese>
+    <Sloveno>©IRINA KOLUTA ALI VALJA POD MERO</Sloveno>
+    <Portoghese>LARGURA DA MÓ OU ROLO ABAIXO DO TAMANHO</Portoghese>
+    <Lingua09>ShIRINA KRUGA ILI ROLIKA MENShE RAZMERA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00261</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI INIZIO/FINE CICLO ERRATI !</Italiano>
+    <Inglese>CYCLE START/END DATA WRONG ! </Inglese>
+    <Francese>DONNÉES DÉMARRAGE/FIN CYCLE ERRONÉES !</Francese>
+    <Tedesco>ZYKLUSDATEN START/ENDE FALSCH ! </Tedesco>
+    <Spagnolo>DATOS ARRANQUE/FIN CICLO EQUIVOCADOS !</Spagnolo>
+    <Svedese>DATI INIZIO/FINE CICLO ERRATI ! </Svedese>
+    <Sloveno>NAPAÈNI PODATKI CIKLUSA ZAÈETEK / KONEC! </Sloveno>
+    <Portoghese>DADOS ARRANQUE/FIM DE CICLOS ERRADOSO</Portoghese>
+    <Lingua09>DANNYE NAChALO/KONCA CIKLA NEVERNY!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00271</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI ASPORTAZIONE Z ERRATI !</Italiano>
+    <Inglese>REMOVAL DATA ON Z WRONG ! </Inglese>
+    <Francese>DONNÉES ENLÈVEMENT Z ERRONÉES !</Francese>
+    <Tedesco>ABTRAGSDATEN IN Z FALSCH !</Tedesco>
+    <Spagnolo>DATOS REMOCIÓN Z EQUIVOCADOS !</Spagnolo>
+    <Svedese>DATI ASPORTAZIONE Z ERRATI !</Svedese>
+    <Sloveno>NAPAÈNI PODATKI ZA ODMIK NA Z ! </Sloveno>
+    <Portoghese>DADOS DE REMOÇÃO EM Y INCORRECTOS !</Portoghese>
+    <Lingua09>DANNYE PRIPUSKA PO Z NEVERNY!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00281</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI ASPORTAZIONE Y ERRATI !</Italiano>
+    <Inglese>REMOVAL DATA ON Y WRONG !</Inglese>
+    <Francese>DONNÉES ENLÈVEMENT Y ERRONÉES !</Francese>
+    <Tedesco>ABTRAGSDATEN IN Y FALSCH !  </Tedesco>
+    <Spagnolo>DATOS REMOCIÓN Y EQUIVOCADOS !</Spagnolo>
+    <Svedese>DATI ASPORTAZIONE Y ERRATI !</Svedese>
+    <Sloveno>NAPAÈNI PODATKI ZA ODMIK NA Y!</Sloveno>
+    <Portoghese>DADOS REMOÇÃO Y INCORRECTOS !</Portoghese>
+    <Lingua09>DANNYE PRIPUSKA PO Y NEVERNY!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00291</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI ASPORTAZIONE Y/Z ERRATI !</Italiano>
+    <Inglese>REMOVAL DATA ON Y/Z WRONG !  </Inglese>
+    <Francese>DONNÉES ENLÈVEMENT Y/Z ERRONÉES ! </Francese>
+    <Tedesco>ABTRAGSDATEN IN Y/Z FALSCH !</Tedesco>
+    <Spagnolo>DATOS REMOCIÓN Y/Z EQUIVOCADOS !</Spagnolo>
+    <Svedese>DATI ASPORTAZIONE Y/Z ERRATI !</Svedese>
+    <Sloveno>NAPAÈNI PODATKI ZA ODMIK NA Y / Z!</Sloveno>
+    <Portoghese>DADOS DE REMOÇÃO Y/Z INCORRECTOS !</Portoghese>
+    <Lingua09>DANNYE PRIPUSKA PO Y/Z NEVERNY!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00301</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI PER CREEP_FEED ERRATI !</Italiano>
+    <Inglese>CREEP-FEED DATA WRONG !</Inglese>
+    <Francese>DONNEÉS CREEP - FEED ERROONÉES !</Francese>
+    <Tedesco>CREEP-FEED DATEN FALSCH !</Tedesco>
+    <Spagnolo>DATOS CREEP - FEED EQUIVOCADOS !</Spagnolo>
+    <Svedese>DATI PER CREEP_FEED ERRATI !</Svedese>
+    <Sloveno>NAPAÈNI PODATKI PREMIKANJA PODAJANJA!</Sloveno>
+    <Portoghese>DADOS CREEP - FEED INCORRECTOS !</Portoghese>
+    <Lingua09>DANNYE PODAChI NEVERNY!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00311</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI PRESTACCO Z ERRATI !</Italiano>
+    <Inglese>MOVE-AWAY DATA ON Z WRONG !</Inglese>
+    <Francese>DONNÉES PRÉ-DÉSENGAGEMENT Z ERRONÉES !</Francese>
+    <Tedesco>ABHEBEDATEN IN Z FALSCH !</Tedesco>
+    <Spagnolo>DATOS PRE-DESEMPEÑO EQUIVOCADOS!</Spagnolo>
+    <Svedese>DATI PRESTACCO Z ERRATI !</Svedese>
+    <Sloveno>ODSTRANI NAPAÈNE PODATKE NA Z !</Sloveno>
+    <Portoghese>DADOS DE MOVIMENTO INCORRECTOS !</Portoghese>
+    <Lingua09>DANNYE DVIZhENIYa PO Z NEVERNY!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00321</NR>
+    <PRJ></PRJ>
+    <Italiano>VERIFICARE AGGIORNAMENTO ORIGINI DI LAVORO</Italiano>
+    <Inglese>CHECK UPDATING OF GRINDING ORIGIN DATA</Inglese>
+    <Francese>VÉRIFIER MISE À JOUR ORIGINES DE TRAVAIL</Francese>
+    <Tedesco>UEBERPRUEFEN DER AKTUALISIERUNG VON SCHLEIFNULLPUNKTDATEN</Tedesco>
+    <Spagnolo>COMPROBAR ACTUALIZACIÓN ORIGENES DE TRABAJO</Spagnolo>
+    <Svedese>VERIFICARE AGGIORNAMENTO ORIGINI DI LAVORO</Svedese>
+    <Sloveno>KONTROLA OBNOVLJENIH ZAÈETNIH BRUSNIH PODATKOV</Sloveno>
+    <Portoghese>VERIFICAR ACTUALIZAÇÃO DE ORIG. TRABALHO</Portoghese>
+    <Lingua09>PROVERTE OBNOVLENIE PRIVYaZKI ShLIFOVANIYa.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00331</NR>
+    <PRJ></PRJ>
+    <Italiano>VERIFICARE AGGIORNAMENTO ORIGINI DI DIAMANTATURA</Italiano>
+    <Inglese>CHECK UPDATING OF DRESSING ORIGIN DATA</Inglese>
+    <Francese>VÉRIFIER MISE À JOUR ORIGINES DE DIAMANTAGE</Francese>
+    <Tedesco>UEBERPRUEFEN DER AKTUALISIERUNG VON ABRICHTNULLPUNKTDATEN</Tedesco>
+    <Spagnolo>COMPROBAR ACTUALIZACIÓN ORIGENES DIAMANTADO</Spagnolo>
+    <Svedese>VERIFICARE AGGIORNAMENTO ORIGINI DI DIAMANTATURA</Svedese>
+    <Sloveno>KONTROLA OBNOVLJENIH ZAÈETNIH PORAVNALNIH PODATKOV </Sloveno>
+    <Portoghese>VERIFICAR ACTUALIZAÇÃO ORIGEM DIAMANTAÇÃO</Portoghese>
+    <Lingua09>PROVERTE OBNOVLENIE PRIVYaZKI PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00341</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORE ERRATO</Italiano>
+    <Inglese>WRONG VALUE</Inglese>
+    <Francese>VALEUR ERRONÉE</Francese>
+    <Tedesco>WERT FALSCH </Tedesco>
+    <Spagnolo>VALOR EQUIVOCADO</Spagnolo>
+    <Svedese>VALORE ERRATO</Svedese>
+    <Sloveno>NAPAÈNA VREDNOST</Sloveno>
+    <Portoghese>VALORES ERRADOS</Portoghese>
+    <Lingua09>NEPRAVILNOE ZNAChENIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00351</NR>
+    <PRJ></PRJ>
+    <Italiano>ERRATA SEQUENZA PIANI </Italiano>
+    <Inglese>SURFACE SEQUENCE WRONG</Inglese>
+    <Francese>SÉQUENCE PLANS ERRONÉE</Francese>
+    <Tedesco>FLAECHENFOLGE FALSCH </Tedesco>
+    <Spagnolo>SECUENCIA PLANOS EQUIVOCADA</Spagnolo>
+    <Svedese>ERRATA SEQUENZA PIANI</Svedese>
+    <Sloveno>NAPAÈNO POVR©INSKO ZAPOREDJE</Sloveno>
+    <Portoghese>SEQUÊNCIA DE PLANOS ERRADOS</Portoghese>
+    <Lingua09>POSLEDOVATELNOST POVERHNOSTEJ</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00361</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI TIPO CICLO@ INIZIO Z FINE Z@ INIZIO Y FINE Y@ ERRATI !</Italiano>
+    <Inglese>CYCLE TYPE DATA@ BEGIN Z END Z@ BEGIN Y END Y@ ERRATI !</Inglese>
+    <Francese>DONNÉES TYPE CYCLE@ DÉMARRAGE Z FIN Z@ Y-BEGINN Y-ENDE@ ERRATI !</Francese>
+    <Tedesco>ZYKLUSART-DATEN@ Z-BEGINN Z-ENDE@ Y-BEGINN Y-ENDE@ ERRATI !</Tedesco>
+    <Spagnolo>DATOS TIPO CICLO@ ARRANQUE Z FIN Z@  ARRANQUE Y FIN Y@ EQUIVOCADOS !</Spagnolo>
+    <Svedese>DATI TIPO CICLO@ INIZIO Z FINE Z@ INIZIO Y FINE Y@ ERRATI !</Svedese>
+    <Sloveno>DATI TIPO CICLO@ INIZIO Z FINE Z@ INIZIO Y FINE Y@ ERRATI !</Sloveno>
+    <Portoghese>DADOS TIPO CICLO@ INÍCIO Z FIM Z@ INÍCIO Y FIM Y@ ERRTI !</Portoghese>
+    <Lingua09>DANNYE TIPA CIKLA @ NAChALO Z KONEC Z @ NAChALO Y KONEC Y @ NEVERNY!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00371</NR>
+    <PRJ></PRJ>
+    <Italiano>Ciclo ISO in corso premere reset e riprovare</Italiano>
+    <Inglese>ISO cycle under progress, press reset and retry</Inglese>
+    <Francese>Ciclo ISO en cours appuyer sur reset et retenter</Francese>
+    <Tedesco>ISO-Zyklus ablaufend, Reset druecken und erneut versuchen</Tedesco>
+    <Spagnolo>Ciclo ISO en curso pulsar reset y tentar de nuevo</Spagnolo>
+    <Svedese>Ciclo ISO in corso premere reset e riprovare</Svedese>
+    <Sloveno>ZAOSTAJANJE ISO CIKLUSA, ODPRAVI NAPAKO IN PONOVNO ZA®ENI</Sloveno>
+    <Portoghese>Ciclo ISO em curso pressionar reset e tentar de novo</Portoghese>
+    <Lingua09>Vypolnyaetsya cikl ISO, nazhmite RESET i povtorite</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00381</NR>
+    <PRJ></PRJ>
+    <Italiano>Questo comando inizializza tutti i valori del programma attivo. Vuoi proseguire ?</Italiano>
+    <Inglese>CONFIRM RESET OF DATA IN MEMORY!</Inglese>
+    <Francese>VALIDATION RESET DONNÉES EN MÉMOIRE!</Francese>
+    <Tedesco>DATEN-RESET IM SPEICHER BESTAETIGEN!</Tedesco>
+    <Spagnolo>CONVALIDACIÓN RESET DATOS EN MEMORIA!</Spagnolo>
+    <Svedese>CONFERMI RESET DATI IN MEMORIA!</Svedese>
+    <Sloveno>POTRDI ODPRAVO NAPAKE PODATKOV V SPOMINU !</Sloveno>
+    <Portoghese>CONFIRMAR REAJUSTE DOS DADOS DE MEMÓRIA</Portoghese>
+    <Lingua09>PODTVERDITE SBROS DANNYH V PAMYaTI!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00382</NR>
+    <PRJ></PRJ>
+    <Italiano>Questo comando inizializza tutti i valori del programma attivo. Confermi ?</Italiano>
+    <Inglese>CONFIRM RESET OF DATA IN MEMORY!</Inglese>
+    <Francese>VALIDATION RESET DONNÉES EN MÉMOIRE!</Francese>
+    <Tedesco>DATEN-RESET IM SPEICHER BESTAETIGEN!</Tedesco>
+    <Spagnolo>CONVALIDACIÓN RESET DATOS EN MEMORIA!</Spagnolo>
+    <Svedese>CONFERMI RESET DATI IN MEMORIA!</Svedese>
+    <Sloveno>POTRDI ODPRAVO NAPAKE PODATKOV V SPOMINU !</Sloveno>
+    <Portoghese>CONFIRMAR REAJUSTE DOS DADOS DE MEMÓRIA</Portoghese>
+    <Lingua09>PODTVERDITE SBROS DANNYH V PAMYaTI!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00391</NR>
+    <PRJ></PRJ>
+    <Italiano>FILE PRESENTE VUOI SOVRASCRIVERLO ?</Italiano>
+    <Inglese>FILE ALREADY EXISTING. OVERWRITE ? </Inglese>
+    <Francese>FICHIER PRÉSENT – LE RECOUVRIR ?</Francese>
+    <Tedesco>DATEI EXISTIERT BEREITS. UEBERSCHREIBEN?</Tedesco>
+    <Spagnolo>FICHERO PRESENTE - RECUBRIRLO ?</Spagnolo>
+    <Svedese>FILE PRESENTE VUOI SOVRASCRIVERLO ?</Svedese>
+    <Sloveno>BAZA ®E OBSTAJA,KOPIRAJ ÈEZ OBSTOJEÈO ?</Sloveno>
+    <Portoghese>FICHEIRO JÁ EXISTE - SUBSTITUI-LO ?</Portoghese>
+    <Lingua09>FAJL UZhE SUShESTVUET. PEREPISAT?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00401</NR>
+    <PRJ></PRJ>
+    <Italiano>CONFERMI LA CANCELLAZIONE DEL FILE ?</Italiano>
+    <Inglese>DO YOU CONFIRM FILE CANCELLING ?</Inglese>
+    <Francese>VALIDATION EFFACEMENT FICHIER ?</Francese>
+    <Tedesco>DATEI-LOESCHUNG BESTAETIGEN?</Tedesco>
+    <Spagnolo>CONVALIDACIÓN CANCELACIÓN FICHERO ?</Spagnolo>
+    <Svedese>CONFERMI LA CANCELLAZIONE DEL FILE ? </Svedese>
+    <Sloveno>ALI RES ®ELI© RAZVELJAVITI DOKUMENT ?</Sloveno>
+    <Portoghese>CONFIRMAR CANCELAMENTO DO FICEHRIO ?</Portoghese>
+    <Lingua09>VY PODTVERZhDAETE UDALENIE FAJLA?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00411</NR>
+    <PRJ></PRJ>
+    <Italiano>Yes LAVORAZIONE + MOLA@No SOLO LAVORAZIONE@Cancel SOLO DATI</Italiano>
+    <Inglese>Yes GRINDING + WHEEL@No ONLY GRINDING@Cancel ONLY DATA</Inglese>
+    <Francese>Yes USINAGE + MEULE@No SEULEMENT USINAGE@Cancel SEULEMENT DONNÉES</Francese>
+    <Tedesco>Yes SCHLEIFEN + SCHEIBE@No NUR SCHLEIFEN@Cancel SOLO DATI </Tedesco>
+    <Spagnolo>Yes ELABORACIÓN + MUELA@No SOLO ELABORACIÓN@Cancel SOLO DATOS</Spagnolo>
+    <Svedese>Yes LAVORAZIONE + MOLA@No SOLO LAVORAZIONE@Cancel SOLO DATI</Svedese>
+    <Sloveno>DA BRU©ENJE + VRTENJE@NE SAMO BRU©ENJE@Cancel ONLY DATA</Sloveno>
+    <Portoghese>Sim TRABALHO + MÓ@Não SÓ TRABALHO@Cnacelar SÓ DADOS</Portoghese>
+    <Lingua09>Da ShLIFOVKA + KRUG Net TOLKO ShLIFOVANIE OTMENA TOLKO DANNYE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00421</NR>
+    <PRJ></PRJ>
+    <Italiano>CONFERMI L'OPERAZIONE</Italiano>
+    <Inglese>CONFIRM THE OPERATION</Inglese>
+    <Francese>VALIDATION OPÉRATION</Francese>
+    <Tedesco>VORGANG BESTAETIGEN</Tedesco>
+    <Spagnolo>CONVALIDACIÓN OPERACIÓN</Spagnolo>
+    <Svedese>CONERMI L'OPERAZIONE</Svedese>
+    <Sloveno>POTRDITEV DELOVANJA </Sloveno>
+    <Portoghese>CONFIRMAR A OPERAÇÃO </Portoghese>
+    <Lingua09>PODTVERDITE OPERACIYu</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00431</NR>
+    <PRJ></PRJ>
+    <Italiano>LAVORAZIONE IN MEMORIA NON ARCHIVIATA@CONFERMI L'OPERAZIONE</Italiano>
+    <Inglese>GRINDING NOT STORED IN MEMORY@CONFIRM THE OPERATION</Inglese>
+    <Francese>USINAGE EN MÉMOIRE PAS ARCHIVÉE@VALIDATION OPÉRATION</Francese>
+    <Tedesco>SCHLEIFEN NICHT IM SPEICHER ABGELEGT@VORGANG BESTAETIGEN</Tedesco>
+    <Spagnolo>ELABORACIÓN EN MEMORIA NO ARCHIVADA@CONVALIDACIÓN OPERACIÓN</Spagnolo>
+    <Svedese>LAVORAZIONE IN MEMORIA NON ARCHIVIATA@CONFERMI L'OPERAZIONE</Svedese>
+    <Sloveno>BRU©ENJE NI SHRANJENO V SPOMIN@POTRDI SHRANJEVANJE</Sloveno>
+    <Portoghese>TRABALHO NÃO ARQUIVADO NA MEMÓRIA@CONFIRMAR OPERAÇÃO</Portoghese>
+    <Lingua09>ShLIFOVANIE NE SOHRANENO V PAMYaTI, PODTVERDITE OPERACIYu</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00441</NR>
+    <PRJ></PRJ>
+    <Italiano>AGGIORNAMENTO ORIGINI O COPIA PIANO@NON AFFIDABILI ELIMINARE EMERGENZA E@RIPETERE L'OPERAZIONE</Italiano>
+    <Inglese>ORIGIN UPDATING OR SURFACE COPYING@NOT RELIABLE, CANCEL EMERGENCY AND@REPEAT OPERATION</Inglese>
+    <Francese>MISE À JOUR ORIGINES OU COPIE PLAN@PAS FIABLES. ÉLIMINER URGENCE ET@RÉPÉTER L'OPÉRATION</Francese>
+    <Tedesco>NULLPUNKTE-AKTUALISIERUNG BZW.@FLAECHENKOPIEREN UNZUVERLAESSIG, NOT-AUS@BESEITIGEN UND VORGANG WIEDERHOLEN</Tedesco>
+    <Spagnolo>ACTUALIZACIÓN ORIGENES O COPIA PLANO@NO DE CONFIANZA. ELIMINAR URGENCIA Y@REPETIR LA OPERACIÓN</Spagnolo>
+    <Svedese>AGGIORNAMENTO ORIGINI O COPIA PIANO@NON AFFIDABILI ELIMINARE EMERGENZA E@RIPETERE L'OPERAZIONE</Svedese>
+    <Sloveno>ZAÈETK OBNAVLJANJA ALI KOPIRANJE POVR©IN@JE NEZANESLJIVO,PREKLIÈI ZAUTAVITEV IN@PONOVI OPERACIJO</Sloveno>
+    <Portoghese>ACTUALIZAÇÃO ORIGENS OU CÓPIA DO PLANO@NÃO SEGURA. ELIMINAR EMERGÊNCIA E@REPETIR A OPERAÇÃO</Portoghese>
+    <Lingua09>OBNOVLENIE PRIVYaZKI ILI KOPIRUEMYE POVERHNOSTI NE NADEZhNY, OTMENITE AVARIYu I POVTORITE OPERACIYu</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00451</NR>
+    <PRJ></PRJ>
+    <Italiano>SET ASSI DA ESEGUIRE !!</Italiano>
+    <Inglese>AXIS SETTING TO BE CARRIED OUT !!</Inglese>
+    <Francese>SET AXES À EXÉCUTER  !!</Francese>
+    <Tedesco>ACHSENSETZEN DURCHFUEHREN !!</Tedesco>
+    <Spagnolo>SET EJES DE EFECTUARSE !!</Spagnolo>
+    <Svedese>SET ASSI DA ESEGUIRE !!</Svedese>
+    <Sloveno>NASTAVITEV OSI ZA DELOVANJE</Sloveno>
+    <Portoghese>PROGRAMAR EIXOS A EFECTURA !!</Portoghese>
+    <Lingua09>DOLZhNA BYT VYPOLNENA USTANOVKA OSI!!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00461</NR>
+    <PRJ></PRJ>
+    <Italiano>CONFERMI LO SPEGNIMENTO MACCHINA ? </Italiano>
+    <Inglese>CONFIRM THE SHUT DOWN ? </Inglese>
+    <Francese>CONFIRM THE SHUT DOWN ?</Francese>
+    <Tedesco>CONFIRM THE SHUT DOWN ?</Tedesco>
+    <Spagnolo>CONFIRM THE SHUT DOWN ?</Spagnolo>
+    <Svedese>CONFIRM THE SHUT DOWN ?</Svedese>
+    <Sloveno>CONFIRM THE SHUT DOWN ?</Sloveno>
+    <Portoghese>CONFIRM THE SHUT DOWN ?</Portoghese>
+    <Lingua09>PODTVERDITE VYKLYuChENIE?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00471</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI:DA 0 --&gt; 3</Italiano>
+    <Inglese>ADMITTED VALUES: FROM 0 --&gt; 3</Inglese>
+    <Francese>VALEURS ADMISES: DE 0 -- &gt; 3</Francese>
+    <Tedesco>ZULAESSIGE WERTE: VON 0 --&gt; 3</Tedesco>
+    <Spagnolo>VALORES ADMITIDOS: DESDE 0 --&gt; 3 </Spagnolo>
+    <Svedese>VALORI AMMESSI:DA 0 --&gt; 3</Svedese>
+    <Sloveno>DOPUSTNE VREDNOSTI: OD 0 --&gt; 3</Sloveno>
+    <Portoghese>VALORES ADMITIDOS : DE 0 -- 3</Portoghese>
+    <Lingua09>DOPUSTIMYE ZNAChENIYa: OT 0 -&gt; 3</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00481</NR>
+    <PRJ></PRJ>
+    <Italiano>Pausa per cambio facciata.Spegnere la@mola e smagnetizzare per aprire il portellone.@Premere ENTER per proseguire.</Italiano>
+    <Inglese>Pause for changing piece face.Switch off@wheel then demag plane to open door.@Push ENTER to continue.</Inglese>
+    <Francese>Pause pour changement façe. Arrêter la@meule et démagnétiser pour ouvrir le portillon.@Appuyer surENTER pour continue.</Francese>
+    <Tedesco>Pause fuer Werkstueckkantenwechsel.@Scheibe abschalten.Entmagnetisieren fuer Tuer oeffnen.@ ENTER zum Fortsetzen.</Tedesco>
+    <Spagnolo>Pausa por cambio fachada.Apagar la muela@y desmagnetizar para abrir la puerta.@Abrir ENTER para continuar</Spagnolo>
+    <Svedese>Pausa per cambio facciata.Spegnere la@mola e smagnetizzare per aprire il portellone.@Premere ENTER per proseguire.</Svedese>
+    <Sloveno>PAVZA.....</Sloveno>
+    <Portoghese>Pause for changing piece face.@Switch off wheel then demag plane to open door.@Push ENTER to continue.</Portoghese>
+    <Lingua09>Pauza dlya smeny poverhnosti detali. Vyklyuchite krug, zatem razmagnitte stol, chtoby otkryt dver. Nazhmite ENTER, chtoby prodolzhit.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00491</NR>
+    <PRJ></PRJ>
+    <Italiano>Dati ciclo con tavola rotante ERRATI!</Italiano>
+    <Inglese>Wrong Cyclus data rotary table!</Inglese>
+    <Francese>Données cycle avec table tournante</Francese>
+    <Tedesco>Zyklusdaten bei Drehtisch FALSCH!</Tedesco>
+    <Spagnolo>Datos ciclo con mesa giratorias EQUIV!</Spagnolo>
+    <Svedese>Dati ciclo con tavola rotante ERRATI!</Svedese>
+    <Sloveno>Dati ciclo con tavola rotante ERRATI!</Sloveno>
+    <Portoghese>Dati ciclo con tavola rotante ERRATI!</Portoghese>
+    <Lingua09>Nevernye dannye cikla povorotnogo stola!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00501</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI: 1 O 2 </Italiano>
+    <Inglese>ADMITTED VALUES: 1 O 2</Inglese>
+    <Francese>VALEURS ADMISES: 1 O 2</Francese>
+    <Tedesco>ZULAESSIGE WERTE: 1 O 2 </Tedesco>
+    <Spagnolo>VALORES ADMITIDOS: 1 O 2</Spagnolo>
+    <Svedese>VALORI AMMESSI: 1 O 2</Svedese>
+    <Sloveno>DOPUSTNE VREDNOSTI: 1 0 2</Sloveno>
+    <Portoghese>ADMITTED VALUES: 1 O 2</Portoghese>
+    <Lingua09>DOPUSTIMYE ZNAChENIYa: 1 O 2</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00511</NR>
+    <PRJ></PRJ>
+    <Italiano>E' possibile solo ricerca pezzo o@ricerca diamante con ultrasuoni.</Italiano>
+    <Inglese>Only search piece or diamond it is@possible with ultrasound.</Inglese>
+    <Francese>Seule la recherche pièce ou diamant@avec ultrasons est possible.</Francese>
+    <Tedesco>Nur Werkstuecksuche oder Diamantsuche@mittels Ultraschall moeglich.</Tedesco>
+    <Spagnolo>Es posible sólo búsqueda pieza o@búsqueda diamante con ultrasonidos.</Spagnolo>
+    <Svedese>E' possibile solo ricerca pezzo o@ricerca diamante con ultrasuoni.</Svedese>
+    <Sloveno>E' possibile solo ricerca pezzo o@ricerca diamante con ultrasuoni.</Sloveno>
+    <Portoghese>E' possibile solo ricerca pezzo o@ricerca diamante con ultrasuoni.</Portoghese>
+    <Lingua09>Tolko poisk detali ili almaza vozmozhen s pomoshyu ultrazvuka.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00521</NR>
+    <PRJ></PRJ>
+    <Italiano>CONFERMI?</Italiano>
+    <Inglese>CONFIRM?</Inglese>
+    <Francese>CONFIRMER?</Francese>
+    <Tedesco>BESTAETIGEN?</Tedesco>
+    <Spagnolo>CONFIRMAR?</Spagnolo>
+    <Svedese>CONFERMI?</Svedese>
+    <Sloveno>CONFERMI?</Sloveno>
+    <Portoghese>CONFERM?</Portoghese>
+    <Lingua09>PODTVERDIT?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00531</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI 0 - 2 - 3</Italiano>
+    <Inglese>ADMITTED VALUES 0 - 2 - 3</Inglese>
+    <Francese>VALEURS ADMISES 0 - 2 - 3 </Francese>
+    <Tedesco>ZULAESSIGE WERTE 0 - 2 - 3</Tedesco>
+    <Spagnolo>VALORES ADMITIDOS 0 - 2 - 3</Spagnolo>
+    <Svedese>VALORI AMMESSI 0 - 2 - 3 </Svedese>
+    <Sloveno>VALORI AMMESSI 0 - 2 - 3</Sloveno>
+    <Portoghese>ADMITTED VALUES 0 - 2 - 3</Portoghese>
+    <Lingua09>DOPUSTIMYE ZNAChENIYa 0 - 2 - 3</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00541</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI 4 - 5</Italiano>
+    <Inglese>ADMITTED VALUES 4 - 5</Inglese>
+    <Francese>VALEURS ADMISES 4 - 5</Francese>
+    <Tedesco>ZULAESSIGE WERTE 4 - 5</Tedesco>
+    <Spagnolo>VALORES ADMITIDOS 4 - 5</Spagnolo>
+    <Svedese>VALORI AMMESSI 4 - 5</Svedese>
+    <Sloveno>VALORI AMMESSI 4 - 5</Sloveno>
+    <Portoghese>ADMITTED VALUES 4 - 5</Portoghese>
+    <Lingua09>DOPUSTIMYE ZNAChENIYa 4 - 5</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00551</NR>
+    <PRJ></PRJ>
+    <Italiano>DATI DIAMANTATURA ASSEY NON@POSSIBILI CON PROFILO MOLA = 0</Italiano>
+    <Inglese>DRESSING DATA Y AXE INCORRECT@USING WHEEL PROFILE = 0 </Inglese>
+    <Francese>DONNÉES DIAMANTAGE AXE Y NON@POSSIBLES AVEC PROFIL MEULE = 0 </Francese>
+    <Tedesco>ABRICHTDATEN BEI Y-ACHSE NICHT@MOEGLICH BEI SCHEIBENPROFIL = 0</Tedesco>
+    <Spagnolo>DATOS DIAMANTADO ASSEY NO@POSIBLES CON PERFIL MUELA = 0 </Spagnolo>
+    <Svedese>DATI DIAMANTATURA ASSEY NON@POSSIBILI CON PROFILO MOLA = 0</Svedese>
+    <Sloveno>DATI DIAMANTATURA ASSEY NON@POSSIBILI CON PROFILO MOLA = 0</Sloveno>
+    <Portoghese>DATI DIAMANTATURA ASSEY NON@POSSIBILI CON PROFILO MOLA = 0</Portoghese>
+    <Lingua09>DANNYE PRAVKI OSI Y NEPRAVILNO ISPOLZUETSYa PROFIL KRUGA = 0</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00561</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore durante l'attivazione origine@RESET e controllare i valori.</Italiano>
+    <Inglese>Error during activation  origin@RESET and check values.</Inglese>
+    <Francese>Erreur pendant l'activation origine@RESET et contrôler les valeurs.</Francese>
+    <Tedesco>Fehler waehrend Nullpunktsuche@RESET und Werte pruefen.</Tedesco>
+    <Spagnolo>Error durante la activación orígen@RESET y controlar los valores.</Spagnolo>
+    <Svedese>Errore durante l'attivazione origine@RESET e controllare i valori.</Svedese>
+    <Sloveno>Errore durante l'attivazione origine@RESET e controllare i valori.</Sloveno>
+    <Portoghese>Errore durante l'attivazione origine@RESET e controllare i valori.</Portoghese>
+    <Lingua09>Oshibka pri aktivacii privyazki nazhmite RESET i proverte znacheniya.</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00571</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore nella creazione di un Item.@Vuoi riprovare?</Italiano>
+    <Inglese>Errore nella creazione di un Item.@Vuoi riprovare?</Inglese>
+    <Francese>Erreur dans la création d'un article.@Essayer de nouveau? </Francese>
+    <Tedesco>Fehler bei Erstellung eines Item.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error en la creación de un Item.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore nella creazione di un Item.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore nella creazione di un Item.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore nella creazione di un Item.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka pri sozdanii predmeta. Hotite poprobovat eshe raz?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00581</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore richiesta Jog.@Vuoi riprovare?</Italiano>
+    <Inglese>Request error Jog.@Retry? </Inglese>
+    <Francese>Erreur demande Jog.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Jog-Abruf.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error pedido Jog.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore richiesta Jog.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore richiesta Jog.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore richiesta Jog.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zaprosa Jog. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00591</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura FC_OUTX.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error  FC_OUTX.@Retry? </Inglese>
+    <Francese>Erreur écriture FC_OUTX.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler FC_OUTX.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura FC_OUTX.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura FC_OUTX.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura FC_OUTX.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura FC_OUTX.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi FC_OUTX. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00601</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura OK Raggio Mola.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error OK Radius wheel.@Retry? </Inglese>
+    <Francese>Erreur écriture OK Rayon meule.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler OK Scheibenradius.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura OK Radio Muela.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura OK Raggio Mola.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura OK Raggio Mola.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura OK Raggio Mola.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi OK Radius kruga. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00611</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore richiesta Set Assi.@Vuoi riprovare?</Italiano>
+    <Inglese>Request error Set Axes.@Retry? </Inglese>
+    <Francese>Erreur demande Set Axes.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Abruf von Achsensetzen.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error pedido Set Ejes.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore richiesta Set Assi.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore richiesta Set Assi.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore richiesta Set Assi.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zaprosa Zadaniya osi. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00621</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore richiesta Inversione Asse.@Vuoi riprovare?</Italiano>
+    <Inglese>Error request reciprocant axe.@Retry? </Inglese>
+    <Francese>Erreur demande Inversion Axe.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Abruf von Achsumkehr.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error pedido Inversión Eje.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore richiesta Inversione Asse.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore richiesta Inversione Asse.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore richiesta Inversione Asse.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zaprosa vozvratno-postupatelnogodvizheniya. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00631</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore richiesta Nuovo Piano.@Vuoi riprovare?</Italiano>
+    <Inglese>Error request New PLane.@Retry? </Inglese>
+    <Francese>Erreur demande Nouveau Plan.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Abruf Neuer Spannplatte.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error pedido Nuevo Plano.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore richiesta Nuovo Piano.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore richiesta Nuovo Piano.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore richiesta Nuovo Piano.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zaprosa novoj ploskosti. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00641</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura Ultimo Piano.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error last plane.@Retry? </Inglese>
+    <Francese>Erreur écriture Dernier Plan.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler bei Letzter Spannplatte.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura Último Plano.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura Ultimo Piano.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura Ultimo Piano.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura Ultimo Piano.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi poslednej ploskosti. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00651</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura Usura Mola.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error wheel wear.@Retry? </Inglese>
+    <Francese>Erreur écriture Usure Meule.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler der Scheibenabnutzung.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura Desgaste Muela.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura Usura Mola.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura Usura Mola.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura Usura Mola.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi iznosa kruga. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00661</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore Preset Asse U.@Vuoi riprovare?</Italiano>
+    <Inglese>Preset U Axe  error.@Retry? </Inglese>
+    <Francese>Erreur Preset Axe U.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei U-Achspreset.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error Preset Eje U.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore Preset Asse U.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore Preset Asse U.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore Preset Asse U.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka predustanovki osi U. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00671</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura lento Tavola.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error slow Table.@Retry? </Inglese>
+    <Francese>Erreur écriture lent Table.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler bei Tisch-Kriechgang.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura lento Mesa.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura lento Tavola.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura lento Tavola.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura lento Tavola.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi stola. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00681</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore nella generazione del file NSK  .@Vuoi riprovare?</Italiano>
+    <Inglese>Error during built file NSK.@Retry? </Inglese>
+    <Francese>Erreur dans la génération du fichier NSK.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Erstellung von NSK-Datei.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error en la generación del fichero NSK.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore nella generazione del file NSK  .@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore nella generazione del file NSK  .@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore nella generazione del file NSK  .@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka pri sborke fajla NSK. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00691</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura Dati Mola.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error wheel data.@Retry? </Inglese>
+    <Francese>Erreur écriture Données Meule.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler der Scheibendaten.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura Datos Muela.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura Dati Mola.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura Dati Mola.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura Dati Mola.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi dannyh kruga. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00701</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore connessione Server OPC.@Vuoi riprovare?</Italiano>
+    <Inglese>Error connection   Server OPC.@Retry? </Inglese>
+    <Francese>Erreur connexion Serveur OPC.@Essayer de nouveau?</Francese>
+    <Tedesco>Verbindungsfehler OPC-Server.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error conexión Server OPC.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore connessione Server OPC.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore connessione Server OPC.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore connessione Server OPC.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka podklyucheniya k serveru OPC. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00711</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore nella creazione del file R_DATI.@Vuoi riprovare?</Italiano>
+    <Inglese>Error during built file R_DATI.@Retry? </Inglese>
+    <Francese>Erreur dans la création du fichier R_DATI.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Erstellung von R_DATI-Datei.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error en la creación del fichero R_DATI.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore nella creazione del file R_DATI.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore nella creazione del file R_DATI.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore nella creazione del file R_DATI.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka pri sborke fajla R_DATI. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00721</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore nella scrittura Pagina al PLC.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error page to  PLC.@Retry? </Inglese>
+    <Francese>Erreur écriture Page dans le  PLC.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler bei Seite an SPS.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error en la escritura Página en el PLC.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore nella scrittura Pagina al PLC.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore nella scrittura Pagina al PLC.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore nella scrittura Pagina al PLC.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi stranicy v PLK. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00731</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura Tipo Ciclo.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error cyclus.@Retry? </Inglese>
+    <Francese>Erreur écriture Type Cycle.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler der Zyklusart.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura Tipo Ciclo.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura Tipo Ciclo.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura Tipo Ciclo.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura Tipo Ciclo.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi cikla. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00741</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura IVM Attiva al PLC.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error IVM  active to PLC.@Retry? </Inglese>
+    <Francese>Erreur écriture IVM Active dans le PLC.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler bei aktivem IVM zur SPS.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura IVM Activa en el PLC.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura IVM Attiva al PLC.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura IVM Attiva al PLC.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura IVM Attiva al PLC.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi IVM dejstviya v PLK. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00751</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura OK Start al PLC.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error  OK Start to PLC.@Retry? </Inglese>
+    <Francese>Erreur écriture OK Start dans le PLC.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler OK Start zur SPS.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura OK Start en el PLC.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura OK Start al PLC.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura OK Start al PLC.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura OK Start al PLC.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi OK nachala v PLK. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00761</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura OK Jog al PLC.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error  OK Jog to  PLC.@Retry? </Inglese>
+    <Francese>Erreur écriture Ok Jog dans le PLC.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler OK Jog zur SPS.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura OK Jog en l PLC.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura OK Jog al PLC.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura OK Jog al PLC.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura OK Jog al PLC.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi OK Jog v PLK. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00771</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore selezione R_MAIN.@Vuoi riprovare?</Italiano>
+    <Inglese>Error  selection  R_MAIN.@Retry? </Inglese>
+    <Francese>Erreur sélection R_MAIN.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Wahl von R_MAIN.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error selección R_MAIN.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore selezione R_MAIN.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore selezione R_MAIN.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore selezione R_MAIN.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka vybora R_MAIN. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00781</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore lettura Origine attiva.@Vuoi riprovare?</Italiano>
+    <Inglese>Reading error Origin active.@Retry? </Inglese>
+    <Francese>Erreur lecture Origine active.@Essayer de nouveau?</Francese>
+    <Tedesco>Lesefehler des aktiven Nullpunkts.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error lectura Origen activo.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore lettura Origine attiva.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore lettura Origine attiva.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore lettura Origine attiva.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka chteniya privyazki. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00791</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura configurazione al PLC.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error configuration to PLC.@Retry? </Inglese>
+    <Francese>Erreur écriture configuration dans le PLC.@Essayer de nouveau?</Francese>
+    <Tedesco>Lesefehler des aktiven Nullpunkts.@Erneut versuchen?</Tedesco>
+    <Spagnolo>ingabefehler der Konfiguration zur SPS.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura configurazione al PLC.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura configurazione al PLC.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura configurazione al PLC.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi konfiguracii v PLK. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00801</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura Asse fermo al PLC.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error standstill Axe to PLC.@Retry? </Inglese>
+    <Francese>Erreur écriture Axe arrêté dans le PLC.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler bei Achsstillstand zur SPS.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura Eje parado en el PLC.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura Asse fermo al PLC.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura Asse fermo al PLC.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura Asse fermo al PLC.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi ostanovki osi v PLK. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00811</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura Origini.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error Origin.@Retry? </Inglese>
+    <Francese>Erreur écriture Origines.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler bei Nullpunkten.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura Orígenes.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura Origini.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura Origini.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura Origini.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi privyazki. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00821</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore richiamo ASUP Origini.@Vuoi riprovare?</Italiano>
+    <Inglese>Error recall  ASUP Origin.@Retry? </Inglese>
+    <Francese>Erreur rappel ASUP Origines.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Abruf ASUP Nullpunkten.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error apertura ASUP Orígenes.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore richiamo ASUP Origini.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore richiamo ASUP Origini.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore richiamo ASUP Origini.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka vyzova ASUP privyazki. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00831</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore richiamo ASUP Diamantatura.@Vuoi riprovare?</Italiano>
+    <Inglese>Error recall ASUP Dressing.@Retry? </Inglese>
+    <Francese>Erreur rappel ASUP Diamantage.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Abruf ASUP Abrichten.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error apertura ASUP Diamantado.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore richiamo ASUP Diamantatura.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore richiamo ASUP Diamantatura.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore richiamo ASUP Diamantatura.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka vyzova ASUP pravki. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00841</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura configurazione ISO.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error  ISO configuration.@Retry? </Inglese>
+    <Francese>Erreur écriture configuration ISO.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler der ISO-Konfiguration.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura configuración ISO.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura configurazione ISO.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura configurazione ISO.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura configurazione ISO.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi konfiguracii ISO. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00851</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura file config ISO.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error  file config ISO.@Retry? </Inglese>
+    <Francese>Erreur écriture fichier config ISO.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler bei config ISO-Datei.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura fichero config ISO.@Deseas volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura file config ISO.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura file config ISO.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura file config ISO.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi fajla konfiguracii ISO .Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00861</NR>
+    <PRJ></PRJ>
+    <Italiano>Vuoi ricominciare la sequenza piani?</Italiano>
+    <Inglese>RESTART surface sequence?</Inglese>
+    <Francese>Recommencer la séquence des Plans?</Francese>
+    <Tedesco>Erneut mit Flaechenfolge beginnen?</Tedesco>
+    <Spagnolo>Volver a empezar la secuencia planos?</Spagnolo>
+    <Svedese>Vuoi ricominciare la sequenza piani?</Svedese>
+    <Sloveno>Vuoi ricominciare la sequenza piani?</Sloveno>
+    <Portoghese>Vuoi ricominciare la sequenza piani?</Portoghese>
+    <Lingua09>Chcete znovu zahájit sekvenci ploch? da fare</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00871</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura Multipiano Stop.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error Surface sequence Stop.@Retry?</Inglese>
+    <Francese>Erreur écriture Multiplan Stop.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler bei Mehrflaechen Stop.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura Multiplano Stop.@Volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura Multipiano Stop.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura Multipiano Stop.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura Multipiano Stop.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi ostanova posledovatelnosti poverhnostej. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00881</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura Quota Zero Diamante U.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error value Zero Diamond U.@Retry?</Inglese>
+    <Francese>Erreur écriture Cote Zéro Diamant U.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler bei Diamant-Nullmass in U.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura Cota Zero Diamante U.@Volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura Quota Zero Diamante U.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura Quota Zero Diamante U.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura Quota Zero Diamante U.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi znacheniya Zero Diamond U. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00891</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore start arretramento asse U.@Vuoi riprovare?</Italiano>
+    <Inglese>Error start withdraw U axe.@Retry?</Inglese>
+    <Francese>Erreur start recul axe U.@Essayer de nouveau?</Francese>
+    <Tedesco>Startfehler bei Rueckzug in U-Achse.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error start regreso eje U.@Volver a intentar?</Spagnolo>
+    <Svedese>Errore start arretramento asse U.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore start arretramento asse U.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore start arretramento asse U.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka nachala snyatiya osi U. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00901</NR>
+    <PRJ></PRJ>
+    <Italiano>Preset Asse U eseguito</Italiano>
+    <Inglese>U Axe preset  carry out</Inglese>
+    <Francese>Preset Axe U exécuté</Francese>
+    <Tedesco>U-Achsenpreset durchgefuehrt</Tedesco>
+    <Spagnolo>Preset Eje U ejecutado</Spagnolo>
+    <Svedese>Preset Asse U eseguito</Svedese>
+    <Sloveno>Preset Asse U eseguito</Sloveno>
+    <Portoghese>Preset Asse U eseguito</Portoghese>
+    <Lingua09>Predvaritelnaya nastrojka osi U</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00911</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura Bit No Presidiata.@Vuoi riprovare?</Italiano>
+    <Inglese>Writing error Bit No Operator.@Retry?</Inglese>
+    <Francese>Erreur écriture Bit sans opérateur.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler beim Bit Mannlosbetrieb.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura Bit No Supervisada.@Volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura Bit No Presidiata.@Vuoi riprovare?</Svedese>
+    <Sloveno>Errore scrittura Bit No Presidiata.@Vuoi riprovare?</Sloveno>
+    <Portoghese>Errore scrittura Bit No Presidiata.@Vuoi riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi nomera bita operatora. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00921</NR>
+    <PRJ></PRJ>
+    <Italiano>Server non Attivati. L'applicazione@verrà terminata.</Italiano>
+    <Inglese>Server not  Active. The application@will be closed.</Inglese>
+    <Francese>Serveurs non Activés. L'application@se terminera.</Francese>
+    <Tedesco>Server nicht aktiviert. Anwendung@wird beendet.</Tedesco>
+    <Spagnolo>Server non Activados. La aplicación@terminará.</Spagnolo>
+    <Svedese>Server non Attivati. L'applicazione@verrà terminata.</Svedese>
+    <Sloveno>Server non Attivati. L'applicazione@verrà terminata.</Sloveno>
+    <Portoghese>Server non Attivati. L'applicazione@verrà terminata.</Portoghese>
+    <Lingua09>Server ne aktiven. Prilozhenie budet zakryto.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00931</NR>
+    <PRJ></PRJ>
+    <Italiano>Server non presente.</Italiano>
+    <Inglese>Server not active.</Inglese>
+    <Francese>Serveur non present.</Francese>
+    <Tedesco>Server nicht vorhanden.</Tedesco>
+    <Spagnolo>Server non presente.</Spagnolo>
+    <Svedese>Server non presente.</Svedese>
+    <Sloveno>Server non presente.</Sloveno>
+    <Portoghese>Server non presente.</Portoghese>
+    <Lingua09>Server ne aktiven.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00941</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore Reset Richiesta JOG.@Vuoi Riprovare?</Italiano>
+    <Inglese>Error Reset Request JOG.@Retry?</Inglese>
+    <Francese>Erreur Reset Demande JOG.@Essayer de nouveau?</Francese>
+    <Tedesco>Reset-Fehler bei JOG-Abruf.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error Reset Pedido JOG.@Volver a intentar?</Spagnolo>
+    <Svedese>Errore Reset Richiesta JOG.@Vuoi Riprovare?</Svedese>
+    <Sloveno>Errore Reset Richiesta JOG.@Vuoi Riprovare?</Sloveno>
+    <Portoghese>Errore Reset Richiesta JOG.@Vuoi Riprovare?</Portoghese>
+    <Lingua09>Oshibka zaprosa Reset JOG. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00951</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore cambio lingua.@Vuoi Riprovare?</Italiano>
+    <Inglese>Change language error.@Retry?</Inglese>
+    <Francese>Erreur changement langue.@Essayer de nouveau?</Francese>
+    <Tedesco>Fehler bei Sprachwechsel.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error cambio idioma.@Volver a intentar?</Spagnolo>
+    <Svedese>Errore cambio lingua.@Vuoi Riprovare?</Svedese>
+    <Sloveno>Errore cambio lingua.@Vuoi Riprovare?</Sloveno>
+    <Portoghese>Errore cambio lingua.@Vuoi Riprovare?</Portoghese>
+    <Lingua09>Izmenit yazyk oshibki. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00961</NR>
+    <PRJ></PRJ>
+    <Italiano>Per effettuare il cambio lingua deve@essere ristartato l'applicativo.@Confermi?</Italiano>
+    <Inglese>To change language you must@restart the program.@Confirm ?</Inglese>
+    <Francese>Pour effectuer le changement de langue@l'application doit redémarrer@Confirmer?</Francese>
+    <Tedesco>Zum Sprachwechsel muss Anwerderpaket@erneut gestartet werden.@Bestaetigen?</Tedesco>
+    <Spagnolo>Para realizar el cambio de idioma se@debe volver a iniciar la aplicación.@Confirmar?</Spagnolo>
+    <Svedese>Per effettuare il cambio lingua deve@essere ristartato l'applicativo.@Confermi?</Svedese>
+    <Sloveno>Per effettuare il cambio lingua deve@essere ristartato l'applicativo.@Confermi?</Sloveno>
+    <Portoghese>Per effettuare il cambio lingua deve@essere ristartato l'applicativo.@Confermi?</Portoghese>
+    <Lingua09>Dlya smeny yazyka neobhodimo perezapustit programmu. Podtverdit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00971</NR>
+    <PRJ></PRJ>
+    <Italiano>Frequenza diamantatura errata</Italiano>
+    <Inglese>Dressing frequency wrong</Inglese>
+    <Francese>Fréquence diamantage  erronée</Francese>
+    <Tedesco>Abrichthaeufigkeit falsch</Tedesco>
+    <Spagnolo>Frequencia diamantado equivocada</Spagnolo>
+    <Svedese>Frequenza diamantatiura errata</Svedese>
+    <Sloveno>Frequenza diamantatiura errata</Sloveno>
+    <Portoghese>Frequenza diamantatiura errata</Portoghese>
+    <Lingua09>Nevernaya chastota pravki</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00981</NR>
+    <PRJ></PRJ>
+    <Italiano>Errore scrittura comando al PLC.@Vuoi Riprovare?</Italiano>
+    <Inglese>Writing error command to PLc.@Retry?</Inglese>
+    <Francese>Erreur écriture commande dans le PLC.@Essayer de nouveau?</Francese>
+    <Tedesco>Eingabefehler der Anweisung zur SPS.@Erneut versuchen?</Tedesco>
+    <Spagnolo>Error escritura instrucción en el PLC.@Volver a intentar?</Spagnolo>
+    <Svedese>Errore scrittura comando al PLC.@Vuoi Riprovare?</Svedese>
+    <Sloveno>Errore scrittura comando al PLC.@Vuoi Riprovare?</Sloveno>
+    <Portoghese>Errore scrittura comando al PLC.@Vuoi Riprovare?</Portoghese>
+    <Lingua09>Oshibka zapisi komandy v PLC. Povtorit?</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>00991</NR>
+    <PRJ></PRJ>
+    <Italiano>VALORI AMMESSI:DA -91 --&gt; 91.@PASSO 1º</Italiano>
+    <Inglese>ADMITTED VALUES: FROM -91 --&gt; 91.@STEP 1º</Inglese>
+    <Francese>VALEURS ADMISES: DE -91 -- &gt; 91.@STEP 1º</Francese>
+    <Tedesco>ZULAESSIGE WERTE: VON -91 --&gt; 91.@1. SCHRITT</Tedesco>
+    <Spagnolo>VALORES ADMITIDOS: DESDE -91 --&gt; 91.@STEP 1º</Spagnolo>
+    <Svedese>VALORI AMMESSI:DA -91 --&gt; 91.@STEP 1º</Svedese>
+    <Sloveno>DOPUSTNE VREDNOSTI : OD -91 --&gt; 91.@STEP 1º</Sloveno>
+    <Portoghese>VALORES ADMITIDOS: DESDE -91 --&gt; 91.@STEP 1º</Portoghese>
+    <Lingua09>Dopustimye znacheniya: OT -91 -&gt; 91. @ ShAG 1º</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR>01001</NR>
+    <PRJ></PRJ>
+    <Italiano>Valore rapporto errato</Italiano>
+    <Inglese>Wrong ratio value</Inglese>
+    <Francese>Valeur rapport erronée</Francese>
+    <Tedesco>Verhältniswert falsch</Tedesco>
+    <Spagnolo>Valore rapporto errato</Spagnolo>
+    <Svedese>Valore rapporto errato</Svedese>
+    <Sloveno>Valore rapporto errato</Sloveno>
+    <Portoghese>Valore rapporto errato</Portoghese>
+    <Lingua09>Nevernoe znachenie koefficienta</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR></NR>
+    <PRJ>Valore Nullo</PRJ>
+    <Italiano>Valore Nullo </Italiano>
+    <Inglese>Invalid value</Inglese>
+    <Francese>Valeur nulle </Francese>
+    <Tedesco>Wert ungültig </Tedesco>
+    <Spagnolo>Valor Nulo </Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Nevernoe znachenie</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR></NR>
+    <PRJ>Valore non presente in lista valori</PRJ>
+    <Italiano>Valore non presente in lista valori </Italiano>
+    <Inglese>Value not present in the value list</Inglese>
+    <Francese>Valeur non présente dans la liste des valeurs </Francese>
+    <Tedesco>Wert in Wertliste nicht vorhanden</Tedesco>
+    <Spagnolo>Valor inexistente en lista valores
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Znachenie otsutstvuet v spiske</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR></NR>
+    <PRJ>Limite massimo superato</PRJ>
+    <Italiano>Limite massimo superato </Italiano>
+    <Inglese>Maximum limit exceeded</Inglese>
+    <Francese>Limite maximale dépassée</Francese>
+    <Tedesco>Höchstgrenze überschritten</Tedesco>
+    <Spagnolo>Límite máximo superado</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Prevyshen maksimalnyj predel</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR></NR>
+    <PRJ>Limite minimo superato</PRJ>
+    <Italiano>Limite minimo superato </Italiano>
+    <Inglese>Minimum limit exceeded</Inglese>
+    <Francese>Limite minimale dépassée </Francese>
+    <Tedesco>Mindestgrenze überschritten</Tedesco>
+    <Spagnolo>Límite mínimo superado</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Prevyshen minimalnyj limit</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <NR></NR>
+    <PRJ>Errore definizione valore!</PRJ>
+    <Italiano>Errore definizione valore! </Italiano>
+    <Inglese>Error of value definition!</Inglese>
+    <Francese>Erreur définition valeur!</Francese>
+    <Tedesco>Fehler bei der Wertdefinition!</Tedesco>
+    <Spagnolo>Error definición valor!</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Oshibka opredeleniya znacheniya!</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Errore selezione piano destinazione</PRJ>
+    <Italiano>Errore selezione piano destinazione ITA</Italiano>
+    <Inglese>Errore selezione piano destinazione ENG</Inglese>
+    <Francese>Errore selezione piano destinazione FRA</Francese>
+    <Tedesco>Errore selezione piano destinazione DEU</Tedesco>
+    <Spagnolo>Errore selezione piano destinazione SPA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Chyba volby cílové plochy da fare</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+</Messaggi>

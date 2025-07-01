@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_JOG>
+  <Traduzioni>
+    <PRJ>Autoapprendimento (-) asse X eseguito</PRJ>
+    <Italiano>Autoapprendimento (-) asse X eseguito </Italiano>
+    <Inglese>Teach-in (-) X axis done </Inglese>
+    <Francese>Auto-apprentissage (-) axe X exécuté</Francese>
+    <Tedesco>Selbsterlernen (-) X-Achse durchgeführt</Tedesco>
+    <Spagnolo>Efectuado autoaprendizaje (-) eje X
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Obuchenie po osi X (-) vypolneno</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Autoapprendimento (+) asse X eseguito</PRJ>
+    <Italiano>Autoapprendimento (+) asse X eseguito </Italiano>
+    <Inglese>Teach-in (+) X axis done </Inglese>
+    <Francese>Auto-apprentissage (+) axe X exécuté</Francese>
+    <Tedesco>Selbsterlernen (+) X-Achse durchgeführt</Tedesco>
+    <Spagnolo>Efectuado autoaprendizaje (+) eje X
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Obuchenie po osi X (+) vypolneno</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Autoapprendimento (-) asse Y eseguito</PRJ>
+    <Italiano>Autoapprendimento (-) asse Y eseguito </Italiano>
+    <Inglese>Teach-in (-) Y axis done </Inglese>
+    <Francese>Auto-apprentissage (-) axe Y exécuté</Francese>
+    <Tedesco>Selbsterlernen (-) Y-Achse durchgeführt</Tedesco>
+    <Spagnolo>Efectuado autoaprendizaje (-) eje Y
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Obuchenie po osi Y (-) vypolneno</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Autoapprendimento (+) asse Y eseguito</PRJ>
+    <Italiano>Autoapprendimento (+) asse Y eseguito </Italiano>
+    <Inglese>Teach-in (+) Y axis done </Inglese>
+    <Francese>Auto-apprentissage (+) axe Y exécuté</Francese>
+    <Tedesco>Selbsterlernen (+) Y-Achse durchgeführt</Tedesco>
+    <Spagnolo>Efectuado autoaprendizaje (+) eje Y
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Obuchenie po osi Y (+) vypolneno</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Autoapprendimento (-) asse Z eseguito</PRJ>
+    <Italiano>Autoapprendimento (-) asse Z eseguito </Italiano>
+    <Inglese>Teach-in (-) Z axis done </Inglese>
+    <Francese>Auto-apprentissage (-) axe Z exécuté</Francese>
+    <Tedesco>Selbsterlernen (-) Z-Achse durchgeführt</Tedesco>
+    <Spagnolo>Efectuado autoaprendizaje (-) eje Z
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Obuchenie po osi Z (-) vypolneno </Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Autoapprendimento (+) asse Z eseguito</PRJ>
+    <Italiano>Autoapprendimento (+) asse Z eseguito </Italiano>
+    <Inglese>Teach-in (+) Z axis done </Inglese>
+    <Francese>Auto-apprentissage (+) axe Z exécuté</Francese>
+    <Tedesco>Selbsterlernen (+) Z-Achse durchgeführt</Tedesco>
+    <Spagnolo>Efectuado autoaprendizaje (+) eje Z
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Obuchenie po osi Z (+) vypolneno</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Azzeramento asse eseguito</PRJ>
+    <Italiano>Azzeramento asse eseguito </Italiano>
+    <Inglese>Axis-zeroing done </Inglese>
+    <Francese>Zérotage axe exécuté 
+</Francese>
+    <Tedesco>Achsnullung durchgeführt</Tedesco>
+    <Spagnolo>Efectuada puesta a cero eje</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Osevoe obnulenie vypolneno</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Posizione Attuale</PRJ>
+    <Italiano>Posizione Attuale </Italiano>
+    <Inglese>Actual position</Inglese>
+    <Francese>Position actuelle </Francese>
+    <Tedesco>Istposition</Tedesco>
+    <Spagnolo>Posición Actual</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Tekushaya poziciya</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Distanza Residua</PRJ>
+    <Italiano>Distanza Residua </Italiano>
+    <Inglese>Residual distance</Inglese>
+    <Francese>Distance résiduelle </Francese>
+    <Tedesco>Restabstand</Tedesco>
+    <Spagnolo>Distancia Residual</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Ostatochnoe rasstoyanie</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Assorbimento Mola %</PRJ>
+    <Italiano>Assorbimento Mola %</Italiano>
+    <Inglese>Wheel power input %</Inglese>
+    <Francese>Absorption meule %</Francese>
+    <Tedesco>Scheiben-Leistungsaufnahme %</Tedesco>
+    <Spagnolo>Absorción Muela %  </Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Potreblyaemaya moshnost kolesa,%</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PROGRAMMA :</PRJ>
+    <Italiano>PROGRAMMA: </Italiano>
+    <Inglese>PROGRAM:</Inglese>
+    <Francese>PROGRAMME:</Francese>
+    <Tedesco>PROGRAMM:</Tedesco>
+    <Spagnolo>PROGRAMA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PROGRAM:</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PIANO :</PRJ>
+    <Italiano>PIANO:</Italiano>
+    <Inglese>SURFACE</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLÄCHE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POVERHNOST</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PUNTO REF.</PRJ>
+    <Italiano>PUNTO REF. </Italiano>
+    <Inglese>POINT REF.</Inglese>
+    <Francese>POINT REF.</Francese>
+    <Tedesco>REFERENZPUNKT</Tedesco>
+    <Spagnolo>PUNTO REF.</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>TOChKA PRIV.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ORIGINE</PRJ>
+    <Italiano>ORIGINE ITA</Italiano>
+    <Inglese>ORIGINS</Inglese>
+    <Francese>ORIGINES</Francese>
+    <Tedesco>NULLPUNKT</Tedesco>
+    <Spagnolo>ORÍGENES</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRIVYaZKA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>NR PROFILO</PRJ>
+    <Italiano>NR PROFILO </Italiano>
+    <Inglese>PROFIL-NR</Inglese>
+    <Francese>NR.PROFIL</Francese>
+    <Tedesco>PROFIL-NR</Tedesco>
+    <Spagnolo>N.PERFIL</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NOMER PROFILYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FEED PROG.</PRJ>
+    <Italiano>FEED PROG. </Italiano>
+    <Inglese>FEED PROG:</Inglese>
+    <Francese>FEED PROG:</Francese>
+    <Tedesco>GESCHW PROG:</Tedesco>
+    <Spagnolo>FEED PROG:</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PROG PODAChA:</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>SOVRAMETALLO FINITURA Z</PRJ>
+    <Italiano>SOVRAMETALLO FINITURA Z</Italiano>
+    <Inglese>FINISHING STOCK Z AXIS</Inglese>
+    <Francese>SURÉPAISSEUR FINITION AXE Z</Francese>
+    <Tedesco>SCHLICHTZUGABE Z-ACHSE</Tedesco>
+    <Spagnolo>SOBREGRUESO ACABADO EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVOJ PRIPUSK OS Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO SGROSSATURA Z</PRJ>
+    <Italiano>INCREMENTO SGROSSATURA Z</Italiano>
+    <Inglese>ROUGHING INFEED Z AXIS</Inglese>
+    <Francese>AVANCEMENT ÉBAUCHE AXE Z</Francese>
+    <Tedesco>SCHRUPPZUSTELLUNG IN Z-ACHSE</Tedesco>
+    <Spagnolo>INCREMENTO DESBASTE EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChERNOVAYa PODAChA OS Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO FINITURA Z</PRJ>
+    <Italiano>INCREMENTO FINITURA Z</Italiano>
+    <Inglese>FINISHING INFEED Z AXIS</Inglese>
+    <Francese>AVANCEMENT FINITION AXE Z</Francese>
+    <Tedesco>SCHLICHTZUSTELLUNG IN Z-ACHSE</Tedesco>
+    <Spagnolo>INCREMENTO ACABADO EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVAYa PODAChA OS Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>SOVRAMETALLO FINITURA Y</PRJ>
+    <Italiano>SOVRAMETALLO FINITURA Y</Italiano>
+    <Inglese>FINISHING STOCK Y AXIS</Inglese>
+    <Francese>SURÉPAISSEUR FINITION AXE Y</Francese>
+    <Tedesco>SCHLICHTZUGABE Y-ACHSE</Tedesco>
+    <Spagnolo>SOBREGRUESO ACABADO EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVOJ PRIPUSK OS Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO SGROSSATURA Y</PRJ>
+    <Italiano>INCREMENTO SGROSSATURA Y</Italiano>
+    <Inglese>ROUGHING INFEED Y AXIS</Inglese>
+    <Francese>AVANCEMENT ÉBAUCHE AXE Y</Francese>
+    <Tedesco>SCHRUPPZUSTELLUNG IN Y-ACHSE</Tedesco>
+    <Spagnolo>INCREMENTO DESBASTE EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChERNOVAYa PODAChA OS Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO FINITURA Y</PRJ>
+    <Italiano>INCREMENTO FINITURA Y</Italiano>
+    <Inglese>FINISHING INFEED Y AXIS</Inglese>
+    <Francese>AVANCEMENT FINITION AXE Y</Francese>
+    <Tedesco>SCHLICHTZUSTELLUNG IN Y-ACHSE</Tedesco>
+    <Spagnolo>INCREMENTO ACABADO EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVAYa PODAChA OS Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ESEGUI PRESPEGNIFIAMMA</PRJ>
+    <Italiano>ESEGUI PRESPEGNIFIAMMA</Italiano>
+    <Inglese>DO PRE-SPARKOUT</Inglese>
+    <Francese>EFFECTUER PRÉ-EXTINCTION FLAMMES</Francese>
+    <Tedesco>VORAUSFEUREN DURCHFÜHREN</Tedesco>
+    <Spagnolo>REALIZA PREAPAGACHISPA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VYPOLNIT PREDV. VYHAZhIVANIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ESEGUI SPEGNIFIAMMA</PRJ>
+    <Italiano>ESEGUI SPEGNIFIAMMA</Italiano>
+    <Inglese>SPARKOUT</Inglese>
+    <Francese>EFFECTUER EXTINCTION FLAMMES</Francese>
+    <Tedesco>UTGNISTNI.</Tedesco>
+    <Spagnolo>APAGACHISPA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VYHAZhIVANIE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FREQUENZA DIAMANTATURA</PRJ>
+    <Italiano>FREQUENZA DIAMANTATURA</Italiano>
+    <Inglese>DRESSING FREQUENCY</Inglese>
+    <Francese>FRÉQUENCE DIAMANTAGE</Francese>
+    <Tedesco>ABRICHTHÄUFIGKEIT</Tedesco>
+    <Spagnolo>FRECUENCIA DIAMANTADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChASTOTA PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ASPORTAZIONE DIAMANTATURA Z</PRJ>
+    <Italiano>ASPORTAZIONE DIAMANTATURA Z</Italiano>
+    <Inglese>REMOVAL IN Z</Inglese>
+    <Francese>ENLÉVEMENT Z</Francese>
+    <Tedesco>ABTRAG IN Z</Tedesco>
+    <Spagnolo>REMOCIóN Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRIPUSK PO Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO DIAMANTATURA Z</PRJ>
+    <Italiano>INCREMENTO DIAMANTATURA Z</Italiano>
+    <Inglese>INFEED IN Z</Inglese>
+    <Francese>ACCROISSEMENT Z</Francese>
+    <Tedesco>ZUSTELLUNG IN Z</Tedesco>
+    <Spagnolo>INCREMENTO Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PODAChA PO Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>RECUPERO DIAMANTATURA Z</PRJ>
+    <Italiano>RECUPERO DIAMANTATURA Z</Italiano>
+    <Inglese>COMPENS. Z</Inglese>
+    <Francese>RÉCUPÉRATION Z</Francese>
+    <Tedesco>KOMPENSATION IN Z</Tedesco>
+    <Spagnolo>RECUPERA.Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOMPEN. PO Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ASPORTAZIONE DIAMANTATURA Y</PRJ>
+    <Italiano>ASPORTAZIONE Y</Italiano>
+    <Inglese>REMOVAL IN Y</Inglese>
+    <Francese>ENLÉVEMENT Y</Francese>
+    <Tedesco>ABTRAG IN Y</Tedesco>
+    <Spagnolo>REMOCIóN Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PRIPUSK PO Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCREMENTO DIAMANTATURA Y</PRJ>
+    <Italiano>INCREMENTO Y</Italiano>
+    <Inglese>INFEED IN Y</Inglese>
+    <Francese>ACCROISSEMENT Y</Francese>
+    <Tedesco>ZUSTELLUNG IN Y</Tedesco>
+    <Spagnolo>INCREMENTO Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PODAChA PO Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>RECUPERO DIAMANTATURA Y</PRJ>
+    <Italiano>RECUPERO Y</Italiano>
+    <Inglese>COMPENS. Y</Inglese>
+    <Francese>RÉCUPÉRATION Y</Francese>
+    <Tedesco>KOMPENSATION IN Y</Tedesco>
+    <Spagnolo>RECUPERA.Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOMPEN. PO Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>STACCO ASSE Y</PRJ>
+    <Italiano>STACCO INCREMENTALE Y</Italiano>
+    <Inglese>IMPULSIVE MOVE-AWAY ON Y</Inglese>
+    <Francese>DEGAGEMENT RELATIF Y</Francese>
+    <Tedesco>INKREMENTAL ABHEBEN IN Y</Tedesco>
+    <Spagnolo>SEPARACIóN INCREMENTAL Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>IMPULSNOE PEREMEShENIE PO Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>STACCO ASSE Z</PRJ>
+    <Italiano>STACCO INCREMENTALE Z</Italiano>
+    <Inglese>IMPULSIVE MOVE-AWAY ON Z</Inglese>
+    <Francese>DEGAGEMENT RELATIF Z</Francese>
+    <Tedesco>INKREMENTAL ABHEBEN IN Z</Tedesco>
+    <Spagnolo>SEPARACIóN INCREMENTAL Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>IMPULSNOE PEREMEShENIE PO Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+</Pagina_JOG>

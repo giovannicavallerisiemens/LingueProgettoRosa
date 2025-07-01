@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_001>
+  <Traduzioni>
+    <PRJ>QUOTA INVERSIONE (X-)</PRJ>
+    <Italiano>QUOTA INVERSIONE (X-)</Italiano>
+    <Inglese>REVERSE VALUES (X-)</Inglese>
+    <Francese>COTE INVERSION (X-)</Francese>
+    <Tedesco>UMSTEUERMAß (X-)</Tedesco>
+    <Spagnolo>COTA INVERSIóN (X-)</Spagnolo>
+    <Svedese>OMKASTNINGSMÅTT (X-)</Svedese>
+    <Sloveno>VREDNOSTI HODA PREMIKA (X-)</Sloveno>
+    <Portoghese>QUOTA INVERSÃO (X-)</Portoghese>
+    <Lingua09>ZNAChENIYa VOZVRATA (X-)</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTA INVERSIONE (X+)</PRJ>
+    <Italiano>QUOTA INVERSIONE (X+)</Italiano>
+    <Inglese>REVERSE VALUES (X+)</Inglese>
+    <Francese>COTE INVERSION (X+)</Francese>
+    <Tedesco>UMSTEUERMAß (X+)</Tedesco>
+    <Spagnolo>COTA INVERSIóN (X+)</Spagnolo>
+    <Svedese>OMKASTNINGSMÅTT (X+)</Svedese>
+    <Sloveno>VREDNOSTI HODA PREMIKA (X+)</Sloveno>
+    <Portoghese>QUOTA INVERSÃO (X+)</Portoghese>
+    <Lingua09>ZNAChENIYa VOZVRATA (X +)</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>STOP FUORI CORSA</PRJ>
+    <Italiano>STOP FUORI CORSA</Italiano>
+    <Inglese>STOPPING OUT OF AREA</Inglese>
+    <Francese>STOP HORS COURSE</Francese>
+    <Tedesco>STOP AM ENDANSCHLAG</Tedesco>
+    <Spagnolo>STOP FUERA RECORRIDO</Spagnolo>
+    <Svedese>STOP VID ÄNDLÄGE</Svedese>
+    <Sloveno>USTAVITEV IZVEN OBMOÈJA</Sloveno>
+    <Portoghese>PARAGEM FORA DO CURSO</Portoghese>
+    <Lingua09>OSTANOVKA VNE ZONY</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>VELOCITA PENDOLAMENTO SGROSSATURA</PRJ>
+    <Italiano>VELOCITA' PENDOLAMENTO SGROSSATURA</Italiano>
+    <Inglese>RECIPROCATION SPEED DURING ROUGHING</Inglese>
+    <Francese>VITESSE OSCILLATION ON ÉBAUCHE</Francese>
+    <Tedesco>PENDELGESCHWINDIGKEIT BEIM SCHRUPPEN</Tedesco>
+    <Spagnolo>VELOCIDAD OSCILACIóN EN DESBASTE</Spagnolo>
+    <Svedese>PENDELHASTIGHET VID GROVBEARBETNING</Svedese>
+    <Sloveno>MENJAVA HITROSTI MED GROBIM BRUŠENJEM</Sloveno>
+    <Portoghese>VELOCIDADE DE OSCILAÇÃO EM DESBASTE</Portoghese>
+    <Lingua09>SKOROST VOZVRATNO-POSTUPATELNOGO DVIZhENIYa VO VREMYa ChERNOVOGO ShLIFOVANIY</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>VELOCITA PENDOLAMENTO FINITURA</PRJ>
+    <Italiano>VELOCITA' PENDOLAMENTO FINITURA</Italiano>
+    <Inglese>RECIPROCATION SPEED DURING FINISHING</Inglese>
+    <Francese>VITESSE OSCILLATION EN FINITION</Francese>
+    <Tedesco>PENDELGESCHWINDIGKEIT BEIM SCHLICHTEN</Tedesco>
+    <Spagnolo>VELOCIDAD OSCILACIóN EN ACABADO</Spagnolo>
+    <Svedese>PENDELHASTIGHET VID FINBEARBETNING</Svedese>
+    <Sloveno>MENJAVA HITROSTI MED FINIM BRUŠENJEM</Sloveno>
+    <Portoghese>VELOCIDADE DE OSCILAÇÃO EM ACABAMENTO</Portoghese>
+    <Lingua09>SKOROST VOZVRATNO-POSTUPATELNOGO DVIZhENIYa VO VREMYa ChISTOVOGO ShLIFOVANIYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>TIPO VELOCITA</PRJ>
+    <Italiano>TIPO VELOCITA'</Italiano>
+    <Inglese>SPPED TYPE</Inglese>
+    <Francese>TYPE VITESSE </Francese>
+    <Tedesco>GESCHW-TYP</Tedesco>
+    <Spagnolo>TIPO VELOCIDAD</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>TIP SPPED</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PRESTACCO Z SE ASSE ELETTRICO</PRJ>
+    <Italiano>PRESTACCO Z SE ASSE ELETTRICO</Italiano>
+    <Inglese>PRE-MOVE-AWAY Z , IF X IS AN ELECTRICAL AXIS</Inglese>
+    <Francese>PRE-DÉTACHEMENT Z SI AXE X ÉLECTRIQUE</Francese>
+    <Tedesco>VORABHEBEN IN Z ACHSE BEI ELEKTR.X ACHSE</Tedesco>
+    <Spagnolo>PRESEPARACìON Z SI EJE X ELÉCTRICO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PREDVARITELNOE DVIZhENIE Z, ESLI OS H ELEKTRIChESKAYa </Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INIZIO PRESTACCO Z</PRJ>
+    <Italiano>INIZIO PRESTACCO Z</Italiano>
+    <Inglese>RATE X I ATTACK AGAIN Z</Inglese>
+    <Francese>COTE X DE REPRISE Z</Francese>
+    <Tedesco>VORABHEBEBEGINN IN Z</Tedesco>
+    <Spagnolo>COTA X DE REINICIACIóN Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>SKOROST X I SNOVA Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTA DI FUORI CORSA SE ASSE X ELETTRICO</PRJ>
+    <Italiano>QUOTA DI FUORI CORSA SE ASSE X ELETTRICO</Italiano>
+    <Inglese>SIZE OUT OF AREA , IF X IS AN ELECTRICAL AXIS</Inglese>
+    <Francese>COTE DE HORS COURSE SI AXE X ÉLECTRIQUE</Francese>
+    <Tedesco>ÜBERFAHRWEG BEI ELEKTR. X-ACHSE</Tedesco>
+    <Spagnolo>COTA DE FUERA RECORRIDO SI EJE X ELÉCTRICO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>RAZMER VNE ZONY, ESLI OS H ELEKTRIChESKAYa </Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>TAVOLA 1-2 IN MACCHINA</PRJ>
+    <Italiano>TAVOLA 1-2 IN MACCHINA</Italiano>
+    <Inglese>TABLE 1-2 IN MACHINE</Inglese>
+    <Francese>TABLE 1-2 SUR MACHINE </Francese>
+    <Tedesco>TISCH 1-2 IN MASCHINE</Tedesco>
+    <Spagnolo>MESA 1-2 EN MÁQUINA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>STOL 1-2 V STANKE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PRIMA VELOCITA FISSA TAVOLA</PRJ>
+    <Italiano>PRIMA VELOCITA' FISSA TAVOLA</Italiano>
+    <Inglese>FIRST FIXED TABLE-SPEED </Inglese>
+    <Francese>PREMIERE VITESSE FIXE TABLE </Francese>
+    <Tedesco>ERSTE TISCH-FESTGESCHW </Tedesco>
+    <Spagnolo>PRIMERA VELOCIDAD FIJA MESA </Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PERVAYa FIKSIROVANNAYa SKOROST STOLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>SECONDA VELOCITA FISSA TAVOLA</PRJ>
+    <Italiano>SECONDA VELOCITA' FISSA TAVOLA</Italiano>
+    <Inglese>FIRST FIXED TABLE-SPEED</Inglese>
+    <Francese>DEUXIEME VITESSE FIXE TABLE </Francese>
+    <Tedesco>ZWEITE TISCH-FESTGESCHW</Tedesco>
+    <Spagnolo>SEGUNDA VELOCIDAD FIJA MESA
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>PERVAYa FIKSIROVANNAYa SKOROST STOLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>0=POTENZ.; 1=VELOC.1; 2=VELOC.2; 3=MIX</PRJ>
+    <Italiano>0=POTENZ.; 1=VELOC.1; 2=VELOC.2; 3=MIX</Italiano>
+    <Inglese>0=POTENT.; 1=SPEED 1; 2=SPEED 2; 3=MIX</Inglese>
+    <Francese>0=PUISSANCE; 1=VITESSE 1; 2=VITESSE 2; 3=MIX</Francese>
+    <Tedesco>0=POTI; 1=GESCHW.1; 2=GESCHW.2; 3=MIX</Tedesco>
+    <Spagnolo>0=POTENC.; 1=VELOC.1; 2=VELOC.2; 3=COMBINADO
+</Spagnolo>
+    <Svedese>0=POTENZ.; 1=VELOC.1; 2=VELOC.2; 3=MIX</Svedese>
+    <Sloveno>0=POTENZ.; 1=VELOC.1; 2=VELOC.2; 3=MIX</Sloveno>
+    <Portoghese>0=POTENZ.; 1=VELOC.1; 2=VELOC.2; 3=MIX</Portoghese>
+    <Lingua09>0 = POTENC.; 1 = SKOROST 1; 2 = SKOROST 2; 3 = KOMB.</Lingua09>
+    <Lingua10>0=POTENZ.; 1=VELOC.1; 2=VELOC.2; 3=MIX</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>1=SI; 0=NO</PRJ>
+    <Italiano>1=SI; 0=NO</Italiano>
+    <Inglese>1=YES; 0=NO</Inglese>
+    <Francese>1=OUI; 0=NO</Francese>
+    <Tedesco>1=JA; 0=NEIN</Tedesco>
+    <Spagnolo>1=YES; 0=NO</Spagnolo>
+    <Svedese>1=SI; 0=NO</Svedese>
+    <Sloveno>1=SI; 0=NO</Sloveno>
+    <Portoghese>1=SI; 0=NO</Portoghese>
+    <Lingua09>1 = DA; 0 = NET</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_QUOTA INVERSIONE (X-)</PRJ>
+    <Italiano>QUOTA INVERSIONE ASSE (X-) </Italiano>
+    <Inglese>REVERSE VALUES (X-)</Inglese>
+    <Francese>COTE INVERSION (X-)</Francese>
+    <Tedesco>UMSTEUERMAß (X-)</Tedesco>
+    <Spagnolo>COTA INVERSIóN (X-)</Spagnolo>
+    <Svedese>OMKASTNINGSMÅTT (X-)</Svedese>
+    <Sloveno>VREDNOSTI HODA PREMIKA (X-)</Sloveno>
+    <Portoghese>QUOTA INVERSÃO (X-)</Portoghese>
+    <Lingua09>ZNAChENIYa VOZVRATA (X-)</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_QUOTA INVERSIONE (X+)</PRJ>
+    <Italiano>QUOTA INVERSIONE ASSE (X+) </Italiano>
+    <Inglese>REVERSE VALUES (X+)</Inglese>
+    <Francese>COTE INVERSION (X+)</Francese>
+    <Tedesco>UMSTEUERMAß (X+)</Tedesco>
+    <Spagnolo>COTA INVERSIóN (X+)</Spagnolo>
+    <Svedese>OMKASTNINGSMÅTT (X-)</Svedese>
+    <Sloveno>VREDNOSTI HODA PREMIKA (X-)</Sloveno>
+    <Portoghese>QUOTA INVERSÃO (X-)</Portoghese>
+    <Lingua09>ZNAChENIYa VOZVRATA (X+)</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_STOP FUORI CORSA</PRJ>
+    <Italiano>SI=TAVOLA IN FONDO CORSA NO=TAVOLA FERMA SU QUOTA INVERSIONE X- </Italiano>
+    <Inglese>YES = TABLE AT STROKE END NO = TABLE IN STANDSTILL ON REVERSE VALUE X(-)</Inglese>
+    <Francese>
+OUI = TABLE AU FOND DE LA COURSE NON = TABLE ARRETEE SUR COTE INVERSION X(-)</Francese>
+    <Tedesco>JA = TISCH IN ENDSTELLUNG NEIN = TISCH AUF UMSTEUERMAß X(-) STILLSTEH.</Tedesco>
+    <Spagnolo>SÍ = MESA AL FINAL DE CARRERA NO = MESA DETENIDA EN COTA INVERSIÓN X(-)=
+</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>DA = STOL NA KONCE HODA NET = STOL V OZhIDANII NA OBRATNOM ZNAChENII X (-)</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_VELOCITA PENDOLAMENTO SGROSSATURA</PRJ>
+    <Italiano>VELOCITA' TAVOLA NEL CICLO DI SGROSSATURA</Italiano>
+    <Inglese>TABLE SPEED IN FINISHING CYCLE </Inglese>
+    <Francese>VITESSE TABLE PENDANT LE CYCLE D’EBAUCHAGE </Francese>
+    <Tedesco>TISCHGESCHW. IM SCHLICHTZYKLUS</Tedesco>
+    <Spagnolo>VELOCIDAD MESA EN EL CICLO DE DESBASTE
+</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>SKOROST STOLA V ChISTOVOM CIKLE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_VELOCITA PENDOLAMENTO FINITURA</PRJ>
+    <Italiano>VELOCITA' TAVOLA NEL CICLO DI FINITURA</Italiano>
+    <Inglese>TABLE SPEED IN ROUGHING CYCLE</Inglese>
+    <Francese>VITESSE TABLE PENDANT LE CYCLE DE FINISSAGE  </Francese>
+    <Tedesco>TISCHGESCHW. IM SCHRUPPZYKLUS</Tedesco>
+    <Spagnolo>
+VELOCIDAD MESA EN EL CICLO DE ACABADO 
+</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>SKOROST STOLA V ChERNOVOM CIKLE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_TIPO VELOCITA</PRJ>
+    <Italiano>MIX=VELOCITA' FISSA 1 IN SGROSSATURA VELOCITA' FISSA 2 IN FINITURA</Italiano>
+    <Inglese>MIX=FIXED SPEED 1 IN ROUGHING FIXED SPEED 2 IN FINISHING </Inglese>
+    <Francese>MIX=VITESSE FIXE 1 EN EBAUCHAGE  VITESSE FIXE  2 EN FINISSAGE</Francese>
+    <Tedesco>MIX=FESTE GESCHW. 1 BEI SCHRUPPEN FESTE GESCHW. 2 BEI SCHLICHTEN</Tedesco>
+    <Spagnolo>MIX=VELOCIDAD FIJA 1 DURANTE DESBASTE VELOCIDAD FIJA 2 DURANTE ACABADO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>KOMB. = FIKSIROVANNAYa SKOROST 1 PRI ChERNOVOM V FIKSIROVANNAYa SKOROST 2 PRI ChISTOVOM</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_QUOTA DI FUORI CORSA SE ASSE X ELETTRICO</PRJ>
+    <Italiano>VALORE QUOTA DI FUORI CORSA CON ASSE X ELETTRICO</Italiano>
+    <Inglese>OVERTRAVEL VALUE WITH ELECTRICAL X-AXIS </Inglese>
+    <Francese>VALEUR COTE HORS DE COURSE AVEC AXE X ELECTRIQUE</Francese>
+    <Tedesco>ÜBERFAHRWEG BEI ELEKTRISCHER X-ACHSE</Tedesco>
+    <Spagnolo>VALOR COTA DE FUERA DE CARRERA CON EJE X ELÉCTRICO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>PEREBEG S ELEKTRIChESKOJ OSYu X</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_PRIMA VELOCITA FISSA TAVOLA</PRJ>
+    <Italiano>VALORE IN % PRIMA VELOCITA' FISSA DELLA TAVOLA</Italiano>
+    <Inglese>VALUE IN % FIRST FIXED TABLE SPEED</Inglese>
+    <Francese>VALEUR EN % PREMIERE VITESSE FIXE DE LA TABLE </Francese>
+    <Tedesco>WERT IN % ERSTE FESTE TISCHGESCHW.
+</Tedesco>
+    <Spagnolo>VALOR EN % PRIMERA VELOCIDAD FIJA DE LA MESA</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>ZNAChENIE V % PERVOJ FIKSIROVANNOJ SKOROSTI STOLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_SECONDA VELOCITA FISSA TAVOLA</PRJ>
+    <Italiano>VALORE IN % SECONDA VELOCITA' FISSA DELLA TAVOLA</Italiano>
+    <Inglese>VALUE IN % SECOND FIXED TABLE SPEED</Inglese>
+    <Francese>VALEUR EN % SECONDE VITESSE FIXE DE LA TABLE</Francese>
+    <Tedesco>WERT IN % ZWEITE FESTE TISCHGESCHW.
+</Tedesco>
+    <Spagnolo>VALOR EN % SEGUNDA VELOCIDAD FIJA DE LA MESA</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>ZNAChENIE V % VTOROJ FIKSIROVANNOJ SKOROSTI STOLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PIANO</PRJ>
+    <Italiano>PIANO</Italiano>
+    <Inglese>SURFACE</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLÄCHE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>POVERHNOST</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DESCRIZIONE PIANO ATTIVO</PRJ>
+    <Italiano>DESCRIZIONE PIANO ATTIVO</Italiano>
+    <Inglese>DESCRIPTION OF ACTIVE SURFACE </Inglese>
+    <Francese>DESCRIPTION PLAN ACTIF</Francese>
+    <Tedesco>BESCHREIBUNG AKTIVER FLÄCHE
+</Tedesco>
+    <Spagnolo>DESCRIPCIÓN PLANO ACTIVO</Spagnolo>
+    <Svedese>PROGRAMMA ATTIVO</Svedese>
+    <Sloveno>PROGRAMMA ATTIVO</Sloveno>
+    <Portoghese>PROGRAMMA ATTIVO</Portoghese>
+    <Lingua09>OPISANIE AKTIVNYH POVERHNOSTEJ</Lingua09>
+    <Lingua10>PROGRAMMA ATTIVO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PENDOLAMENTO TAVOLA</PRJ>
+    <Italiano>(1) PENDOLAMENTO TAVOLA </Italiano>
+    <Inglese>(1) TABLE RECIPROCATION</Inglese>
+    <Francese>(1) BASCULEMENT TABLE 
+</Francese>
+    <Tedesco>(1) TISCHPENDELN</Tedesco>
+    <Spagnolo>(1) OSCILACIÓN MESA</Spagnolo>
+    <Svedese>(1) PROGRAMMA ATTIVO</Svedese>
+    <Sloveno>PROGRAMMA ATTIVO</Sloveno>
+    <Portoghese>PROGRAMMA ATTIVO</Portoghese>
+    <Lingua09>(1) VOZVRATNO-POSTUPATELNOE DVIZhENIE STOLA</Lingua09>
+    <Lingua10>PROGRAMMA ATTIVO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Quote Assi</PRJ>
+    <Italiano>Quote Assi</Italiano>
+    <Inglese>Axes values</Inglese>
+    <Francese>Cotes axes 
+</Francese>
+    <Tedesco>Achsmaße</Tedesco>
+    <Spagnolo>Cotas Ejes
+</Spagnolo>
+    <Svedese>PROGRAMMA ATTIVO</Svedese>
+    <Sloveno>PROGRAMMA ATTIVO</Sloveno>
+    <Portoghese>PROGRAMMA ATTIVO</Portoghese>
+    <Lingua09>Znacheniya osej</Lingua09>
+    <Lingua10>PROGRAMMA ATTIVO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Dati pendolamento asse X non corretti</PRJ>
+    <Italiano>Dati pendolamento asse X non corretti</Italiano>
+    <Inglese>X-AXIS RECIPROCATION DATA NOT CORRECT </Inglese>
+    <Francese>DONNEES BASCULEMENT AXE X PAS CORRECTES </Francese>
+    <Tedesco>PENDELDATEN IN X-ACHSE FALSCH </Tedesco>
+    <Spagnolo>DATOS INCORRECTOS DE OSCILACIÓN EJE X</Spagnolo>
+    <Svedese>Dati pendolamento asse X non corretti</Svedese>
+    <Sloveno>Dati pendolamento asse X non corretti</Sloveno>
+    <Portoghese>Dati pendolamento asse X non corretti</Portoghese>
+    <Lingua09>DANNYE VOZVRATNO-PUSTUPATELNOGO DVIZhENIYa OSI X NEVERNY</Lingua09>
+    <Lingua10>Dati pendolamento asse X non corretti</Lingua10>
+  </Traduzioni>
+</Pagina_001>

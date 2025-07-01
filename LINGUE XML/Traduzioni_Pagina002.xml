@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_002>
+  <Traduzioni>
+    <PRJ>PUNTO DI REFERENZA</PRJ>
+    <Italiano>PUNTO DI REFERENZA</Italiano>
+    <Inglese>REFERENCE POINT</Inglese>
+    <Francese>POINT DE RÉFÉRENCE</Francese>
+    <Tedesco>REFERENZPUNKT</Tedesco>
+    <Spagnolo>PUNTO DE REFERENCIA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>TOChKA PRIYaVYaZKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>POSIZIONE Y</PRJ>
+    <Italiano>POSIZIONE Y</Italiano>
+    <Inglese>POSITION Y</Inglese>
+    <Francese>POSITION  Y</Francese>
+    <Tedesco>POSITION Y</Tedesco>
+    <Spagnolo>POSICIóN Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POLOZhENIE Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>POSIZIONE Z</PRJ>
+    <Italiano>POSIZIONE Z</Italiano>
+    <Inglese>POSITION Z</Inglese>
+    <Francese>POSITION Z</Francese>
+    <Tedesco>POSITION Z</Tedesco>
+    <Spagnolo>POSICIóN Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POLOZhENIE Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>TIPO CICLO</PRJ>
+    <Italiano>TIPO CICLO</Italiano>
+    <Inglese>CYCLE TYPE</Inglese>
+    <Francese>TYPE CYCLE</Francese>
+    <Tedesco>ZYKLUS-TYP</Tedesco>
+    <Spagnolo>TIPO CICLO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>TIP CIKLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTE PENDOLAMENTO INIZIO Y</PRJ>
+    <Italiano>QUOTE PENDOLAMENTO INIZIO Y</Italiano>
+    <Inglese>RECIPROCATION SIZE BEGIN Y</Inglese>
+    <Francese>COTES OSCILLATION DÉBUT Y</Francese>
+    <Tedesco>PENDELMAß BEGINN Y</Tedesco>
+    <Spagnolo>COTAS OSCILACIóN SALIDA Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NAChALO RAZMERA VOZVRATNO-POSTUPATELNOGO DVIZhENIYa Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTE PENDOLAMENTO FINE Y</PRJ>
+    <Italiano>QUOTE PENDOLAMENTO FINE Y</Italiano>
+    <Inglese>RECIPROCATION SIZE END Y</Inglese>
+    <Francese>COTES OSCILLATION FIN Y</Francese>
+    <Tedesco>PENDELMAß ENDE Y</Tedesco>
+    <Spagnolo>COTAS OSCILACIóN TERM. Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KONEC RAZMERA VOZVRATNO-POSTUPATELNOGO DVIZhENIYa Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTE PENDOLAMENTO INIZIO Z</PRJ>
+    <Italiano>QUOTE PENDOLAMENTO INIZIO Z</Italiano>
+    <Inglese>RECIPROCATION SIZE BEGIN Z</Inglese>
+    <Francese>COTES OSCILLATION DÉBUT Z</Francese>
+    <Tedesco>PENDELMAß BEGINN Z</Tedesco>
+    <Spagnolo>COTAS OSCILACIóN SALIDA Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NAChALO RAZMERA VOZVRATNO-POSTUPATELNOGO DVIZhENIYa Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTE PENDOLAMENTO FINE Z</PRJ>
+    <Italiano>QUOTE PENDOLAMENTO FINE Z</Italiano>
+    <Inglese>RECIPROCATION SIZE END Z</Inglese>
+    <Francese>COTES OSCILLATION FIN Z</Francese>
+    <Tedesco>PENDELMAß ENDE Z</Tedesco>
+    <Spagnolo>COTAS OSCILACIóN TERM. Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KONEC RAZMERA VOZVRATNO-POSTUPATELNOGO DVIZhENIYa Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>LUNGHEZZA DEL TRATTO Y / Z</PRJ>
+    <Italiano>LUNGHEZZA DEL TRATTO Y / Z</Italiano>
+    <Inglese>WIDTH OF STEP Y / Z</Inglese>
+    <Francese>LONGUEUR DU SACCADE Y / Z</Francese>
+    <Tedesco>ZEILENBREITE IN Y / Z</Tedesco>
+    <Spagnolo>VALOR DEL SALTO Y / Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ShIRINA ShAGA Y / Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FASE SGROSSATURA VELOCITA DI PENDOLAMENTO</PRJ>
+    <Italiano>FASE SGROSSATURA VELOCITA' DI PENDOLAMENTO</Italiano>
+    <Inglese>ROUGHING STAGE RECIPROCATING SPEED</Inglese>
+    <Francese>PHASE ÉBAUCHE VITESSE OSCILLATION</Francese>
+    <Tedesco>SCHRUPP-PHASE PENDELGESCHWINDIGKEIT</Tedesco>
+    <Spagnolo>PERìOD DESBASTE VELOCIDAD OSCILACIóN</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChERNOVAYa STADIYa VOZVRATNO POSTUPATELNOJ SKOROSTI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FASE SGROSSATURA VELOCITA DI DIAMANTATURA</PRJ>
+    <Italiano>FASE SGROSSATURA VELOCITA' DI DIAMANTATURA</Italiano>
+    <Inglese>ROUGHING STAGE DRESSING SPEED</Inglese>
+    <Francese>PHASE ÉBAUCHE VITESSE DIAMANTAGE</Francese>
+    <Tedesco>SCHRUPP-PHASE ABRICHTENGESCHWINDIGKEIT</Tedesco>
+    <Spagnolo>PERìOD DESBASTE VELOCIDAD DIAMANTADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChERNOVAYa STADIYa VOZVRATNO POSTUPATELNOJ SKOROSTI PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FASE FINITURA VELOCITA DI PENDOLAMENTO</PRJ>
+    <Italiano>FASE FINITURA VELOCITA' DI PENDOLAMENTO</Italiano>
+    <Inglese>FINISHING STAGE RECIPROCATING SPEED</Inglese>
+    <Francese>PHASE FINITION VITESSE OSCILLATION</Francese>
+    <Tedesco>SCHLICHT-PHASE PENDELGESCHWINDIGKEIT</Tedesco>
+    <Spagnolo>PERìOD ACABADO VELOCIDAD OSCILACIóN</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVAYa STADIYa VOZVRATNO POSTUPATELNOJ SKOROSTI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FASE FINITURA VELOCITA DI DIAMANTATURA</PRJ>
+    <Italiano>FASE FINITURA VELOCITA' DI DIAMANTATURA</Italiano>
+    <Inglese>FINISHING STAGE DRESSING SPEED</Inglese>
+    <Francese>PHASE FINITION VITESSE DIAMANTAGE</Francese>
+    <Tedesco>SCHLICHT-PHASE ABRICHTENGESCHWINDIGKEIT</Tedesco>
+    <Spagnolo>PERìOD ACABADO VELOCIDAD DIAMANTADO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISTOVAYa STADIYa VOZVRATNO POSTUPATELNOJ SKOROSTI PRAVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>NUMERO PENDOLAMENTI X ATTESA ESTREMI</PRJ>
+    <Italiano>NUMERO PENDOLAMENTI X ATTESA ESTREMI</Italiano>
+    <Inglese>NUMBER OF RECIPROC. ON X WAITING AT ENDS</Inglese>
+    <Francese>N.OSCILLATION X ATTENTE EXTREMES</Francese>
+    <Tedesco>ANZ.PENDELN IN X WARTEN IN ENDSTELLUNG</Tedesco>
+    <Spagnolo>N.OSCILACIONES X ESPERA EXTREMOS</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOL-VO HODOV PO X V OZhIDANII V KONCE</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>STACCO INCREMENTALE Y</PRJ>
+    <Italiano>STACCO INCREMENTALE Y</Italiano>
+    <Inglese>IMPULSIVE MOVE-AWAY ON Y</Inglese>
+    <Francese>DEGAGEMENT RELATIF Y</Francese>
+    <Tedesco>INKREMENTALES ABHEBEN IN Y</Tedesco>
+    <Spagnolo>SEPARACIóN INCREMENTAL Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>IMPULSNOE PEREMEShENIE PO Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>STACCO INCREMENTALE Z</PRJ>
+    <Italiano>STACCO INCREMENTALE Z</Italiano>
+    <Inglese>IMPULSIVE MOVE-AWAY ON Z</Inglese>
+    <Francese>DEGAGEMENT RELATIF Z</Francese>
+    <Tedesco>INKREMENTALES ABHEBEN IN Z</Tedesco>
+    <Spagnolo>SEPARACIóN INCREMENTAL Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>IMPULSNOE PEREMEShENIE PO Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ATTIVA TESTINA VERTICALE</PRJ>
+    <Italiano>ATTIVA TESTINA VERTICALE</Italiano>
+    <Inglese>VERTICAL HEAD ACTIVATED</Inglese>
+    <Francese>ACTIVE PETITE TETE VERTICALE</Francese>
+    <Tedesco>AKTIVERUNG DES VERTIKALKOPFES</Tedesco>
+    <Spagnolo>ACTIVA CABECITA VERTICAL</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VERTIKALNAYa GOLOVKA AKTIVIROVANA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>TAVOLA ROTANTE</PRJ>
+    <Italiano>TAVOLA ROTANTE</Italiano>
+    <Inglese>ROTARY TABLE</Inglese>
+    <Francese>TABLE TOURNANTE</Francese>
+    <Tedesco>DREHTISCH</Tedesco>
+    <Spagnolo>ROTARY TABLE</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POVOROTNYJ STOL</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>1=SI; 0=NO</PRJ>
+    <Italiano>1=SI; 0=NO</Italiano>
+    <Inglese>1=YES; 0=NO</Inglese>
+    <Francese>1=OUI; 0=NO</Francese>
+    <Tedesco>1=JA; 0=NEIN</Tedesco>
+    <Spagnolo>1=SI; 0=NO</Spagnolo>
+    <Svedese>1=SI; 0=NO</Svedese>
+    <Sloveno>1=SI; 0=NO</Sloveno>
+    <Portoghese>1=SI; 0=NO</Portoghese>
+    <Lingua09>1 = DA; 0 = NET</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>2=RPM; 3=G96; 4=G961</PRJ>
+    <Italiano>2=RPM; 3=G96; 4=G961</Italiano>
+    <Inglese>2=RPM; 3=G96; 4=G961</Inglese>
+    <Francese>2=RPM; 3=G96; 4=G961</Francese>
+    <Tedesco>2=RPM; 3=G96; 4=G961</Tedesco>
+    <Spagnolo>2=RPM; 3=G96; 4=G961</Spagnolo>
+    <Svedese>2=RPM; 3=G96; 4=G961</Svedese>
+    <Sloveno>2=RPM; 3=G96; 4=G961</Sloveno>
+    <Portoghese>2=RPM; 3=G96; 4=G961</Portoghese>
+    <Lingua09></Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>0=TUFFO; 1=CONTINUO; 2=TRATTO; 3=MIX; 4=INTERP.Y/Z</PRJ>
+    <Italiano>0=TUFFO; 1=CONTINUO; 2=TRATTO; 3=MIX; 4=INTERP.Y/Z</Italiano>
+    <Inglese>0=PLUNGE; 1=CONTIN. ; 2=STEPWISE; 3=MIX; 4=INTERP.Y/Z</Inglese>
+    <Francese>0=PLONGEE; 1=CONTINU; 2=INTERMITTENCE; 3=MIX; 4=INTERP.Y/Z</Francese>
+    <Tedesco>0=EINSTECH.; 1=KONTI; 2=ZEILENW.; 3=MIX; 4=INTERP.Y/Z</Tedesco>
+    <Spagnolo>0=INMERSIÓN; 1=CONTINUO; 2=DISCONTINUO; 3=COMBINADO; 4=INTERP.Y/Z</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>0 = VREZNOE; 1 = PRODOLZh. ; 2 = ShAGOVYJ; 3 = KOMB; 4 = INTERP.Y/Z</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>1=1;2=2;3=-1;4=-2</PRJ>
+    <Italiano>1=1;2=2;3=-1;4=-2</Italiano>
+    <Inglese>1=1;2=2;3=-1;4=-2</Inglese>
+    <Francese>1=1;2=2;3=-1;4=-2</Francese>
+    <Tedesco>1=1;2=2;3=-1;4=-2</Tedesco>
+    <Spagnolo>1=1;2=2;3=-1;4=-2</Spagnolo>
+    <Svedese>1=1;2=2;3=-1;4=-2</Svedese>
+    <Sloveno>1=1;2=2;3=-1;4=-2</Sloveno>
+    <Portoghese>1=1;2=2;3=-1;4=-2</Portoghese>
+    <Lingua09>1=1;2=2;3=-1;4=-2</Lingua09>
+    <Lingua10>1=1;2=2;3=-1;4=-2</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_POSIZIONE Y</PRJ>
+    <Italiano>QUOTA ATTUALE ASSE Y</Italiano>
+    <Inglese>ACTUAL VALUE OF Y AXIS</Inglese>
+    <Francese>COTE ACTUELLE AXE Y</Francese>
+    <Tedesco>ISTMAß Y-ACHSE</Tedesco>
+    <Spagnolo>COTA ACTUAL EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>TEKUShEE ZNAChENIE OSI Y </Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_POSIZIONE Z</PRJ>
+    <Italiano>QUOTA ATTUALE ASSE Z</Italiano>
+    <Inglese>ACTUAL VALUE OF Z AXIS</Inglese>
+    <Francese>COTE ACTUELLE AXE Z</Francese>
+    <Tedesco>ISTMAß Z-ACHSE</Tedesco>
+    <Spagnolo>COTA ACTUAL EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>TEKUShEE ZNAChENIE OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_QUOTE PENDOLAMENTO INIZIO Y</PRJ>
+    <Italiano>VALORE INIZIO PENDOLAMENTO ASSE Y</Italiano>
+    <Inglese>VALUE OF RECIPROCATION START ON Y AXIS</Inglese>
+    <Francese>VALEUR DEBUT BASCULEMENT AXE Y </Francese>
+    <Tedesco>WERT PENDELBEGINN Y-ACHSE</Tedesco>
+    <Spagnolo>VALOR DE INICIO DE OSCILACIÓN DE EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE NAChALA VOZVRATNO –POSTUPATELNOGO DVIZhENIYa PO OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_QUOTE PENDOLAMENTO FINE Y</PRJ>
+    <Italiano>VALORE FINE PENDOLAMENTO ASSE Y</Italiano>
+    <Inglese>VALUE OF RECIPROCATION END ON Y AXIS</Inglese>
+    <Francese>VALEUR FIN BASCULEMENT AXE Y
+</Francese>
+    <Tedesco>WERT PENDELENDE Y-ACHSE</Tedesco>
+    <Spagnolo>VALOR DE FIN DE OSCILACIÓN DE EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE KONCA VOZVRATNO –POSTUPATELNOGO DVIZhENIYa PO OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_QUOTE PENDOLAMENTO INIZIO Z</PRJ>
+    <Italiano>VALORE INIZIO PENDOLAMENTO ASSE Z</Italiano>
+    <Inglese>VALUE OF RECIPROCATION START ON Z AXIS</Inglese>
+    <Francese>VALEUR DEBUT BASCULEMENT AXE Z</Francese>
+    <Tedesco>WERT PENDELBEGINN Z-ACHSE</Tedesco>
+    <Spagnolo>VALOR DE INICIO DE OSCILACIÓN DE EJE Z
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE NAChALA VOZVRATNO –POSTUPATELNOGO DVIZhENIYa PO OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_QUOTE PENDOLAMENTO FINE Z</PRJ>
+    <Italiano>VALORE FINE PENDOLAMENTO ASSE Z</Italiano>
+    <Inglese>VALUE OF RECIPROCATION END ON Z AXIS</Inglese>
+    <Francese>VALEUR FIN BASCULEMENT AXE Z
+</Francese>
+    <Tedesco>WERT PENDELBEGINN Z-ACHSE</Tedesco>
+    <Spagnolo>VALOR DE FIN DE OSCILACIÓN DE EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE KONCA VOZVRATNO –POSTUPATELNOGO DVIZhENIYa PO OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_LUNGHEZZA DEL TRATTO Y / Z</PRJ>
+    <Italiano>LUNGHEZZA MOVIMENTO A TRATTO DELL'ASSE IN LAVORO</Italiano>
+    <Inglese>STEP LENGTH OF GRINDING AXIS</Inglese>
+    <Francese>LONGUEUR MOUVEMENT INTERMITTENT DE L’AXE EN TRAVAIL </Francese>
+    <Tedesco>WERT PENDELENDE Y-ACHSE</Tedesco>
+    <Spagnolo>LONGITUD DE MOVIMIENTO DISCONTINUO DEL EJE DURANTE TRABAJO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ShAG DLINY ShLIFOVALNOJ OSI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_NUMERO PENDOLAMENTI X ATTESA ESTREMI</PRJ>
+    <Italiano>NUMERO PENDOLAMENTI ASSE X PER INVERSIONE PENDOLAMENTO ASSE</Italiano>
+    <Inglese>NUMBER OF X AXIS RECIPROCATION STROKES FOR AXIS RECIPROCATION REVERSE</Inglese>
+    <Francese>NOMBRE DE BASCULEMENTS AXE X POUR INVERSION BASCULEMENT AXE </Francese>
+    <Tedesco>PENDELANZAHL X-ACHSE ZUR PENDELACHS-UMSTEUERUNG</Tedesco>
+    <Spagnolo>
+CANTIDAD DE OSCILACIONES DEL EJE X PARA INVERSIÓN OSCILACIÓN EJE</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISLO PROHODOV OSI H</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_ATTIVA TESTINA VERTICALE</PRJ>
+    <Italiano>SI=ATTIVAZIONE TESTINA VERTICALE NO=DISATTIVAZIONE TESTINA VERTICALE</Italiano>
+    <Inglese>YES = ACTIVATION OF VERTICAL HEAD NO = DEACTIVATION OF VERTICAL HEAD </Inglese>
+    <Francese>OUI=ACTIVATION TETE VERTICALE NON=DESACTIVATION TETE VERTICALE </Francese>
+    <Tedesco>JA = AKTIVIERUNG VERTIKALKOPF NEIN = DEAKTIVIERUNG VERTIKALKOPF</Tedesco>
+    <Spagnolo>SÍ = ACTIVACIÓN CABEZAL VERTICAL NO = DESACTIVACIÓN CABEZAL VERTICAL</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DA = AKTIVACIYa VERTIKALNOJ GOLOVKI NET = DEAKTIVIZACIYa VERTIKALNOJ GOLOVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>TAVOLA ROTANTE TR1 / TR2</PRJ>
+    <Italiano>TAVOLA ROTANTE TR1 / TR2</Italiano>
+    <Inglese>ROTARY TABLE 1=TR1 / TR2</Inglese>
+    <Francese>TABLE TOURNANTE 1=TR1 / TR2</Francese>
+    <Tedesco>DREHTISCH 1=TR1 / TR2</Tedesco>
+    <Spagnolo>ROTARY TABLE 1=TR1 / TR2</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POVOROTNYJ STOL 1 = TR1 / TR2</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_TAVOLA ROTANTE TR1 / TR2</PRJ>
+    <Italiano>TAVOLA ROTANTE TR1 / TR2</Italiano>
+    <Inglese>ROTARY TABLE 1=TR1 / TR2</Inglese>
+    <Francese>TABLE TOURNANTE 1=TR1 / TR2</Francese>
+    <Tedesco>DREHTISCH 1=TR1 / TR2</Tedesco>
+    <Spagnolo>ROTARY TABLE 1=TR1 / TR2</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POVOROTNYJ STOL 1 = TR1 / TR2</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>VELOCITA DI TAGLIO TAVOLA ROTANTE</PRJ>
+    <Italiano>VELOCITA' DI TAGLIO TAVOLA ROTANTE</Italiano>
+    <Inglese>ROTARY TABLE CUTTING SPEED</Inglese>
+    <Francese>VITESSE DE COUPAGE TABLE TOURNANTE</Francese>
+    <Tedesco>DREHTISCH-SCHNITTGESCHWINDIGKEIT</Tedesco>
+    <Spagnolo>ROTARY TABLE CUTTING SPEED</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>SKOROST REZANIYa POVOROTNOGO STOLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_VELOCITA' DI TAGLIO TAVOLA ROTANTE</PRJ>
+    <Italiano>VELOCITA' DI TAGLIO TAVOLA ROTANTE</Italiano>
+    <Inglese>ROTARY TABLE CUTTING SPEED</Inglese>
+    <Francese>VITESSE DE COUPAGE TABLE TOURNANTE</Francese>
+    <Tedesco>DREHTISCH-SCHNITTGESCHWINDIGKEIT</Tedesco>
+    <Spagnolo>ROTARY TABLE CUTTING SPEED</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>SKOROST REZANIYa POVOROTNOGO STOLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MAX GIRI TAVOLA ROTANTE</PRJ>
+    <Italiano>MAX GIRI TAVOLA ROTANTE</Italiano>
+    <Inglese>MAX.ROTARY-TABLE REVOLUTIONS</Inglese>
+    <Francese>N. DE TOURS MAX TABLE TOURNANTE</Francese>
+    <Tedesco>MAX.DREHZAHLEN DES DREHTISCHES</Tedesco>
+    <Spagnolo>MAX.ROTARY-TABLE REVOLUTIONS</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>MAKS. SKOROST VRAShENIYa POVOROTNOGO STOLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_MAX GIRI TAVOLA ROTANTE</PRJ>
+    <Italiano>NUMERO MASSIMI GIRI TAVOLA ROTANTE</Italiano>
+    <Inglese>MAX. REVS. OF ROTARY TABLE</Inglese>
+    <Francese>NOMBRE DE TOURS MAXIMUM DE LA TABLE TOURNANTE </Francese>
+    <Tedesco>MAX. DREHZAHL DES DREHTISCHES</Tedesco>
+    <Spagnolo>CANTIDAD MÁXIMA DE REVOLUCIONES DE MESA GIRATORIA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>MAKS. OBOROTY POVOROTNOGO STOLA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>GIRI TAVOLA ROTANTE RPM</PRJ>
+    <Italiano>GIRI TAVOLA ROTANTE RPM</Italiano>
+    <Inglese>ROTARY TABLE REVOLUTIONS RPM</Inglese>
+    <Francese>TOURS TABLE TOURNANTE RPM</Francese>
+    <Tedesco>DREHZAHLEN DES DREHTISCHES RPM</Tedesco>
+    <Spagnolo>ROTARY TABLE REVOLUTIONS RPM</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>OBOROTY POVOROTNOGO STOLA OB/MIN</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_GIRI TAVOLA ROTANTE RPM</PRJ>
+    <Italiano>NUMERO GIRI TAVOLA ROTANTE CON CICLO 2=RPM</Italiano>
+    <Inglese>REVS. OF ROTARY TABLE WITH CYCLE 2=RPM</Inglese>
+    <Francese>NOMBRE DE TOURS TABLE TOURNANTE AVEC CYCLE 2=RPM</Francese>
+    <Tedesco>DREHZAHL DES DREHTISCHES BEI ZYKLUS 2=U/MIN</Tedesco>
+    <Spagnolo>CANTIDAD DE REVOLUCIONES DE MESA GIRATORIA CON CICLO 2=RPM</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>OBOROTY POVOROTNOGO STOLA S CIKLOM 2 = OB/MIN</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>GIRI INVERSIONE ASSE SU FINE PENDOLAMENTO</PRJ>
+    <Italiano>GIRI INVERSIONE ASSE SU FINE PENDOLAMENTO</Italiano>
+    <Inglese>TIME FOR AXIS REVERSE AT RECIRPOCATION END</Inglese>
+    <Francese>TEMPS INVERSION AXE SUR FIN OSCILLATION</Francese>
+    <Tedesco>HCHS-UMSTEUERZEIT BEI PENDELENDE</Tedesco>
+    <Spagnolo>TIME FOR AXIS REVERSE AT RECIRPOCATION END</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VREMYa DLYa OSI V KONCE HODA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_GIRI INVERSIONE ASSE SU FINE PENDOLAMENTO</PRJ>
+    <Italiano>NUMERO GIRI TAVOLA PER INVERSIONE ASSE IN PENDOLAMENTO</Italiano>
+    <Inglese>NUMBER OF TABLE REVS. FOR AXIS RECIPROCATION REVERSE </Inglese>
+    <Francese>NOMBRE DE TOURS TABLE POUR INVERSION AXE EN BASCULEMENT 
+</Francese>
+    <Tedesco>TISCH-DREHZAHL ZUR PENDELACHS-UMSTEUERUNG </Tedesco>
+    <Spagnolo>CANTIDAD DE REVOLUCIONES DE MESA PARA INVERSIÓN EJE A FINAL OSCILACIÓN</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ChISLO OBOROTOV STOLA DLYa OBRATNOGO HODA OSI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>GIRI INVERSIONE ASSE SU INIZIO PENDOLAMENTO</PRJ>
+    <Italiano>GIRI INVERSIONE ASSE SU INIZIO PENDOLAMENTO</Italiano>
+    <Inglese>TIME FOR AXIS REVERSE AT RECIPROCATION BEG.</Inglese>
+    <Francese>TEMPS INVERSION AXE SUR DEBUT OSCILLATION</Francese>
+    <Tedesco>HCHS-UMSTEUERZEIT BEI PENDELBEGINN</Tedesco>
+    <Spagnolo>TIME FOR AXIS REVERSE AT RECIPROCATION BEG.</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VREMYa DLYa VOZVRATA OSI V NAChALE HODA.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_GIRI INVERSIONE ASSE SU INIZIO PENDOLAMENTO</PRJ>
+    <Italiano>NUMERO GIRI TAVOLA PER INVERSIONE ASSE IN PENDOLAMENTO</Italiano>
+    <Inglese>NUMBER OF TABLE REVS. FOR AXIS RECIPROCATION REVERSE</Inglese>
+    <Francese>NOMBRE DE TOURS TABLE POUR INVERSION AXE EN BASCULEMENT 
+</Francese>
+    <Tedesco>TISCH-DREHZAHL ZUR PENDELACHS-UMSTEUERUNG 
+</Tedesco>
+    <Spagnolo>CANTIDAD DE REVOLUCIONES DE MESA PARA INVERSIÓN EJE A INICIO OSCILACIÓN
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOLIChESTVO OB. STOLA DLYa OBRATNOGO HODA OSI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ANGOLO POLARE RISPETTO ASSE Y</PRJ>
+    <Italiano>ANGOLO POLARE RISPETTO ASSE Y</Italiano>
+    <Inglese>POLAR ANGLE AS TO THE Y AXIS</Inglese>
+    <Francese>ANGLE POLAIRE PAR RAPPORT AXE Y</Francese>
+    <Tedesco>POLARWINKEL GEGENÜBER Y-ACHSE</Tedesco>
+    <Spagnolo>ANGULO POLAR RESPECTO A EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POLYaRNYJ UGOL OTNOSITELNO OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_ANGOLO POLARE RISPETTO ASSE Y</PRJ>
+    <Italiano>VALORE IN GRADI PER INCLINAZIONE RISPETTO ASSE Y</Italiano>
+    <Inglese>VALUE IN DEGREES FOR INCLINATION AS TO THE Y AXIS</Inglese>
+    <Francese>VALEUR EN DEGRES POUR INCLINAISON PAR RAPPORT A L’AXE Y 
+</Francese>
+    <Tedesco>WERT IN GRAD ZUR NEIGUNG GEGENÜBER Y-ACHSE
+</Tedesco>
+    <Spagnolo>VALOR EN GRADOS PARA INCLINACIÓN CON RESPECTO A EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE V GRADUSAH DLYa NAKLONA OTNOSITELNO OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>MODULO</PRJ>
+    <Italiano>MODULO</Italiano>
+    <Inglese>MODULE</Inglese>
+    <Francese>MODULE</Francese>
+    <Tedesco>MODUL</Tedesco>
+    <Spagnolo>MóDULO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>MODUL</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_MODULO</PRJ>
+    <Italiano>
+LUNGHEZZA PENDOLAMENTO ASSE Y</Italiano>
+    <Inglese>RECIPROCATION LENGTH OF Y AXIS</Inglese>
+    <Francese>LONGUEUR BASCULEMENT AXE Y </Francese>
+    <Tedesco>PENDELLÄNGE DER Y-ACHSE</Tedesco>
+    <Spagnolo>LONGITUD OSCILACIÓN EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>DLINA VOZVRATNO-POSTUPATELNOGO DVIZhENIYa OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>QUOTA V IN LAVORO</PRJ>
+    <Italiano>QUOTA V IN LAVORO</Italiano>
+    <Inglese>SIZE V FOR GRINDING</Inglese>
+    <Francese>COTE V EN TRAVAIL</Francese>
+    <Tedesco>MAß V BEIM SCHLEIFEN</Tedesco>
+    <Spagnolo>COTA V DE TRABAJO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>RAZMER V DLYa ShLIFOVANIYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_QUOTA V IN LAVORO</PRJ>
+    <Italiano>QUOTA IN GRADI ASSE V IN LAVORO</Italiano>
+    <Inglese>VALUE IN DEGREES OF V AXIS DURING GRINDING </Inglese>
+    <Francese>COTE EN DEGRES AXE V EN TRAVAIL </Francese>
+    <Tedesco>WERT IN GRAD DER V-ACHSE BEIM SCHLEIFEN</Tedesco>
+    <Spagnolo>COTA EN GRADOS DE EJE V DURANTE TRABAJO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ZNAChENIE V GRADUSAH OSI V VO VREMYa ShLIFOVANIYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>POSIZIONE CARTER IN LAVORO</PRJ>
+    <Italiano>POSIZIONE CARTER IN LAVORO</Italiano>
+    <Inglese>POSITION OF SAFEGUARD DURING GRINDING </Inglese>
+    <Francese>POSITION CARTER EN TRAVAIL </Francese>
+    <Tedesco>SCHUTZHAUBE-STELLUNG BEIM SCHLEIFEN</Tedesco>
+    <Spagnolo>POSICIÓN CÁRTER DURANTE TRABAJO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>POLOZhENIE ZAShITY VO VREMYa ShLIFOVANIYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_POSIZIONE CARTER IN LAVORO</PRJ>
+    <Italiano>0=AUTOMATICO 1=CARTER DESTRO 2=CARTER SINISTRO</Italiano>
+    <Inglese>0=AUTOMATIC 1=SAFEGUARD R.H. 2=SAFEGUARD L.H. </Inglese>
+    <Francese>0=AUTOMATIQUE 1=CARTER DROIT  2=CARTER GAUCHE 
+</Francese>
+    <Tedesco>0=AUTOMATIK 1=HAUBE RECHTS 2=HAUBE LINKS</Tedesco>
+    <Spagnolo>0=AUTOMÁTICO 1=CÁRTER DERECHO 2=CÁRTER IZQUIERDO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0 = AVTO 1 = ZAShITA SPRAVA 2 = ZAShITA SLEVA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>0=AUTO; 1=DX; 2=SX</PRJ>
+    <Italiano>0=AUTO; 1=DX; 2=SX</Italiano>
+    <Inglese>0=AUTO; 1=DX; 2=SX</Inglese>
+    <Francese>0=AUTO; 1=DX; 2=SX</Francese>
+    <Tedesco>0=AUTO; 1=DX; 2=SX</Tedesco>
+    <Spagnolo>0=AUTO; 1=DX; 2=SX</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0=AUTO; 1=DX; 2=SX</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PIANO</PRJ>
+    <Italiano>PIANO</Italiano>
+    <Inglese>SURFACE</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLÄCHE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese>PIANO</Svedese>
+    <Sloveno>PIANO</Sloveno>
+    <Portoghese>PIANO</Portoghese>
+    <Lingua09>POVERHNOST</Lingua09>
+    <Lingua10>PIANO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DESCRIZIONE PIANO ATTIVO</PRJ>
+    <Italiano>DESCRIZIONE PIANO ATTIVO</Italiano>
+    <Inglese>DESCRIPTION OF ACTIVE SURFACE</Inglese>
+    <Francese>DESCRIPTION PLAN ACTIF </Francese>
+    <Tedesco>BESCHREIBUNG AKTIVER FLÄCHE</Tedesco>
+    <Spagnolo>DESCRIPCIÓN PLANO ACTIVO</Spagnolo>
+    <Svedese>PROGRAMMA ATTIVO</Svedese>
+    <Sloveno>PROGRAMMA ATTIVO</Sloveno>
+    <Portoghese>PROGRAMMA ATTIVO</Portoghese>
+    <Lingua09>OPISANIE AKTIVNOJ POVERHNOSTI</Lingua09>
+    <Lingua10>PROGRAMMA ATTIVO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>SEMIAUTOMATICO</PRJ>
+    <Italiano>(2) SEMIAUTOMATICO </Italiano>
+    <Inglese>(2) SEMIAUTOMATIC</Inglese>
+    <Francese>(2) DEMI-AUTOMATIQUE </Francese>
+    <Tedesco>(2) HALBAUTOMATIK</Tedesco>
+    <Spagnolo>(2) SEMIAUTOMÁTICO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>(2) POLUAVTOMATIChESKIJ</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Quote Assi</PRJ>
+    <Italiano>Quote Assi</Italiano>
+    <Inglese>Axes values</Inglese>
+    <Francese>Cotes axes </Francese>
+    <Tedesco>Achsmaße</Tedesco>
+    <Spagnolo>Cotas Ejes</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>Znacheniya osej</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+</Pagina_002>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_020>
+  <Traduzioni>
+    <PRJ>IMPOSTAZIONI MACCHINA</PRJ>
+    <Italiano>IMPOSTAZIONI MACCHINA </Italiano>
+    <Inglese>MACHINE SETTINGS</Inglese>
+    <Francese>REGLAGES MACHINE</Francese>
+    <Tedesco>MASCHINEN-EINSTELLUNGEN</Tedesco>
+    <Spagnolo>AJUSTES MÁQUINA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>NASTROJKI STANKA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>LENTO TAVOLA 1--&gt;100%</PRJ>
+    <Italiano>LENTO TAVOLA 1--&gt;100%</Italiano>
+    <Inglese>SLOW TABLE 1--&gt;100%</Inglese>
+    <Francese>VITESSE LENTE TABLE 1--&gt;100% </Francese>
+    <Tedesco>LANGSAME TISCH-GESCHW. 1--&gt;100%</Tedesco>
+    <Spagnolo>LENTO MESA 1--&gt;100%</Spagnolo>
+    <Svedese>SLOW TABLE 1--&gt;100%</Svedese>
+    <Sloveno>SLOW TABLE 1--&gt;100%</Sloveno>
+    <Portoghese>SLOW TABLE 1--&gt;100%</Portoghese>
+    <Lingua09>MEDLENNYJ STOL 1 -&gt; 100%</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PRESET ASSE U</PRJ>
+    <Italiano>PRESET ASSE U</Italiano>
+    <Inglese>PRESET AXIS U</Inglese>
+    <Francese>PRECONFIGURATION AXE U</Francese>
+    <Tedesco>VOREINS. DER U-ACHSE</Tedesco>
+    <Spagnolo>PRESET EJE U
+</Spagnolo>
+    <Svedese>PRESET AXIS U</Svedese>
+    <Sloveno>PRESET AXIS U</Sloveno>
+    <Portoghese>PRESET AXIS U</Portoghese>
+    <Lingua09>PREDUSTANOVKA OSI U</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FEED RICERCA PEZZO</PRJ>
+    <Italiano>FEED RICERCA PEZZO</Italiano>
+    <Inglese>FEED SEARCH PIECE</Inglese>
+    <Francese>ENTRAIN. RECHERCHE PIECE</Francese>
+    <Tedesco>VORSCHUB BEI WERKSTUCK-REF.</Tedesco>
+    <Spagnolo>FEED BÚSQUEDA PIEZA</Spagnolo>
+    <Svedese>FEED SEARCH PIECE</Svedese>
+    <Sloveno>FEED SEARCH PIECE</Sloveno>
+    <Portoghese>FEED SEARCH PIECE</Portoghese>
+    <Lingua09>PODAChA POISK DETALI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FEED RICERCA DIAMANTATURA</PRJ>
+    <Italiano>FEED RICERCA DIAMANTATURA</Italiano>
+    <Inglese>FEED SEARCH DIAMANT.</Inglese>
+    <Francese>ENTRAIN. RECHERCHE DIAMANT</Francese>
+    <Tedesco>VORSCHUB BEI DIAMANT-REF.</Tedesco>
+    <Spagnolo>FEED BÚSQUEDA DIAMANTADO
+</Spagnolo>
+    <Svedese>FEED SEARCH DIAMANT.</Svedese>
+    <Sloveno>FEED SEARCH DIAMANT.</Sloveno>
+    <Portoghese>FEED SEARCH DIAMANT.</Portoghese>
+    <Lingua09>PODAChA POISKA ALMAZA
+
+</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>UNITA DI MISURA</PRJ>
+    <Italiano>UNITA' DI MISURA</Italiano>
+    <Inglese>MEASURING UNIT</Inglese>
+    <Francese>UNITE DE MESURE</Francese>
+    <Tedesco>MAßEINHEIT</Tedesco>
+    <Spagnolo>UNIDAD DE MEDIDA</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>IZMERITELNYJ MODUL</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>LINGUA</PRJ>
+    <Italiano>LINGUA</Italiano>
+    <Inglese>LANGUAGE</Inglese>
+    <Francese>LANGAGE</Francese>
+    <Tedesco>SPRACHE</Tedesco>
+    <Spagnolo>IDIOMA</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>YaZYK</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>info_PRESET ASSE U</PRJ>
+    <Italiano>PER CONVALIDARE IL VALORE PREMERE LA SOFTKEY CON IL SIMBOLOM DEL FULMINE</Italiano>
+    <Inglese>FOR CONFIRMING THE VALUE, PRESS THE SOFTKEY SHOWING THE FLASH SYMBOL</Inglese>
+    <Francese>POUR VALIDER LA VALEUR PRESSER LA TOUCHE DE FONCTION AVEC LE SYMBOLE DE FOUDRE </Francese>
+    <Tedesco>ZUR WERTBESTÄTIGUNG SOFTKEY MIT BLITZ-SYMBOL DRÜCKEN</Tedesco>
+    <Spagnolo>PARA CONVALIDAR EL VALOR APRETAR LA SOFTKEY CON EL SÍMBOLO DEL RAYO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>DLYa PODTVERZhDENIYa ZNAChENIYa NAZhMITE NA PROGRAMMNUYu KLAVIShU S MIGAYuShIM SIMVOLOM.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CONTAORE CENTRALINA (hh:mm:ss)</PRJ>
+    <Italiano>CONTAORE CENTRALINA (hh:mm:ss)</Italiano>
+    <Inglese>CONTAORE CENTRALINA (hh:mm:ss)</Inglese>
+    <Francese>UNITE DE COMPTEUR (hh:mm:ss)</Francese>
+    <Tedesco>ZAEHLEREINHEIT (hh:mm:ss)</Tedesco>
+    <Spagnolo>CONTAORE CENTRALINA (hh:mm:ss)</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>CONTAORE CENTRALINA</Lingua09>
+    <Lingua10>POČÍTADLO HODIN ŘÍDÍCÍ JEDNOTKY (hh:mm:ss)</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CONTAORE MOLA (hh:mm:ss)</PRJ>
+    <Italiano>CONTAORE MOLA (hh:mm:ss)</Italiano>
+    <Inglese>CONTAORE MOLA (hh:mm:ss)</Inglese>
+    <Francese>ROUE DE COMPTEUR (hh:mm:ss)</Francese>
+    <Tedesco>GEGENRAD (hh:mm:ss)</Tedesco>
+    <Spagnolo>CONTAORE MOLA (hh:mm:ss)</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>CONTAORE MOLA (hh:mm:ss)</Lingua09>
+    <Lingua10>CONTAORE MOLA (hh:mm:ss)</Lingua10>
+  </Traduzioni>
+</Pagina_020>

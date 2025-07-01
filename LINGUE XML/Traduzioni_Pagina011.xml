@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_011>
+  <Traduzioni>
+    <PRJ>0=NO; 1=si</PRJ>
+    <Italiano>1=SI; 0=NO</Italiano>
+    <Inglese>1=YES; 0=NO</Inglese>
+    <Francese>1=OUI; 0=NO</Francese>
+    <Tedesco>1=JA; 0=NIEN</Tedesco>
+    <Spagnolo>1=SI; 0=NO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0=NET; 1=DA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>COPIA PIANO</PRJ>
+    <Italiano>COPIA PIANO </Italiano>
+    <Inglese>SURFACE COPYING</Inglese>
+    <Francese>COPIER PLAN </Francese>
+    <Tedesco>FLÄCHE KOPIEREN</Tedesco>
+    <Spagnolo>COPIA PLANO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KOPIROVANIE POVERHNOSTI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>COPIA IL PIANO NUMERO</PRJ>
+    <Italiano>COPIA IL PIANO NUMERO </Italiano>
+    <Inglese>COPIES SURFACE NUMBER</Inglese>
+    <Francese>COPIE LE PLAN NUMÉRO</Francese>
+    <Tedesco>KOPIERT FLÄCHE Nr.</Tedesco>
+    <Spagnolo>COPIA EL PLANO NUMERO</Spagnolo>
+    <Svedese>POPIERAR YTA Nr.</Svedese>
+    <Sloveno>KOPIRAJ PLOSKEV ŠTEVILKO</Sloveno>
+    <Portoghese>N.º DE CÓPIAS DE PLANOS</Portoghese>
+    <Lingua09>KOPIYa NOMER POVERHNOSTI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>SUL PIANO NUMERO</PRJ>
+    <Italiano>SUL PIANO NUMERO</Italiano>
+    <Inglese>ON SURFACE NUMBER</Inglese>
+    <Francese>SUR LE PLAN NUMÉRO</Francese>
+    <Tedesco>AUF FLÄCHE Nr.</Tedesco>
+    <Spagnolo>SOBRE EL NUMERO</Spagnolo>
+    <Svedese>På YTA NR.</Svedese>
+    <Sloveno>NA PLOSKEV ŠTEVILKO</Sloveno>
+    <Portoghese />
+    <Lingua09>PO NOMERU POVERHNOSTI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>COPIA PARZIALE</PRJ>
+    <Italiano>COPIA PARZIALE</Italiano>
+    <Inglese>PARTIAL COPY</Inglese>
+    <Francese>COIE PARTIELLE</Francese>
+    <Tedesco>KOPIERT TEILWEISE</Tedesco>
+    <Spagnolo>COPIA PARCIAL</Spagnolo>
+    <Svedese>KOPIA SIDA</Svedese>
+    <Sloveno>DELNO KOPIRANJE</Sloveno>
+    <Portoghese>COPIA PARCIAL</Portoghese>
+    <Lingua09>ChASTIChNAYa KOPIYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCLUDERE ORIGINI ASSE Y</PRJ>
+    <Italiano>INCLUDERE ORIGINI ASSE Y</Italiano>
+    <Inglese>INCLUDE AXIS ORIGINS Y</Inglese>
+    <Francese>INCLURE ORIGINES AXE Y</Francese>
+    <Tedesco>ACHSNULLPUNKTE VORSEHEN Y</Tedesco>
+    <Spagnolo>INCLUIR ORÍGENES EJE Y</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VKLYuChIT PRIVYaZKU OSI Y
+
+</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCLUDERE ORIGINI ASSE Z</PRJ>
+    <Italiano>INCLUDERE ORIGINI ASSE Z</Italiano>
+    <Inglese>INCLUDE AXIS ORIGINS Z</Inglese>
+    <Francese>INCLURE ORIGINES AXE Z</Francese>
+    <Tedesco>ACHSNULLPUNKTE VORSEHEN Z</Tedesco>
+    <Spagnolo>INCLUIR ORÍGENES EJE Z</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VKLYuChIT PRIVYaZKU OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>INCLUDERE ORIGINI ASSE X</PRJ>
+    <Italiano>INCLUDERE ORIGINI ASSE X</Italiano>
+    <Inglese>INCLUDE AXIS ORIGINS X</Inglese>
+    <Francese>INCLURE ORIGINES AXE X</Francese>
+    <Tedesco>ACHSNULLPUNKTE VORSEHEN X</Tedesco>
+    <Spagnolo>INCLUIR ORÍGENES EJE X</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VKLYuChIT PRIVYaZKU OSI X</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>COPIA GLOBALE</PRJ>
+    <Italiano>COPIA GLOBALE</Italiano>
+    <Inglese>GLOBAL COPY</Inglese>
+    <Francese>COIE GLOBAL</Francese>
+    <Tedesco>KOPIERT GLOBAL</Tedesco>
+    <Spagnolo>GLOBAL COPY</Spagnolo>
+    <Svedese>GLOBAL COPY</Svedese>
+    <Sloveno>CELOTNO KOPIRANJE</Sloveno>
+    <Portoghese>COPIA GLOBAL</Portoghese>
+    <Lingua09>GLOBALNAYa KOPIYa</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>0=NO; 1=P1; 2=P2; 3=P3; 4=P4</PRJ>
+    <Italiano>0=NO; 1=P1; 2=P2; 3=P3; 4=P4 </Italiano>
+    <Inglese>0=NO; 1=P1; 2=P2; 3=P3; 4=P4</Inglese>
+    <Francese>0=NO; 1=P1; 2=P2; 3=P3; 4=P4</Francese>
+    <Tedesco>0=NIEN; 1=P1; 2=P2; 3=P3; 4=P4</Tedesco>
+    <Spagnolo>0=NO; 1=P1; 2=P2; 3=P3; 4=P4 ITA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>0 = NET; 1 = R1; 2 = R2; 3 = R3; 4 = R4</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Errore selezione piano destinazione</PRJ>
+    <Italiano>Errore selezione piano destinazione </Italiano>
+    <Inglese>Destination plain is wrong</Inglese>
+    <Francese>Errore selezione piano destinazione </Francese>
+    <Tedesco>Fehler bei wahl der Zielflache</Tedesco>
+    <Spagnolo>Errore selezione piano destinazione </Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Oshibka pri vybore celevoj poverhnosti.</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Copia su piano attivo non possibile</PRJ>
+    <Italiano>Copia su piano attivo non possibile </Italiano>
+    <Inglese>copy of active plain not possible</Inglese>
+    <Francese>Copia su piano attivo non possibile </Francese>
+    <Tedesco>Kopieren auf aktive flache unmoglich</Tedesco>
+    <Spagnolo>Copia su piano attivo non possibile </Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Kopirovanie na aktivnuyu poverhnost nevozmozhno</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Sorgente / destinazione uguali</PRJ>
+    <Italiano>Sorgente / destinazione uguali ITA</Italiano>
+    <Inglese>Sorgente / destinazione uguali ENG</Inglese>
+    <Francese>Sorgente / destinazione uguali FRA</Francese>
+    <Tedesco>Quelle/Ziel gleich</Tedesco>
+    <Spagnolo>Sorgente / destinazione uguali SPA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>Istochnik / Cel ekvivalentny</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>1=SI; 0=NO</PRJ>
+    <Italiano>1=SI; 0=NO</Italiano>
+    <Inglese>1=YES; 0=NO</Inglese>
+    <Francese>1=OUI; 0=NO</Francese>
+    <Tedesco>1=JA; 0=NIEN</Tedesco>
+    <Spagnolo>1=SI; 0=NO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>1=DA; 0=NET</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+<Traduzioni>
+    <PRJ>Errore selezione piano di destinazione Copia su piano attivo non possibile</PRJ>
+    <Italiano>1=SI; 0=NO</Italiano>
+    <Inglese>gggg</Inglese>
+    <Francese>1=OUI; 0=NO</Francese>
+    <Tedesco>1=JA; 0=NIEN</Tedesco>
+    <Spagnolo>1=SI; 0=NO</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>1=DA; 0=NET</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+</Pagina_011>

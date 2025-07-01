@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_062>
+  <Traduzioni>
+    <PRJ>CORREZIONE ORIGINI</PRJ>
+    <Italiano>CORREZIONE ORIGINI </Italiano>
+    <Inglese>ORIGIN CORRECTION </Inglese>
+    <Francese>CORRECTION DES ORIGINES</Francese>
+    <Tedesco>NULLPUNKTKORREKTUR</Tedesco>
+    <Spagnolo>CORRECCIÓN ORÍGENES</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>KORREKCIYa PRIVYaZKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Piano</PRJ>
+    <Italiano>Piano</Italiano>
+    <Inglese>SURFACE</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLÄCHE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese>YTA</Svedese>
+    <Sloveno>PLOSKEV</Sloveno>
+    <Portoghese>PLANO</Portoghese>
+    <Lingua09>POVERHNOST</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DESCRIZIONE PIANO ATTIVO</PRJ>
+    <Italiano>DESCRIZIONE PIANO ATTIVO</Italiano>
+    <Inglese>DESCRIPTION OF ACTIVE SURFACE </Inglese>
+    <Francese>DESCRIPTION PLAN ACTIF </Francese>
+    <Tedesco>BESCHREIBUNG AKTIVER FLÄCHE</Tedesco>
+    <Spagnolo>PROGRAMA ATTIVO</Spagnolo>
+    <Svedese>PROGRAMMA ATTIVO</Svedese>
+    <Sloveno>PROGRAMMA ATTIVO</Sloveno>
+    <Portoghese>PROGRAMMA ATTIVO</Portoghese>
+    <Lingua09>OPISANIE AKTIVNOJ POVERHNOSTI</Lingua09>
+    <Lingua10>PROGRAMMA ATTIVO</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>NUMERO PIANO</PRJ>
+    <Italiano>NUMERO PIANO</Italiano>
+    <Inglese>SURFACE NUMBER</Inglese>
+    <Francese>NUMÉRO PLAN</Francese>
+    <Tedesco>FLÄCHE Nr.</Tedesco>
+    <Spagnolo>NUMERO PLANO</Spagnolo>
+    <Svedese>YTA Nr.</Svedese>
+    <Sloveno>ŠTEVILKA PLOSKVE</Sloveno>
+    <Portoghese>NOMER POVERHNOSTI</Portoghese>
+    <Lingua09>ČÍSLO PLOCHY</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE ORIGINE LAVORO ASSE X</PRJ>
+    <Italiano>CORREZIONE ORIGINE LAVORO ASSE X</Italiano>
+    <Inglese>CORRECTION OF GRINDING ORIGIN ON X-AXIS</Inglese>
+    <Francese>CORRECTION ORIGINE TRAVAIL AXE-X</Francese>
+    <Tedesco>KORREKTUR VON SCHLEIF NULLPUNKT IN X-ACHSE</Tedesco>
+    <Spagnolo>CORRECIÓN ORIGEN TRABAJO EJE-X</Spagnolo>
+    <Svedese>SLIP - KORREKTUR X-AXEL</Svedese>
+    <Sloveno>ORIGIN ( ZAÈETEK ) - KOREKCIJA X_OSI</Sloveno>
+    <Portoghese>CORRECÇÃO DA ORIGEM DE TRABALHO NO EIXO X</Portoghese>
+    <Lingua09>KORREKCIYa PRIVYaZKI ShLIFOVANIYa PO OSI X</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE ORIGINE LAVORO ASSE Y</PRJ>
+    <Italiano>CORREZIONE ORIGINE LAVORO ASSE Y</Italiano>
+    <Inglese>CORRECTION OF GRINDING ORIGIN ON Y-AXIS</Inglese>
+    <Francese>CORRECTION ORIGINE TRAVAIL AXE-Y</Francese>
+    <Tedesco>KORREKTUR VON SCHLEIF NULLPUNKT IN Y-ACHSE</Tedesco>
+    <Spagnolo>CORRECIÓN ORIGEN TRABAJO EJE-Y</Spagnolo>
+    <Svedese>SLIP - KORREKTUR Y-AXEL</Svedese>
+    <Sloveno>ORIGIN ( ZAÈETEK ) - KOREKCIJA Y_OSI</Sloveno>
+    <Portoghese>CORRECÇÃO DA ORIGEM DE TRABALHO NO EIXO Y</Portoghese>
+    <Lingua09>KORREKCIYa PRIVYaZKI ShLIFOVANIYa PO OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE ORIGINE LAVORO ASSE Z</PRJ>
+    <Italiano>CORREZIONE ORIGINE LAVORO ASSE Z</Italiano>
+    <Inglese>CORRECTION OF GRINDING ORIGIN ON Z-AXIS</Inglese>
+    <Francese>CORRECTION ORIGINE TRAVAIL AXE-Z</Francese>
+    <Tedesco>KORREKTUR VON SCHLEIF NULLPUNKT IN Z-ACHSE</Tedesco>
+    <Spagnolo>CORRECIÓN ORIGEN TRABAJO EJE-Z</Spagnolo>
+    <Svedese>SLIP - KORREKTUR Z-AXEL</Svedese>
+    <Sloveno>ORIGIN ( ZAÈETEK ) - KOREKCIJA Z_OSI</Sloveno>
+    <Portoghese>CORRECÇÃO DA ORIGEM DE TRABALHO NO EIXO Z</Portoghese>
+    <Lingua09>KORREKCIYa PRIVYaZKI ShLIFOVANIYa PO OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE ORIGINE DIAMANTATURA ASSE X</PRJ>
+    <Italiano>CORREZIONE ORIGINE DIAMANTATURA ASSE X</Italiano>
+    <Inglese>CORRECTION OF DRESSING ORIGIN ON X-AXIS</Inglese>
+    <Francese>CORRECTION ORIGINE DIAMANTAGE AXE-X</Francese>
+    <Tedesco>KORREKTUR VON ABRICHT NULLPUNKT IN X-ACHSE</Tedesco>
+    <Spagnolo>CORRECIÓN ORIGINE DIAMANTAGE AXE-Y</Spagnolo>
+    <Svedese>JUSTERINGSINGS - SLIP - KORREKTUR X-AXEL</Svedese>
+    <Sloveno>PORAVNAVANJE - ORIGIN - KOREKCIJA X_OSI</Sloveno>
+    <Portoghese>KORREKCIYa PRIVYaZKI PRAVKI PO OSI X</Portoghese>
+    <Lingua09>KOREKCE VÝCHOZÍCH BODŮ OROVNÁNÍ DIAMANTEM OSY X</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE ORIGINE DIAMANTATURA ASSE Y</PRJ>
+    <Italiano>CORREZIONE ORIGINE DIAMANTATURA ASSE Y</Italiano>
+    <Inglese>CORRECTION OF DRESSING ORIGIN ON Y-AXIS</Inglese>
+    <Francese>CORRECTION ORIGINE DIAMANTAGE AXE-Y</Francese>
+    <Tedesco>KORREKTUR VON ABRICHT NULLPUNKT IN Y-ACHSE</Tedesco>
+    <Spagnolo>CORRECIÓN ORIGINE DIAMANTAGE AXE-Y</Spagnolo>
+    <Svedese>JUSTERINGSINGS - SLIP - KORREKTUR Y-AXEL</Svedese>
+    <Sloveno>PORAVNAVANJE - ORIGIN - KOREKCIJA Y_OSI</Sloveno>
+    <Portoghese>CORRECÇÃO DA ORIGINE DE DIAMANTADURA NO EIXO Y</Portoghese>
+    <Lingua09>KORREKCIYa PRIVYaZKI PRAVKI PO OSI Y</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE ORIGINE DIAMANTATURA ASSE Z</PRJ>
+    <Italiano>CORREZIONE ORIGINE DIAMANTATURA ASSE Z</Italiano>
+    <Inglese>CORRECTION OF DRESSING ORIGIN ON Z-AXIS</Inglese>
+    <Francese>CORRECTION ORIGINE DIAMANTAGE AXE-Z</Francese>
+    <Tedesco>KORREKTUR VON ABRICHT NULLPUNKT IN Z-ACHSE</Tedesco>
+    <Spagnolo>CORRECIÓN ORIGINE DIAMANTAGE AXE-Z</Spagnolo>
+    <Svedese>JUSTERINGSINGS - SLIP - KORREKTUR Z-AXEL</Svedese>
+    <Sloveno>PORAVNAVANJE - ORIGIN - KOREKCIJA Z_OSI</Sloveno>
+    <Portoghese>CORRECÇÃO DA ORIGINE DE DIAMANTADURA NO EIXO Z</Portoghese>
+    <Lingua09>KORREKCIYa PRIVYaZKI PRAVKI PO OSI Z</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE DIAMANTATURA CON TESTA VERTICALE ASSE X</PRJ>
+    <Italiano>CORREZIONE ORIGINE DIAMANTATURA CON TESTA VERTICALE ASSE X</Italiano>
+    <Inglese>CORRECTION OF DRESSING ON  X-AXIS FOR VERTICAL HEAD</Inglese>
+    <Francese>CORRECTION DIAMANTAGE AVEC TÊTE VERTICALE AXE-X</Francese>
+    <Tedesco>
+KORREKTUR BEI ABRICHTEN AN VERTIKALKOPF IN X-ACHSE</Tedesco>
+    <Spagnolo>CORRECIÓN DIAMANTADO CON CABEZA VERTICAL EJE-X </Spagnolo>
+    <Svedese>VERTIKALHUVUD: JUSTERINGSINGS - KORREKTUR X-AXEL</Svedese>
+    <Sloveno>NAVPIÈNA GLAVA - PORAVNAVANJE - KOREKCIJA X_OSI</Sloveno>
+    <Portoghese>CORRECÇÃO DA DIAMANT COM CABEÇA VERTICAL NO EIXO X</Portoghese>
+    <Lingua09>KORREKCIYa PRAVKI PO OSI X DLYa VERTIKALNOJ GOLOVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE DIAMANTATURA CON TESTA VERTICALE ASSE Y</PRJ>
+    <Italiano>CORREZIONE ORIGINE DIAMANTATURA CON TESTA VERTICALE ASSE Y</Italiano>
+    <Inglese>CORRECTION OF DRESSING ON  Y-AXIS FOR VERTICAL HEAD</Inglese>
+    <Francese>CORRECTION DIAMANTAGE AVEC TÊTE VERTICALE AXE-Y</Francese>
+    <Tedesco>
+KORREKTUR BEI ABRICHTEN AN VERTIKALKOPF IN Y-ACHSE</Tedesco>
+    <Spagnolo>CORRECIÓN DIAMANTADO CON CABEZA VERTICAL EJE-Y</Spagnolo>
+    <Svedese>VERTIKALHUVUD: JUSTERINGSINGS - KORREKTUR Y-AXEL</Svedese>
+    <Sloveno>NAVPIÈNA GLAVA - PORAVNAVANJE - KOREKCIJA Y_OSI</Sloveno>
+    <Portoghese>CORRECÇÃO DA DIAMANT COM CABEÇA VERTICAL NO EIXO Y</Portoghese>
+    <Lingua09>KORREKCIYa PRAVKI PO OSI Y DLYa VERTIKALNOJ GOLOVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CORREZIONE DIAMANTATURA CON TESTA VERTICALE ASSE Z</PRJ>
+    <Italiano>CORREZIONE ORIGINE DIAMANTATURA CON TESTA VERTICALE ASSE Z</Italiano>
+    <Inglese>CORRECTION OF DRESSING ON  Z-AXIS FOR VERTICAL HEAD</Inglese>
+    <Francese>CORRECTION DIAMANTAGE AVEC TÊTE VERTICALE AXE-Z</Francese>
+    <Tedesco>
+KORREKTUR BEI ABRICHTEN AN VERTIKALKOPF IN Z-ACHSE</Tedesco>
+    <Spagnolo>CORRECIÓN DIAMANTADO CON CABEZA VERTICAL EJE-Z</Spagnolo>
+    <Svedese>VERTIKALHUVUD: JUSTERINGSINGS - KORREKTUR Z-AXEL</Svedese>
+    <Sloveno>NAVPIÈNA GLAVA - PORAVNAVANJE - KOREKCIJA Z_OSI</Sloveno>
+    <Portoghese>CORRECÇÃO DA DIAMANT COM CABEÇA VERTICAL NO EIXO Z</Portoghese>
+    <Lingua09>KORREKCIYa PRAVKI PO OSI Z DLYa VERTIKALNOJ GOLOVKI</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+</Pagina_062>

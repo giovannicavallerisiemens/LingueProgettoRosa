@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pagina_006>
+  <Traduzioni>
+    <PRJ>LUNGHEZZA RADIALE MOLA</PRJ>
+    <Italiano>LUNGHEZZA RADIALE MOLA</Italiano>
+    <Inglese>WHEEL RADIUS HEIGHT</Inglese>
+    <Francese>LONGUEUR RADIALE</Francese>
+    <Tedesco>HALBMESSER-LÄNGE</Tedesco>
+    <Spagnolo>LONGITUD RADIAL</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>VYSOTA RADIUSA KRUGA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CONSUMO MOLA RADIALE</PRJ>
+    <Italiano>CONSUMO MOLA RADIALE</Italiano>
+    <Inglese>RADIAL WHEEL WEAR</Inglese>
+    <Francese>USURE MEULE RADIALE</Francese>
+    <Tedesco>SCHEIBENVERSCHLEIB AM HALBMESSER</Tedesco>
+    <Spagnolo>DESGASTE MUELA RADIAL</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>RADIALNYJ IZNOS KRUGA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FASCIA MOLA</PRJ>
+    <Italiano>FASCIA MOLA</Italiano>
+    <Inglese>WHEEL WIDTH</Inglese>
+    <Francese>BANDE (LARGEUR) MEULE</Francese>
+    <Tedesco>SCHEIBENBREITE</Tedesco>
+    <Spagnolo>CARA (ANCHURA) MUELA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ShIRINA KRUGA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CONSUMO MOLA SINISTRA</PRJ>
+    <Italiano>CONSUMO MOLA SINISTRA</Italiano>
+    <Inglese>WEAR ON WHEEL LEFT</Inglese>
+    <Francese>USURE MEULE GAUCHE</Francese>
+    <Tedesco>SLIPSKIVESLITAGE VÄNSTER</Tedesco>
+    <Spagnolo>DESGASTE MUELA IZQUIERDA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>IZNOS KRUGA SLEVA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CONSUMO MOLA DESTRA</PRJ>
+    <Italiano>CONSUMO MOLA DESTRA</Italiano>
+    <Inglese>WEAR ON WHEEL RIGHT</Inglese>
+    <Francese>USURE MEULE DROITE</Francese>
+    <Tedesco>SLIPSKIVESLITAGE HÖGER</Tedesco>
+    <Spagnolo>DESGASTE MUELA DERECHA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>IZNOS KRUGA SLEVA SPRAVA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>LUNGHEZZA RADIALE MOLETTA </PRJ>
+    <Italiano>LUNGHEZZA RADIALE MOLETTA </Italiano>
+    <Inglese>RADIAL HEIGHT OF VERTICAL WHEEL</Inglese>
+    <Francese>LONGUER RADIALE MOLETTE</Francese>
+    <Tedesco>HALBMESSER-LÄNGE AN KLEINER SCHEIBE</Tedesco>
+    <Spagnolo>LONGITUD RADIAL MUELITA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>RADIALNAYa VYSOTA VERTIKALNOGO KRUGA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CONSUMO MOLETTA RADIALE</PRJ>
+    <Italiano>CONSUMO MOLETTA RADIALE</Italiano>
+    <Inglese>ADIAL HEIGHT OF VERTICAL WHEEL</Inglese>
+    <Francese>LONGUER RADIALE MOLETTE</Francese>
+    <Tedesco>HALBMESSER-VERSHLEIB AN KLEINER SCHEIBE</Tedesco>
+    <Spagnolo>DESGASTE MUELITA RADIA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>RADIALNAYa VYSOTA VERTIKALNOGO KRUGA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>FASCIA MOLETTA</PRJ>
+    <Italiano>FASCIA MOLETTA</Italiano>
+    <Inglese>WIDTH OF VERTICAL WHEEL</Inglese>
+    <Francese>BANDE (LARGEUR) MOLETTE</Francese>
+    <Tedesco>BREITE DER KLEINEN SCHEIBE</Tedesco>
+    <Spagnolo>CARA (ANCHURA) MUELITA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>ShIRINA VERTIKALNOGO KRUGA
+
+</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CONSUMO MOLETTA SINISTRA</PRJ>
+    <Italiano>CONSUMO MOLETTA SINISTRA</Italiano>
+    <Inglese>WEAR ON VERTICAL WHEEL LEFT</Inglese>
+    <Francese>USURE MOLETTE GAUCHE</Francese>
+    <Tedesco>VERSCHLEIB LINKS AN KLEINER SCHEIBE</Tedesco>
+    <Spagnolo>DESGASTE MUELITA IZQUIERDA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>IZNOS NA VERTIKALNOM KRUGE SLEVA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>CONSUMO MOLETTA DESTRA</PRJ>
+    <Italiano>CONSUMO MOLETTA DESTRA</Italiano>
+    <Inglese>WEAR ON VERTICAL WHEEL RIGHT</Inglese>
+    <Francese>USURE MOLETTE DROITE</Francese>
+    <Tedesco>VERSCHLEIB RECHTS AN KLEINER SCHEIBE</Tedesco>
+    <Spagnolo>DESGASTE MUELITA DERECHA</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>IZNOS NA VERTIKALNOE KRUGE SPRAVA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ANGOLO COSTA 1</PRJ>
+    <Italiano>ANGOLO COSTA 1</Italiano>
+    <Inglese>LEFT BAND ANGLE 1</Inglese>
+    <Francese>ANGLE CÔTE 1</Francese>
+    <Tedesco>STEGWINKEL 1</Tedesco>
+    <Spagnolo>ANGULO CARA 1</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>LEVOJ UGOL 1</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>ANGOLO COSTA 2</PRJ>
+    <Italiano>ANGOLO COSTA 2</Italiano>
+    <Inglese>LEFT BAND ANGLE 2</Inglese>
+    <Francese>ANGLE CÔTE 2</Francese>
+    <Tedesco>STEGWINKEL 2</Tedesco>
+    <Spagnolo>ANGULO CARA 2</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>LEVOJ UGOL 2</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>VELOCITA TAGLIO MOLA</PRJ>
+    <Italiano>VELOCITA TAGLIO MOLA</Italiano>
+    <Inglese>WHEEL CUTTING SPEED</Inglese>
+    <Francese>VITESSE DE COUPE MEULE</Francese>
+    <Tedesco>SCHLEIFSCHEIBEN  SCHNITTGESCHWINDIGKEIT</Tedesco>
+    <Spagnolo>VELOCIDAD DE CORTE MUELA
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>SKOROST REZANIYa KRUGA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>VELOCITA TAGLIO MOLETTA</PRJ>
+    <Italiano>VELOCITA TAGLIO MOLETTA</Italiano>
+    <Inglese>SMALL WHELL CUTTING SPEED</Inglese>
+    <Francese>VITESSE DE COUPE PETITE MEULE</Francese>
+    <Tedesco>KLEIN - SCHLEIFSCHEIBEN - SCHNITTGESCHW. </Tedesco>
+    <Spagnolo>VELOCIDAD DE CORTE MUELA ABRASIVA
+</Spagnolo>
+    <Svedese />
+    <Sloveno />
+    <Portoghese />
+    <Lingua09>SKOROST REZANIYa MALOGO KRUGA</Lingua09>
+    <Lingua10 />
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>PIANO</PRJ>
+    <Italiano>PIANO</Italiano>
+    <Inglese>SURFACE</Inglese>
+    <Francese>PLAN</Francese>
+    <Tedesco>FLÄCHE</Tedesco>
+    <Spagnolo>PLANO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>POVERHNOST</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DESCRIZIONE PIANO ATTIVO</PRJ>
+    <Italiano>DESCRIZIONE PIANO ATTIVO</Italiano>
+    <Inglese>DESCRIPTION OF ACTIVE SURFACE</Inglese>
+    <Francese>DESCRIPTION PLAN ACTIF </Francese>
+    <Tedesco>BESCHREIBUNG AKTIVER FLÄCHE</Tedesco>
+    <Spagnolo>DESCRIPCIÓN PLANO ACTIVO</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>OPISANIE AKTIVNOJ POVERHNOSTI</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>DATI MOLA</PRJ>
+    <Italiano>(6) DATI MOLA</Italiano>
+    <Inglese>(6) WHEEL DATA</Inglese>
+    <Francese>(6) DONNEES DE LA MEULE</Francese>
+    <Tedesco>(6) SCHLEIFSCHEIBENDATEN</Tedesco>
+    <Spagnolo>(6) DATOS DE MUELA</Spagnolo>
+    <Svedese>DATI MOLA</Svedese>
+    <Sloveno>DATI MOLA</Sloveno>
+    <Portoghese>DATI MOLA</Portoghese>
+    <Lingua09>(6) DANNYE KRUGA</Lingua09>
+    <Lingua10>DATI MOLA</Lingua10>
+  </Traduzioni>
+  <Traduzioni>
+    <PRJ>Quote Assi</PRJ>
+    <Italiano>Quote Assi</Italiano>
+    <Inglese>Axes values</Inglese>
+    <Francese>Cotes axes </Francese>
+    <Tedesco>Achsmaße</Tedesco>
+    <Spagnolo>Cotas Ejes</Spagnolo>
+    <Svedese></Svedese>
+    <Sloveno></Sloveno>
+    <Portoghese></Portoghese>
+    <Lingua09>Znacheniya osej</Lingua09>
+    <Lingua10></Lingua10>
+  </Traduzioni>
+</Pagina_006>
